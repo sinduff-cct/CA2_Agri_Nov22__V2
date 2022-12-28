@@ -1,0 +1,3936 @@
+agriprod,Unit,Country,Year,Value,Description,Dairy,Eggs,Honey,Meat
+Meat,T,BE,2016,5502,Meat of livestock,0,0,0,1
+Meat,T,BE,2017,7321,Meat of livestock,0,0,0,1
+Meat,T,BE,2018,8708,Meat of livestock,0,0,0,1
+Meat,T,BE,2019,9601,Meat of livestock,0,0,0,1
+Meat,T,BE,2020,10364,Meat of livestock,0,0,0,1
+Meat,T,BG,2012,0,Meat of livestock,0,0,0,1
+Meat,T,BG,2013,0,Meat of livestock,0,0,0,1
+Meat,T,BG,2014,0,Meat of livestock,0,0,0,1
+Meat,T,BG,2015,0,Meat of livestock,0,0,0,1
+Meat,T,BG,2016,373,Meat of livestock,0,0,0,1
+Meat,T,BG,2017,212,Meat of livestock,0,0,0,1
+Meat,T,BG,2018,969,Meat of livestock,0,0,0,1
+Meat,T,BG,2019,187,Meat of livestock,0,0,0,1
+Meat,T,BG,2020,151,Meat of livestock,0,0,0,1
+Meat,T,CY,2013,10,Meat of livestock,0,0,0,1
+Meat,T,CY,2014,15,Meat of livestock,0,0,0,1
+Meat,T,CY,2015,19,Meat of livestock,0,0,0,1
+Meat,T,CY,2016,22,Meat of livestock,0,0,0,1
+Meat,T,CY,2017,23,Meat of livestock,0,0,0,1
+Meat,T,CY,2018,28,Meat of livestock,0,0,0,1
+Meat,T,CY,2019,17,Meat of livestock,0,0,0,1
+Meat,T,CY,2020,13,Meat of livestock,0,0,0,1
+Meat,T,CZ,2012,10097,Meat of livestock,0,0,0,1
+Meat,T,CZ,2013,10329,Meat of livestock,0,0,0,1
+Meat,T,CZ,2014,6674,Meat of livestock,0,0,0,1
+Meat,T,CZ,2015,6719,Meat of livestock,0,0,0,1
+Meat,T,CZ,2016,6752,Meat of livestock,0,0,0,1
+Meat,T,CZ,2017,6697,Meat of livestock,0,0,0,1
+Meat,T,CZ,2018,7291,Meat of livestock,0,0,0,1
+Meat,T,CZ,2019,7867,Meat of livestock,0,0,0,1
+Meat,T,CZ,2020,8197,Meat of livestock,0,0,0,1
+Meat,T,DK,2012,14500,Meat of livestock,0,0,0,1
+Meat,T,DK,2013,14229,Meat of livestock,0,0,0,1
+Meat,T,DK,2015,14305,Meat of livestock,0,0,0,1
+Meat,T,DK,2016,16818,Meat of livestock,0,0,0,1
+Meat,T,DK,2017,16254,Meat of livestock,0,0,0,1
+Meat,T,DK,2018,6643,Meat of livestock,0,0,0,1
+Meat,T,DK,2019,17835,Meat of livestock,0,0,0,1
+Meat,T,DK,2020,18224,Meat of livestock,0,0,0,1
+Meat,T,EE,2012,1400,Meat of livestock,0,0,0,1
+Meat,T,EE,2013,1634,Meat of livestock,0,0,0,1
+Meat,T,EE,2014,1804,Meat of livestock,0,0,0,1
+Meat,T,EE,2015,2221,Meat of livestock,0,0,0,1
+Meat,T,EE,2016,2209,Meat of livestock,0,0,0,1
+Meat,T,EE,2017,2878,Meat of livestock,0,0,0,1
+Meat,T,EE,2018,3404,Meat of livestock,0,0,0,1
+Meat,T,EE,2019,2636,Meat of livestock,0,0,0,1
+Meat,T,EE,2020,5024,Meat of livestock,0,0,0,1
+Meat,T,EL,2012,814,Meat of livestock,0,0,0,1
+Meat,T,EL,2013,521,Meat of livestock,0,0,0,1
+Meat,T,EL,2014,610,Meat of livestock,0,0,0,1
+Meat,T,EL,2015,874,Meat of livestock,0,0,0,1
+Meat,T,EL,2016,675,Meat of livestock,0,0,0,1
+Meat,T,EL,2017,801,Meat of livestock,0,0,0,1
+Meat,T,EL,2018,839,Meat of livestock,0,0,0,1
+Meat,T,EL,2019,977,Meat of livestock,0,0,0,1
+Meat,T,EL,2020,925,Meat of livestock,0,0,0,1
+Meat,T,ES,2012,26661,Meat of livestock,0,0,0,1
+Meat,T,ES,2013,24250,Meat of livestock,0,0,0,1
+Meat,T,ES,2014,24601,Meat of livestock,0,0,0,1
+Meat,T,ES,2015,28849,Meat of livestock,0,0,0,1
+Meat,T,ES,2016,26487,Meat of livestock,0,0,0,1
+Meat,T,ES,2017,26417,Meat of livestock,0,0,0,1
+Meat,T,ES,2018,35803,Meat of livestock,0,0,0,1
+Meat,T,ES,2019,41265,Meat of livestock,0,0,0,1
+Meat,T,ES,2020,38668,Meat of livestock,0,0,0,1
+Meat,T,FI,2012,2260,Meat of livestock,0,0,0,1
+Meat,T,FI,2013,2870,Meat of livestock,0,0,0,1
+Meat,T,FI,2014,3100,Meat of livestock,0,0,0,1
+Meat,T,FI,2015,4150,Meat of livestock,0,0,0,1
+Meat,T,FI,2016,4360,Meat of livestock,0,0,0,1
+Meat,T,FI,2017,3780,Meat of livestock,0,0,0,1
+Meat,T,FI,2018,3710,Meat of livestock,0,0,0,1
+Meat,T,FI,2019,3770,Meat of livestock,0,0,0,1
+Meat,T,FI,2020,4420,Meat of livestock,0,0,0,1
+Meat,T,FR,2012,32763,Meat of livestock,0,0,0,1
+Meat,T,FR,2014,41773,Meat of livestock,0,0,0,1
+Meat,T,FR,2015,44769,Meat of livestock,0,0,0,1
+Meat,T,FR,2016,50175,Meat of livestock,0,0,0,1
+Meat,T,FR,2017,55694,Meat of livestock,0,0,0,1
+Meat,T,FR,2018,68948,Meat of livestock,0,0,0,1
+Meat,T,FR,2019,78808,Meat of livestock,0,0,0,1
+Meat,T,FR,2020,85092,Meat of livestock,0,0,0,1
+Meat,T,HR,2012,5,Meat of livestock,0,0,0,1
+Meat,T,HR,2013,9,Meat of livestock,0,0,0,1
+Meat,T,HR,2014,109,Meat of livestock,0,0,0,1
+Meat,T,HR,2015,1225,Meat of livestock,0,0,0,1
+Meat,T,HR,2016,1774,Meat of livestock,0,0,0,1
+Meat,T,HR,2017,1725,Meat of livestock,0,0,0,1
+Meat,T,HR,2018,2311,Meat of livestock,0,0,0,1
+Meat,T,HR,2019,2602,Meat of livestock,0,0,0,1
+Meat,T,HR,2020,2835,Meat of livestock,0,0,0,1
+Meat,T,HU,2012,906,Meat of livestock,0,0,0,1
+Meat,T,HU,2013,894,Meat of livestock,0,0,0,1
+Meat,T,HU,2014,982,Meat of livestock,0,0,0,1
+Meat,T,HU,2015,888,Meat of livestock,0,0,0,1
+Meat,T,HU,2016,1376,Meat of livestock,0,0,0,1
+Meat,T,HU,2017,1123,Meat of livestock,0,0,0,1
+Meat,T,HU,2018,1110,Meat of livestock,0,0,0,1
+Meat,T,HU,2019,1812,Meat of livestock,0,0,0,1
+Meat,T,HU,2020,1621,Meat of livestock,0,0,0,1
+Meat,T,IE,2013,943,Meat of livestock,0,0,0,1
+Meat,T,IE,2014,1139,Meat of livestock,0,0,0,1
+Meat,T,IE,2015,1337,Meat of livestock,0,0,0,1
+Meat,T,IE,2016,1555,Meat of livestock,0,0,0,1
+Meat,T,IE,2017,1550,Meat of livestock,0,0,0,1
+Meat,T,IE,2018,2361,Meat of livestock,0,0,0,1
+Meat,T,IE,2019,2338,Meat of livestock,0,0,0,1
+Meat,T,IE,2020,2227,Meat of livestock,0,0,0,1
+Meat,T,IS,2018,23,Meat of livestock,0,0,0,1
+Meat,T,IS,2019,29,Meat of livestock,0,0,0,1
+Meat,T,IS,2020,11,Meat of livestock,0,0,0,1
+Meat,T,IT,2014,73555,Meat of livestock,0,0,0,1
+Meat,T,IT,2015,54927,Meat of livestock,0,0,0,1
+Meat,T,IT,2016,99073,Meat of livestock,0,0,0,1
+Meat,T,IT,2017,52039,Meat of livestock,0,0,0,1
+Meat,T,IT,2020,91159,Meat of livestock,0,0,0,1
+Meat,T,LT,2012,1655,Meat of livestock,0,0,0,1
+Meat,T,LT,2013,2798,Meat of livestock,0,0,0,1
+Meat,T,LT,2014,3758,Meat of livestock,0,0,0,1
+Meat,T,LT,2015,4060,Meat of livestock,0,0,0,1
+Meat,T,LT,2016,284,Meat of livestock,0,0,0,1
+Meat,T,LT,2017,365,Meat of livestock,0,0,0,1
+Meat,T,LT,2018,803,Meat of livestock,0,0,0,1
+Meat,T,LT,2019,1098,Meat of livestock,0,0,0,1
+Meat,T,LT,2020,1697,Meat of livestock,0,0,0,1
+Meat,T,LU,2013,135,Meat of livestock,0,0,0,1
+Meat,T,LU,2014,127,Meat of livestock,0,0,0,1
+Meat,T,LU,2015,120,Meat of livestock,0,0,0,1
+Meat,T,LU,2016,145,Meat of livestock,0,0,0,1
+Meat,T,LU,2017,150,Meat of livestock,0,0,0,1
+Meat,T,LU,2018,187,Meat of livestock,0,0,0,1
+Meat,T,LU,2019,290,Meat of livestock,0,0,0,1
+Meat,T,LU,2020,308,Meat of livestock,0,0,0,1
+Meat,T,LV,2012,3234,Meat of livestock,0,0,0,1
+Meat,T,LV,2013,3463,Meat of livestock,0,0,0,1
+Meat,T,LV,2014,2784,Meat of livestock,0,0,0,1
+Meat,T,LV,2015,2700,Meat of livestock,0,0,0,1
+Meat,T,LV,2016,1582,Meat of livestock,0,0,0,1
+Meat,T,LV,2017,1604,Meat of livestock,0,0,0,1
+Meat,T,LV,2018,1629,Meat of livestock,0,0,0,1
+Meat,T,LV,2019,1283,Meat of livestock,0,0,0,1
+Meat,T,LV,2020,1533,Meat of livestock,0,0,0,1
+Meat,T,MK,2013,0,Meat of livestock,0,0,0,1
+Meat,T,MK,2014,0,Meat of livestock,0,0,0,1
+Meat,T,MK,2015,0,Meat of livestock,0,0,0,1
+Meat,T,MK,2016,0,Meat of livestock,0,0,0,1
+Meat,T,MK,2017,0,Meat of livestock,0,0,0,1
+Meat,T,MK,2018,0,Meat of livestock,0,0,0,1
+Meat,T,MK,2019,0,Meat of livestock,0,0,0,1
+Meat,T,MK,2020,0,Meat of livestock,0,0,0,1
+Meat,T,MT,2012,0,Meat of livestock,0,0,0,1
+Meat,T,MT,2013,0,Meat of livestock,0,0,0,1
+Meat,T,MT,2014,0,Meat of livestock,0,0,0,1
+Meat,T,MT,2015,0,Meat of livestock,0,0,0,1
+Meat,T,MT,2016,0,Meat of livestock,0,0,0,1
+Meat,T,MT,2017,0,Meat of livestock,0,0,0,1
+Meat,T,MT,2018,0,Meat of livestock,0,0,0,1
+Meat,T,MT,2019,0,Meat of livestock,0,0,0,1
+Meat,T,MT,2020,0,Meat of livestock,0,0,0,1
+Meat,T,NL,2013,12417,Meat of livestock,0,0,0,1
+Meat,T,NL,2014,9750,Meat of livestock,0,0,0,1
+Meat,T,NL,2015,8961,Meat of livestock,0,0,0,1
+Meat,T,NL,2016,9547,Meat of livestock,0,0,0,1
+Meat,T,NL,2017,11380,Meat of livestock,0,0,0,1
+Meat,T,NL,2018,11976,Meat of livestock,0,0,0,1
+Meat,T,NL,2019,13278,Meat of livestock,0,0,0,1
+Meat,T,NL,2020,13168,Meat of livestock,0,0,0,1
+Meat,T,NO,2012,2147,Meat of livestock,0,0,0,1
+Meat,T,NO,2013,2381,Meat of livestock,0,0,0,1
+Meat,T,NO,2014,2439,Meat of livestock,0,0,0,1
+Meat,T,NO,2015,2442,Meat of livestock,0,0,0,1
+Meat,T,NO,2016,2630,Meat of livestock,0,0,0,1
+Meat,T,NO,2017,3013,Meat of livestock,0,0,0,1
+Meat,T,NO,2018,3101,Meat of livestock,0,0,0,1
+Meat,T,NO,2019,2849,Meat of livestock,0,0,0,1
+Meat,T,NO,2020,3088,Meat of livestock,0,0,0,1
+Meat,T,PL,2012,146,Meat of livestock,0,0,0,1
+Meat,T,PL,2013,150,Meat of livestock,0,0,0,1
+Meat,T,PL,2014,24,Meat of livestock,0,0,0,1
+Meat,T,PL,2015,3,Meat of livestock,0,0,0,1
+Meat,T,PL,2016,8,Meat of livestock,0,0,0,1
+Meat,T,PL,2017,2,Meat of livestock,0,0,0,1
+Meat,T,PL,2018,0,Meat of livestock,0,0,0,1
+Meat,T,PL,2019,23,Meat of livestock,0,0,0,1
+Meat,T,PL,2020,49,Meat of livestock,0,0,0,1
+Meat,T,RO,2012,1,Meat of livestock,0,0,0,1
+Meat,T,RO,2013,6,Meat of livestock,0,0,0,1
+Meat,T,RO,2014,0,Meat of livestock,0,0,0,1
+Meat,T,RO,2015,0,Meat of livestock,0,0,0,1
+Meat,T,RO,2016,0,Meat of livestock,0,0,0,1
+Meat,T,RO,2017,1,Meat of livestock,0,0,0,1
+Meat,T,RO,2018,8,Meat of livestock,0,0,0,1
+Meat,T,RO,2019,26,Meat of livestock,0,0,0,1
+Meat,T,RO,2020,5,Meat of livestock,0,0,0,1
+Meat,T,RS,2013,0,Meat of livestock,0,0,0,1
+Meat,T,RS,2014,3,Meat of livestock,0,0,0,1
+Meat,T,RS,2015,60,Meat of livestock,0,0,0,1
+Meat,T,RS,2016,65,Meat of livestock,0,0,0,1
+Meat,T,RS,2017,27,Meat of livestock,0,0,0,1
+Meat,T,RS,2018,14,Meat of livestock,0,0,0,1
+Meat,T,RS,2019,44,Meat of livestock,0,0,0,1
+Meat,T,RS,2020,23,Meat of livestock,0,0,0,1
+Meat,T,SE,2013,23668,Meat of livestock,0,0,0,1
+Meat,T,SE,2014,24593,Meat of livestock,0,0,0,1
+Meat,T,SE,2015,25075,Meat of livestock,0,0,0,1
+Meat,T,SE,2016,26568,Meat of livestock,0,0,0,1
+Meat,T,SE,2017,26877,Meat of livestock,0,0,0,1
+Meat,T,SE,2018,29750,Meat of livestock,0,0,0,1
+Meat,T,SE,2019,30914,Meat of livestock,0,0,0,1
+Meat,T,SE,2020,30820,Meat of livestock,0,0,0,1
+Meat,T,SI,2012,295,Meat of livestock,0,0,0,1
+Meat,T,SI,2014,200,Meat of livestock,0,0,0,1
+Meat,T,SI,2015,152,Meat of livestock,0,0,0,1
+Meat,T,SI,2016,324,Meat of livestock,0,0,0,1
+Meat,T,SI,2017,327,Meat of livestock,0,0,0,1
+Meat,T,SI,2018,410,Meat of livestock,0,0,0,1
+Meat,T,SI,2019,330,Meat of livestock,0,0,0,1
+Meat,T,SI,2020,309,Meat of livestock,0,0,0,1
+Meat,T,SK,2012,32,Meat of livestock,0,0,0,1
+Meat,T,SK,2013,73,Meat of livestock,0,0,0,1
+Meat,T,SK,2014,137,Meat of livestock,0,0,0,1
+Meat,T,SK,2015,130,Meat of livestock,0,0,0,1
+Meat,T,SK,2016,175,Meat of livestock,0,0,0,1
+Meat,T,SK,2017,237,Meat of livestock,0,0,0,1
+Meat,T,SK,2018,66,Meat of livestock,0,0,0,1
+Meat,T,SK,2019,53,Meat of livestock,0,0,0,1
+Meat,T,SK,2020,256,Meat of livestock,0,0,0,1
+Meat,T,TR,2013,4970,Meat of livestock,0,0,0,1
+Meat,T,TR,2014,2107,Meat of livestock,0,0,0,1
+Meat,T,TR,2015,2605,Meat of livestock,0,0,0,1
+Meat,T,TR,2016,1609,Meat of livestock,0,0,0,1
+Meat,T,TR,2017,1352,Meat of livestock,0,0,0,1
+Meat,T,TR,2018,1688,Meat of livestock,0,0,0,1
+Meat,T,TR,2019,819,Meat of livestock,0,0,0,1
+Meat,T,TR,2020,756,Meat of livestock,0,0,0,1
+Meat,T,UK,2012,32200,Meat of livestock,0,0,0,1
+Meat,T,UK,2013,54100,Meat of livestock,0,0,0,1
+Meat,T,UK,2014,49700,Meat of livestock,0,0,0,1
+Meat,T,UK,2015,46400,Meat of livestock,0,0,0,1
+Meat,T,UK,2016,47200,Meat of livestock,0,0,0,1
+Meat,T,UK,2017,53000,Meat of livestock,0,0,0,1
+Meat,T,UK,2018,53800,Meat of livestock,0,0,0,1
+Meat,T,UK,2019,42500,Meat of livestock,0,0,0,1
+Meat,T,BE,2016,918,Bovine meat,0,0,0,1
+Meat,T,BE,2017,1976,Bovine meat,0,0,0,1
+Meat,T,BE,2018,2015,Bovine meat,0,0,0,1
+Meat,T,BE,2019,2207,Bovine meat,0,0,0,1
+Meat,T,BE,2020,1877,Bovine meat,0,0,0,1
+Meat,T,BG,2012,0,Bovine meat,0,0,0,1
+Meat,T,BG,2014,0,Bovine meat,0,0,0,1
+Meat,T,BG,2015,0,Bovine meat,0,0,0,1
+Meat,T,BG,2016,263,Bovine meat,0,0,0,1
+Meat,T,BG,2017,152,Bovine meat,0,0,0,1
+Meat,T,BG,2018,866,Bovine meat,0,0,0,1
+Meat,T,BG,2019,140,Bovine meat,0,0,0,1
+Meat,T,BG,2020,111,Bovine meat,0,0,0,1
+Meat,T,BG,2021,105,Bovine meat,0,0,0,1
+Meat,T,CY,2012,0,Bovine meat,0,0,0,1
+Meat,T,CY,2013,0,Bovine meat,0,0,0,1
+Meat,T,CY,2019,0,Bovine meat,0,0,0,1
+Meat,T,CY,2020,0,Bovine meat,0,0,0,1
+Meat,T,CY,2021,0,Bovine meat,0,0,0,1
+Meat,T,CZ,2012,9268,Bovine meat,0,0,0,1
+Meat,T,CZ,2013,9460,Bovine meat,0,0,0,1
+Meat,T,CZ,2014,5841,Bovine meat,0,0,0,1
+Meat,T,CZ,2015,5938,Bovine meat,0,0,0,1
+Meat,T,CZ,2016,6063,Bovine meat,0,0,0,1
+Meat,T,CZ,2017,6027,Bovine meat,0,0,0,1
+Meat,T,CZ,2018,6547,Bovine meat,0,0,0,1
+Meat,T,CZ,2019,7095,Bovine meat,0,0,0,1
+Meat,T,CZ,2020,7441,Bovine meat,0,0,0,1
+Meat,T,CZ,2021,8224,Bovine meat,0,0,0,1
+Meat,T,DK,2012,5956,Bovine meat,0,0,0,1
+Meat,T,DK,2013,6226,Bovine meat,0,0,0,1
+Meat,T,DK,2014,6160,Bovine meat,0,0,0,1
+Meat,T,DK,2015,5175,Bovine meat,0,0,0,1
+Meat,T,DK,2016,5502,Bovine meat,0,0,0,1
+Meat,T,DK,2017,5764,Bovine meat,0,0,0,1
+Meat,T,DK,2018,6643,Bovine meat,0,0,0,1
+Meat,T,DK,2019,6827,Bovine meat,0,0,0,1
+Meat,T,DK,2020,7414,Bovine meat,0,0,0,1
+Meat,T,EE,2012,1083,Bovine meat,0,0,0,1
+Meat,T,EE,2013,1346,Bovine meat,0,0,0,1
+Meat,T,EE,2014,1516,Bovine meat,0,0,0,1
+Meat,T,EE,2015,1945,Bovine meat,0,0,0,1
+Meat,T,EE,2016,1853,Bovine meat,0,0,0,1
+Meat,T,EE,2017,2523,Bovine meat,0,0,0,1
+Meat,T,EE,2018,3071,Bovine meat,0,0,0,1
+Meat,T,EE,2019,2273,Bovine meat,0,0,0,1
+Meat,T,EE,2020,4714,Bovine meat,0,0,0,1
+Meat,T,EE,2021,3323,Bovine meat,0,0,0,1
+Meat,T,ES,2012,16457,Bovine meat,0,0,0,1
+Meat,T,ES,2013,14240,Bovine meat,0,0,0,1
+Meat,T,ES,2014,15090,Bovine meat,0,0,0,1
+Meat,T,ES,2015,18072,Bovine meat,0,0,0,1
+Meat,T,ES,2016,15911,Bovine meat,0,0,0,1
+Meat,T,ES,2017,16641,Bovine meat,0,0,0,1
+Meat,T,ES,2018,23004,Bovine meat,0,0,0,1
+Meat,T,ES,2019,26091,Bovine meat,0,0,0,1
+Meat,T,ES,2020,23326,Bovine meat,0,0,0,1
+Meat,T,ES,2021,28249,Bovine meat,0,0,0,1
+Meat,T,FI,2012,1710,Bovine meat,0,0,0,1
+Meat,T,FI,2013,1960,Bovine meat,0,0,0,1
+Meat,T,FI,2014,2130,Bovine meat,0,0,0,1
+Meat,T,FI,2015,2950,Bovine meat,0,0,0,1
+Meat,T,FI,2016,2910,Bovine meat,0,0,0,1
+Meat,T,FI,2017,2620,Bovine meat,0,0,0,1
+Meat,T,FI,2018,2610,Bovine meat,0,0,0,1
+Meat,T,FI,2019,2670,Bovine meat,0,0,0,1
+Meat,T,FI,2020,3350,Bovine meat,0,0,0,1
+Meat,T,FR,2012,12705,Bovine meat,0,0,0,1
+Meat,T,FR,2014,16783,Bovine meat,0,0,0,1
+Meat,T,FR,2015,18906,Bovine meat,0,0,0,1
+Meat,T,FR,2016,22441,Bovine meat,0,0,0,1
+Meat,T,FR,2017,24949,Bovine meat,0,0,0,1
+Meat,T,FR,2018,29388,Bovine meat,0,0,0,1
+Meat,T,FR,2019,31973,Bovine meat,0,0,0,1
+Meat,T,FR,2020,35448,Bovine meat,0,0,0,1
+Meat,T,HR,2014,75,Bovine meat,0,0,0,1
+Meat,T,HR,2015,811,Bovine meat,0,0,0,1
+Meat,T,HR,2016,1100,Bovine meat,0,0,0,1
+Meat,T,HR,2017,1133,Bovine meat,0,0,0,1
+Meat,T,HR,2018,1456,Bovine meat,0,0,0,1
+Meat,T,HR,2019,1358,Bovine meat,0,0,0,1
+Meat,T,HR,2020,1857,Bovine meat,0,0,0,1
+Meat,T,HR,2021,2153,Bovine meat,0,0,0,1
+Meat,T,HU,2012,443,Bovine meat,0,0,0,1
+Meat,T,HU,2013,431,Bovine meat,0,0,0,1
+Meat,T,HU,2021,1435,Bovine meat,0,0,0,1
+Meat,T,IE,2017,1135,Bovine meat,0,0,0,1
+Meat,T,IE,2019,1782,Bovine meat,0,0,0,1
+Meat,T,IE,2020,1756,Bovine meat,0,0,0,1
+Meat,T,IE,2021,1506,Bovine meat,0,0,0,1
+Meat,T,IS,2019,0,Bovine meat,0,0,0,1
+Meat,T,IT,2014,44585,Bovine meat,0,0,0,1
+Meat,T,IT,2015,25264,Bovine meat,0,0,0,1
+Meat,T,LT,2012,1441,Bovine meat,0,0,0,1
+Meat,T,LT,2013,2514,Bovine meat,0,0,0,1
+Meat,T,LT,2014,3526,Bovine meat,0,0,0,1
+Meat,T,LT,2015,2757,Bovine meat,0,0,0,1
+Meat,T,LT,2016,,Bovine meat,0,0,0,1
+Meat,T,LT,2017,,Bovine meat,0,0,0,1
+Meat,T,LT,2018,,Bovine meat,0,0,0,1
+Meat,T,LT,2019,,Bovine meat,0,0,0,1
+Meat,T,LT,2020,1688,Bovine meat,0,0,0,1
+Meat,T,LT,2021,2153,Bovine meat,0,0,0,1
+Meat,T,LU,2013,67,Bovine meat,0,0,0,1
+Meat,T,LU,2014,69,Bovine meat,0,0,0,1
+Meat,T,LU,2015,66,Bovine meat,0,0,0,1
+Meat,T,LU,2016,88,Bovine meat,0,0,0,1
+Meat,T,LU,2017,90,Bovine meat,0,0,0,1
+Meat,T,LU,2018,116,Bovine meat,0,0,0,1
+Meat,T,LU,2019,226,Bovine meat,0,0,0,1
+Meat,T,LU,2020,243,Bovine meat,0,0,0,1
+Meat,T,LU,2021,259,Bovine meat,0,0,0,1
+Meat,T,LV,2012,2826,Bovine meat,0,0,0,1
+Meat,T,LV,2013,3083,Bovine meat,0,0,0,1
+Meat,T,LV,2014,2480,Bovine meat,0,0,0,1
+Meat,T,LV,2015,2368,Bovine meat,0,0,0,1
+Meat,T,ME,2021,5,Bovine meat,0,0,0,1
+Meat,T,MK,2013,0,Bovine meat,0,0,0,1
+Meat,T,MK,2014,0,Bovine meat,0,0,0,1
+Meat,T,MT,2012,0,Bovine meat,0,0,0,1
+Meat,T,MT,2014,0,Bovine meat,0,0,0,1
+Meat,T,MT,2015,0,Bovine meat,0,0,0,1
+Meat,T,MT,2016,0,Bovine meat,0,0,0,1
+Meat,T,MT,2017,0,Bovine meat,0,0,0,1
+Meat,T,MT,2018,0,Bovine meat,0,0,0,1
+Meat,T,MT,2021,0,Bovine meat,0,0,0,1
+Meat,T,NL,2012,3070,Bovine meat,0,0,0,1
+Meat,T,NL,2013,2862,Bovine meat,0,0,0,1
+Meat,T,NL,2014,2736,Bovine meat,0,0,0,1
+Meat,T,NL,2015,2076,Bovine meat,0,0,0,1
+Meat,T,NL,2016,2237,Bovine meat,0,0,0,1
+Meat,T,NL,2017,2378,Bovine meat,0,0,0,1
+Meat,T,NL,2018,2410,Bovine meat,0,0,0,1
+Meat,T,NL,2019,2384,Bovine meat,0,0,0,1
+Meat,T,NL,2020,2519,Bovine meat,0,0,0,1
+Meat,T,NL,2021,2674,Bovine meat,0,0,0,1
+Meat,T,NO,2012,1104,Bovine meat,0,0,0,1
+Meat,T,NO,2013,1237,Bovine meat,0,0,0,1
+Meat,T,NO,2014,1273,Bovine meat,0,0,0,1
+Meat,T,NO,2015,1379,Bovine meat,0,0,0,1
+Meat,T,NO,2016,1485,Bovine meat,0,0,0,1
+Meat,T,NO,2017,1583,Bovine meat,0,0,0,1
+Meat,T,NO,2018,1603,Bovine meat,0,0,0,1
+Meat,T,NO,2019,1382,Bovine meat,0,0,0,1
+Meat,T,NO,2020,1448,Bovine meat,0,0,0,1
+Meat,T,PL,2019,0,Bovine meat,0,0,0,1
+Meat,T,RO,2014,0,Bovine meat,0,0,0,1
+Meat,T,RO,2016,0,Bovine meat,0,0,0,1
+Meat,T,RO,2020,0,Bovine meat,0,0,0,1
+Meat,T,RO,2021,14,Bovine meat,0,0,0,1
+Meat,T,RS,2016,60,Bovine meat,0,0,0,1
+Meat,T,RS,2017,27,Bovine meat,0,0,0,1
+Meat,T,RS,2018,11,Bovine meat,0,0,0,1
+Meat,T,RS,2019,30,Bovine meat,0,0,0,1
+Meat,T,SE,2013,18398,Bovine meat,0,0,0,1
+Meat,T,SE,2014,19103,Bovine meat,0,0,0,1
+Meat,T,SE,2015,18887,Bovine meat,0,0,0,1
+Meat,T,SE,2016,19088,Bovine meat,0,0,0,1
+Meat,T,SE,2017,19290,Bovine meat,0,0,0,1
+Meat,T,SE,2018,21806,Bovine meat,0,0,0,1
+Meat,T,SE,2019,22382,Bovine meat,0,0,0,1
+Meat,T,SE,2020,21853,Bovine meat,0,0,0,1
+Meat,T,SE,2021,20752,Bovine meat,0,0,0,1
+Meat,T,SI,2012,268,Bovine meat,0,0,0,1
+Meat,T,SI,2014,177,Bovine meat,0,0,0,1
+Meat,T,SI,2015,128,Bovine meat,0,0,0,1
+Meat,T,SK,2013,70,Bovine meat,0,0,0,1
+Meat,T,SK,2015,128,Bovine meat,0,0,0,1
+Meat,T,SK,2016,175,Bovine meat,0,0,0,1
+Meat,T,SK,2017,36,Bovine meat,0,0,0,1
+Meat,T,TR,2013,3126,Bovine meat,0,0,0,1
+Meat,T,TR,2014,231,Bovine meat,0,0,0,1
+Meat,T,TR,2015,459,Bovine meat,0,0,0,1
+Meat,T,TR,2016,74,Bovine meat,0,0,0,1
+Meat,T,TR,2017,86,Bovine meat,0,0,0,1
+Meat,T,TR,2018,362,Bovine meat,0,0,0,1
+Meat,T,TR,2019,122,Bovine meat,0,0,0,1
+Meat,T,TR,2021,911,Bovine meat,0,0,0,1
+Meat,T,UK,2012,21500,Bovine meat,0,0,0,1
+Meat,T,UK,2013,30700,Bovine meat,0,0,0,1
+Meat,T,UK,2014,28500,Bovine meat,0,0,0,1
+Meat,T,UK,2015,27800,Bovine meat,0,0,0,1
+Meat,T,UK,2016,26800,Bovine meat,0,0,0,1
+Meat,T,UK,2017,30300,Bovine meat,0,0,0,1
+Meat,T,UK,2018,31600,Bovine meat,0,0,0,1
+Meat,T,UK,2019,24000,Bovine meat,0,0,0,1
+Meat,T,BE,2016,909,Pigmeat ,0,0,0,1
+Meat,T,BE,2017,1189,Pigmeat ,0,0,0,1
+Meat,T,BE,2018,1297,Pigmeat ,0,0,0,1
+Meat,T,BE,2019,1322,Pigmeat ,0,0,0,1
+Meat,T,BE,2020,1630,Pigmeat ,0,0,0,1
+Meat,T,BG,2012,0,Pigmeat ,0,0,0,1
+Meat,T,BG,2014,0,Pigmeat ,0,0,0,1
+Meat,T,BG,2015,0,Pigmeat ,0,0,0,1
+Meat,T,BG,2016,8,Pigmeat ,0,0,0,1
+Meat,T,BG,2017,7,Pigmeat ,0,0,0,1
+Meat,T,BG,2018,0,Pigmeat ,0,0,0,1
+Meat,T,BG,2019,4,Pigmeat ,0,0,0,1
+Meat,T,BG,2020,0,Pigmeat ,0,0,0,1
+Meat,T,BG,2021,0,Pigmeat ,0,0,0,1
+Meat,T,CY,2012,0,Pigmeat ,0,0,0,1
+Meat,T,CY,2013,0,Pigmeat ,0,0,0,1
+Meat,T,CY,2019,0,Pigmeat ,0,0,0,1
+Meat,T,CY,2020,0,Pigmeat ,0,0,0,1
+Meat,T,CY,2021,0,Pigmeat ,0,0,0,1
+Meat,T,CZ,2012,123,Pigmeat ,0,0,0,1
+Meat,T,CZ,2013,132,Pigmeat ,0,0,0,1
+Meat,T,CZ,2014,236,Pigmeat ,0,0,0,1
+Meat,T,CZ,2015,111,Pigmeat ,0,0,0,1
+Meat,T,CZ,2016,130,Pigmeat ,0,0,0,1
+Meat,T,CZ,2017,123,Pigmeat ,0,0,0,1
+Meat,T,CZ,2018,157,Pigmeat ,0,0,0,1
+Meat,T,CZ,2019,153,Pigmeat ,0,0,0,1
+Meat,T,CZ,2020,160,Pigmeat ,0,0,0,1
+Meat,T,CZ,2021,183,Pigmeat ,0,0,0,1
+Meat,T,DK,2012,8544,Pigmeat ,0,0,0,1
+Meat,T,DK,2013,8003,Pigmeat ,0,0,0,1
+Meat,T,DK,2014,9020,Pigmeat ,0,0,0,1
+Meat,T,DK,2015,9130,Pigmeat ,0,0,0,1
+Meat,T,DK,2016,11316,Pigmeat ,0,0,0,1
+Meat,T,DK,2017,10490,Pigmeat ,0,0,0,1
+Meat,T,DK,2019,11008,Pigmeat ,0,0,0,1
+Meat,T,DK,2020,10810,Pigmeat ,0,0,0,1
+Meat,T,EE,2012,64,Pigmeat ,0,0,0,1
+Meat,T,EE,2013,33,Pigmeat ,0,0,0,1
+Meat,T,EE,2014,50,Pigmeat ,0,0,0,1
+Meat,T,EE,2015,26,Pigmeat ,0,0,0,1
+Meat,T,EE,2016,60,Pigmeat ,0,0,0,1
+Meat,T,EE,2017,51,Pigmeat ,0,0,0,1
+Meat,T,EE,2018,38,Pigmeat ,0,0,0,1
+Meat,T,EE,2019,42,Pigmeat ,0,0,0,1
+Meat,T,EE,2020,38,Pigmeat ,0,0,0,1
+Meat,T,EE,2021,46,Pigmeat ,0,0,0,1
+Meat,T,ES,2012,786,Pigmeat ,0,0,0,1
+Meat,T,ES,2013,911,Pigmeat ,0,0,0,1
+Meat,T,ES,2014,916,Pigmeat ,0,0,0,1
+Meat,T,ES,2015,604,Pigmeat ,0,0,0,1
+Meat,T,ES,2016,939,Pigmeat ,0,0,0,1
+Meat,T,ES,2017,732,Pigmeat ,0,0,0,1
+Meat,T,ES,2018,1939,Pigmeat ,0,0,0,1
+Meat,T,ES,2019,2813,Pigmeat ,0,0,0,1
+Meat,T,ES,2020,3561,Pigmeat ,0,0,0,1
+Meat,T,ES,2021,4217,Pigmeat ,0,0,0,1
+Meat,T,FI,2012,450,Pigmeat ,0,0,0,1
+Meat,T,FI,2013,710,Pigmeat ,0,0,0,1
+Meat,T,FI,2014,670,Pigmeat ,0,0,0,1
+Meat,T,FI,2015,720,Pigmeat ,0,0,0,1
+Meat,T,FI,2016,950,Pigmeat ,0,0,0,1
+Meat,T,FI,2017,840,Pigmeat ,0,0,0,1
+Meat,T,FI,2018,740,Pigmeat ,0,0,0,1
+Meat,T,FI,2019,760,Pigmeat ,0,0,0,1
+Meat,T,FI,2020,730,Pigmeat ,0,0,0,1
+Meat,T,FR,2012,7672,Pigmeat ,0,0,0,1
+Meat,T,FR,2014,9570,Pigmeat ,0,0,0,1
+Meat,T,FR,2015,9708,Pigmeat ,0,0,0,1
+Meat,T,FR,2016,10381,Pigmeat ,0,0,0,1
+Meat,T,FR,2017,11171,Pigmeat ,0,0,0,1
+Meat,T,FR,2018,14837,Pigmeat ,0,0,0,1
+Meat,T,FR,2019,19795,Pigmeat ,0,0,0,1
+Meat,T,FR,2020,21607,Pigmeat ,0,0,0,1
+Meat,T,HR,2012,0,Pigmeat ,0,0,0,1
+Meat,T,HR,2014,10,Pigmeat ,0,0,0,1
+Meat,T,HR,2015,60,Pigmeat ,0,0,0,1
+Meat,T,HR,2016,91,Pigmeat ,0,0,0,1
+Meat,T,HR,2017,57,Pigmeat ,0,0,0,1
+Meat,T,HR,2018,141,Pigmeat ,0,0,0,1
+Meat,T,HR,2019,459,Pigmeat ,0,0,0,1
+Meat,T,HR,2020,45,Pigmeat ,0,0,0,1
+Meat,T,HR,2021,12,Pigmeat ,0,0,0,1
+Meat,T,HU,2012,278,Pigmeat ,0,0,0,1
+Meat,T,HU,2013,275,Pigmeat ,0,0,0,1
+Meat,T,HU,2021,215,Pigmeat ,0,0,0,1
+Meat,T,IE,2017,20,Pigmeat ,0,0,0,1
+Meat,T,IE,2019,33,Pigmeat ,0,0,0,1
+Meat,T,IE,2020,29,Pigmeat ,0,0,0,1
+Meat,T,IE,2021,41,Pigmeat ,0,0,0,1
+Meat,T,IS,2019,0,Pigmeat ,0,0,0,1
+Meat,T,IT,2014,3628,Pigmeat ,0,0,0,1
+Meat,T,IT,2015,8743,Pigmeat ,0,0,0,1
+Meat,T,LT,2012,26,Pigmeat ,0,0,0,1
+Meat,T,LT,2013,42,Pigmeat ,0,0,0,1
+Meat,T,LT,2014,22,Pigmeat ,0,0,0,1
+Meat,T,LT,2015,21,Pigmeat ,0,0,0,1
+Meat,T,LT,2016,,Pigmeat ,0,0,0,1
+Meat,T,LT,2017,,Pigmeat ,0,0,0,1
+Meat,T,LT,2018,,Pigmeat ,0,0,0,1
+Meat,T,LT,2019,,Pigmeat ,0,0,0,1
+Meat,T,LT,2020,,Pigmeat ,0,0,0,1
+Meat,T,LT,2021,,Pigmeat ,0,0,0,1
+Meat,T,LU,2013,66,Pigmeat ,0,0,0,1
+Meat,T,LU,2014,57,Pigmeat ,0,0,0,1
+Meat,T,LU,2015,53,Pigmeat ,0,0,0,1
+Meat,T,LU,2016,56,Pigmeat ,0,0,0,1
+Meat,T,LU,2017,59,Pigmeat ,0,0,0,1
+Meat,T,LU,2018,70,Pigmeat ,0,0,0,1
+Meat,T,LU,2019,63,Pigmeat ,0,0,0,1
+Meat,T,LU,2020,63,Pigmeat ,0,0,0,1
+Meat,T,LU,2021,74,Pigmeat ,0,0,0,1
+Meat,T,LV,2012,156,Pigmeat ,0,0,0,1
+Meat,T,LV,2013,147,Pigmeat ,0,0,0,1
+Meat,T,LV,2014,129,Pigmeat ,0,0,0,1
+Meat,T,LV,2015,109,Pigmeat ,0,0,0,1
+Meat,T,ME,2021,0,Pigmeat ,0,0,0,1
+Meat,T,MK,2013,0,Pigmeat ,0,0,0,1
+Meat,T,MK,2014,0,Pigmeat ,0,0,0,1
+Meat,T,MT,2012,0,Pigmeat ,0,0,0,1
+Meat,T,MT,2014,0,Pigmeat ,0,0,0,1
+Meat,T,MT,2015,0,Pigmeat ,0,0,0,1
+Meat,T,MT,2016,0,Pigmeat ,0,0,0,1
+Meat,T,MT,2017,0,Pigmeat ,0,0,0,1
+Meat,T,MT,2018,0,Pigmeat ,0,0,0,1
+Meat,T,MT,2021,0,Pigmeat ,0,0,0,1
+Meat,T,NL,2012,5560,Pigmeat ,0,0,0,1
+Meat,T,NL,2013,8771,Pigmeat ,0,0,0,1
+Meat,T,NL,2014,6404,Pigmeat ,0,0,0,1
+Meat,T,NL,2015,6184,Pigmeat ,0,0,0,1
+Meat,T,NL,2016,6496,Pigmeat ,0,0,0,1
+Meat,T,NL,2017,8204,Pigmeat ,0,0,0,1
+Meat,T,NL,2018,8652,Pigmeat ,0,0,0,1
+Meat,T,NL,2019,9708,Pigmeat ,0,0,0,1
+Meat,T,NL,2020,9092,Pigmeat ,0,0,0,1
+Meat,T,NL,2021,9538,Pigmeat ,0,0,0,1
+Meat,T,NO,2012,353,Pigmeat ,0,0,0,1
+Meat,T,NO,2013,381,Pigmeat ,0,0,0,1
+Meat,T,NO,2014,384,Pigmeat ,0,0,0,1
+Meat,T,NO,2015,294,Pigmeat ,0,0,0,1
+Meat,T,NO,2016,293,Pigmeat ,0,0,0,1
+Meat,T,NO,2017,386,Pigmeat ,0,0,0,1
+Meat,T,NO,2018,394,Pigmeat ,0,0,0,1
+Meat,T,NO,2019,367,Pigmeat ,0,0,0,1
+Meat,T,NO,2020,428,Pigmeat ,0,0,0,1
+Meat,T,PL,2019,0,Pigmeat ,0,0,0,1
+Meat,T,RO,2013,6,Pigmeat ,0,0,0,1
+Meat,T,RO,2014,0,Pigmeat ,0,0,0,1
+Meat,T,RO,2016,0,Pigmeat ,0,0,0,1
+Meat,T,RO,2019,1,Pigmeat ,0,0,0,1
+Meat,T,RO,2020,1,Pigmeat ,0,0,0,1
+Meat,T,RO,2021,1,Pigmeat ,0,0,0,1
+Meat,T,RS,2016,0,Pigmeat ,0,0,0,1
+Meat,T,RS,2017,0,Pigmeat ,0,0,0,1
+Meat,T,RS,2018,0,Pigmeat ,0,0,0,1
+Meat,T,RS,2019,0,Pigmeat ,0,0,0,1
+Meat,T,SE,2013,3882,Pigmeat ,0,0,0,1
+Meat,T,SE,2014,3997,Pigmeat ,0,0,0,1
+Meat,T,SE,2015,4537,Pigmeat ,0,0,0,1
+Meat,T,SE,2016,4819,Pigmeat ,0,0,0,1
+Meat,T,SE,2017,4811,Pigmeat ,0,0,0,1
+Meat,T,SE,2018,5540,Pigmeat ,0,0,0,1
+Meat,T,SE,2019,6135,Pigmeat ,0,0,0,1
+Meat,T,SE,2020,6553,Pigmeat ,0,0,0,1
+Meat,T,SE,2021,6652,Pigmeat ,0,0,0,1
+Meat,T,SI,2012,4,Pigmeat ,0,0,0,1
+Meat,T,SI,2014,5,Pigmeat ,0,0,0,1
+Meat,T,SI,2015,10,Pigmeat ,0,0,0,1
+Meat,T,SK,2012,0,Pigmeat ,0,0,0,1
+Meat,T,SK,2013,0,Pigmeat ,0,0,0,1
+Meat,T,SK,2014,0,Pigmeat ,0,0,0,1
+Meat,T,SK,2015,0,Pigmeat ,0,0,0,1
+Meat,T,SK,2016,0,Pigmeat ,0,0,0,1
+Meat,T,SK,2017,7,Pigmeat ,0,0,0,1
+Meat,T,TR,2014,0,Pigmeat ,0,0,0,1
+Meat,T,TR,2015,0,Pigmeat ,0,0,0,1
+Meat,T,TR,2016,0,Pigmeat ,0,0,0,1
+Meat,T,TR,2017,0,Pigmeat ,0,0,0,1
+Meat,T,TR,2018,0,Pigmeat ,0,0,0,1
+Meat,T,TR,2019,0,Pigmeat ,0,0,0,1
+Meat,T,TR,2021,0,Pigmeat ,0,0,0,1
+Meat,T,UK,2012,1500,Pigmeat ,0,0,0,1
+Meat,T,UK,2013,3600,Pigmeat ,0,0,0,1
+Meat,T,UK,2014,2900,Pigmeat ,0,0,0,1
+Meat,T,UK,2015,2500,Pigmeat ,0,0,0,1
+Meat,T,UK,2016,3200,Pigmeat ,0,0,0,1
+Meat,T,UK,2017,3900,Pigmeat ,0,0,0,1
+Meat,T,UK,2018,2800,Pigmeat ,0,0,0,1
+Meat,T,UK,2019,2500,Pigmeat ,0,0,0,1
+Meat,T,BE,2016,423,Sheepmeat,0,0,0,1
+Meat,T,BE,2017,196,Sheepmeat,0,0,0,1
+Meat,T,BE,2018,493,Sheepmeat,0,0,0,1
+Meat,T,BE,2019,547,Sheepmeat,0,0,0,1
+Meat,T,BE,2020,561,Sheepmeat,0,0,0,1
+Meat,T,BG,2012,0,Sheepmeat,0,0,0,1
+Meat,T,BG,2014,0,Sheepmeat,0,0,0,1
+Meat,T,BG,2015,0,Sheepmeat,0,0,0,1
+Meat,T,BG,2016,67,Sheepmeat,0,0,0,1
+Meat,T,BG,2017,28,Sheepmeat,0,0,0,1
+Meat,T,BG,2018,63,Sheepmeat,0,0,0,1
+Meat,T,BG,2019,36,Sheepmeat,0,0,0,1
+Meat,T,BG,2020,22,Sheepmeat,0,0,0,1
+Meat,T,BG,2021,26,Sheepmeat,0,0,0,1
+Meat,T,CY,2013,0,Sheepmeat,0,0,0,1
+Meat,T,CY,2019,0,Sheepmeat,0,0,0,1
+Meat,T,CY,2020,0,Sheepmeat,0,0,0,1
+Meat,T,CY,2021,0,Sheepmeat,0,0,0,1
+Meat,T,CZ,2012,529,Sheepmeat,0,0,0,1
+Meat,T,CZ,2013,552,Sheepmeat,0,0,0,1
+Meat,T,CZ,2014,450,Sheepmeat,0,0,0,1
+Meat,T,CZ,2015,532,Sheepmeat,0,0,0,1
+Meat,T,CZ,2016,428,Sheepmeat,0,0,0,1
+Meat,T,CZ,2017,412,Sheepmeat,0,0,0,1
+Meat,T,CZ,2018,400,Sheepmeat,0,0,0,1
+Meat,T,CZ,2019,398,Sheepmeat,0,0,0,1
+Meat,T,CZ,2020,379,Sheepmeat,0,0,0,1
+Meat,T,CZ,2021,294,Sheepmeat,0,0,0,1
+Meat,T,DK,2016,,Sheepmeat,0,0,0,1
+Meat,T,DK,2017,,Sheepmeat,0,0,0,1
+Meat,T,DK,2018,,Sheepmeat,0,0,0,1
+Meat,T,EE,2012,246,Sheepmeat,0,0,0,1
+Meat,T,EE,2013,243,Sheepmeat,0,0,0,1
+Meat,T,EE,2014,207,Sheepmeat,0,0,0,1
+Meat,T,EE,2015,230,Sheepmeat,0,0,0,1
+Meat,T,EE,2016,270,Sheepmeat,0,0,0,1
+Meat,T,EE,2017,272,Sheepmeat,0,0,0,1
+Meat,T,EE,2018,255,Sheepmeat,0,0,0,1
+Meat,T,EE,2019,272,Sheepmeat,0,0,0,1
+Meat,T,EE,2020,244,Sheepmeat,0,0,0,1
+Meat,T,EE,2021,279,Sheepmeat,0,0,0,1
+Meat,T,ES,2012,7987,Sheepmeat,0,0,0,1
+Meat,T,ES,2013,7351,Sheepmeat,0,0,0,1
+Meat,T,ES,2014,6760,Sheepmeat,0,0,0,1
+Meat,T,ES,2015,8344,Sheepmeat,0,0,0,1
+Meat,T,ES,2016,7873,Sheepmeat,0,0,0,1
+Meat,T,ES,2017,7103,Sheepmeat,0,0,0,1
+Meat,T,ES,2018,8569,Sheepmeat,0,0,0,1
+Meat,T,ES,2019,9490,Sheepmeat,0,0,0,1
+Meat,T,ES,2020,8103,Sheepmeat,0,0,0,1
+Meat,T,ES,2021,9325,Sheepmeat,0,0,0,1
+Meat,T,FI,2012,100,Sheepmeat,0,0,0,1
+Meat,T,FI,2013,170,Sheepmeat,0,0,0,1
+Meat,T,FI,2014,220,Sheepmeat,0,0,0,1
+Meat,T,FI,2015,270,Sheepmeat,0,0,0,1
+Meat,T,FI,2016,320,Sheepmeat,0,0,0,1
+Meat,T,FI,2017,320,Sheepmeat,0,0,0,1
+Meat,T,FI,2018,360,Sheepmeat,0,0,0,1
+Meat,T,FI,2019,340,Sheepmeat,0,0,0,1
+Meat,T,FI,2020,340,Sheepmeat,0,0,0,1
+Meat,T,FR,2012,807,Sheepmeat,0,0,0,1
+Meat,T,FR,2014,1145,Sheepmeat,0,0,0,1
+Meat,T,FR,2015,1132,Sheepmeat,0,0,0,1
+Meat,T,FR,2016,1276,Sheepmeat,0,0,0,1
+Meat,T,FR,2017,1432,Sheepmeat,0,0,0,1
+Meat,T,FR,2018,1684,Sheepmeat,0,0,0,1
+Meat,T,FR,2019,1861,Sheepmeat,0,0,0,1
+Meat,T,FR,2020,2060,Sheepmeat,0,0,0,1
+Meat,T,HR,2014,22,Sheepmeat,0,0,0,1
+Meat,T,HR,2015,316,Sheepmeat,0,0,0,1
+Meat,T,HR,2016,474,Sheepmeat,0,0,0,1
+Meat,T,HR,2017,424,Sheepmeat,0,0,0,1
+Meat,T,HR,2018,571,Sheepmeat,0,0,0,1
+Meat,T,HR,2019,538,Sheepmeat,0,0,0,1
+Meat,T,HR,2020,620,Sheepmeat,0,0,0,1
+Meat,T,HR,2021,730,Sheepmeat,0,0,0,1
+Meat,T,HU,2012,39,Sheepmeat,0,0,0,1
+Meat,T,HU,2013,42,Sheepmeat,0,0,0,1
+Meat,T,HU,2021,22,Sheepmeat,0,0,0,1
+Meat,T,IE,2017,172,Sheepmeat,0,0,0,1
+Meat,T,IE,2019,200,Sheepmeat,0,0,0,1
+Meat,T,IE,2020,180,Sheepmeat,0,0,0,1
+Meat,T,IE,2021,276,Sheepmeat,0,0,0,1
+Meat,T,IS,2013,29108,Sheepmeat,0,0,0,1
+Meat,T,IS,2019,29,Sheepmeat,0,0,0,1
+Meat,T,IS,2020,11,Sheepmeat,0,0,0,1
+Meat,T,IT,2014,15153,Sheepmeat,0,0,0,1
+Meat,T,IT,2015,6514,Sheepmeat,0,0,0,1
+Meat,T,LT,2012,161,Sheepmeat,0,0,0,1
+Meat,T,LT,2013,160,Sheepmeat,0,0,0,1
+Meat,T,LT,2014,186,Sheepmeat,0,0,0,1
+Meat,T,LT,2015,216,Sheepmeat,0,0,0,1
+Meat,T,LT,2021,,Sheepmeat,0,0,0,1
+Meat,T,LU,2013,2,Sheepmeat,0,0,0,1
+Meat,T,LU,2014,1,Sheepmeat,0,0,0,1
+Meat,T,LU,2015,1,Sheepmeat,0,0,0,1
+Meat,T,LU,2016,2,Sheepmeat,0,0,0,1
+Meat,T,LU,2017,1,Sheepmeat,0,0,0,1
+Meat,T,LU,2018,1,Sheepmeat,0,0,0,1
+Meat,T,LU,2019,1,Sheepmeat,0,0,0,1
+Meat,T,LU,2020,2,Sheepmeat,0,0,0,1
+Meat,T,LU,2021,3,Sheepmeat,0,0,0,1
+Meat,T,LV,2012,228,Sheepmeat,0,0,0,1
+Meat,T,LV,2013,212,Sheepmeat,0,0,0,1
+Meat,T,LV,2014,153,Sheepmeat,0,0,0,1
+Meat,T,LV,2015,184,Sheepmeat,0,0,0,1
+Meat,T,ME,2021,8,Sheepmeat,0,0,0,1
+Meat,T,MK,2013,0,Sheepmeat,0,0,0,1
+Meat,T,MK,2014,0,Sheepmeat,0,0,0,1
+Meat,T,MT,2012,0,Sheepmeat,0,0,0,1
+Meat,T,MT,2014,0,Sheepmeat,0,0,0,1
+Meat,T,MT,2015,0,Sheepmeat,0,0,0,1
+Meat,T,MT,2016,0,Sheepmeat,0,0,0,1
+Meat,T,MT,2017,0,Sheepmeat,0,0,0,1
+Meat,T,MT,2018,0,Sheepmeat,0,0,0,1
+Meat,T,MT,2021,0,Sheepmeat,0,0,0,1
+Meat,T,NO,2012,526,Sheepmeat,0,0,0,1
+Meat,T,NO,2013,546,Sheepmeat,0,0,0,1
+Meat,T,NO,2014,571,Sheepmeat,0,0,0,1
+Meat,T,NO,2015,602,Sheepmeat,0,0,0,1
+Meat,T,NO,2016,622,Sheepmeat,0,0,0,1
+Meat,T,NO,2017,712,Sheepmeat,0,0,0,1
+Meat,T,NO,2018,641,Sheepmeat,0,0,0,1
+Meat,T,NO,2019,563,Sheepmeat,0,0,0,1
+Meat,T,NO,2020,633,Sheepmeat,0,0,0,1
+Meat,T,PL,2019,0,Sheepmeat,0,0,0,1
+Meat,T,RO,2014,0,Sheepmeat,0,0,0,1
+Meat,T,RO,2016,0,Sheepmeat,0,0,0,1
+Meat,T,RO,2020,0,Sheepmeat,0,0,0,1
+Meat,T,RS,2016,5,Sheepmeat,0,0,0,1
+Meat,T,RS,2017,0,Sheepmeat,0,0,0,1
+Meat,T,RS,2018,0,Sheepmeat,0,0,0,1
+Meat,T,RS,2019,0,Sheepmeat,0,0,0,1
+Meat,T,SE,2013,1071,Sheepmeat,0,0,0,1
+Meat,T,SE,2014,1146,Sheepmeat,0,0,0,1
+Meat,T,SE,2015,1131,Sheepmeat,0,0,0,1
+Meat,T,SE,2016,1138,Sheepmeat,0,0,0,1
+Meat,T,SE,2017,1109,Sheepmeat,0,0,0,1
+Meat,T,SE,2018,1187,Sheepmeat,0,0,0,1
+Meat,T,SE,2019,1063,Sheepmeat,0,0,0,1
+Meat,T,SE,2020,993,Sheepmeat,0,0,0,1
+Meat,T,SE,2021,922,Sheepmeat,0,0,0,1
+Meat,T,SI,2012,4,Sheepmeat,0,0,0,1
+Meat,T,SI,2014,2,Sheepmeat,0,0,0,1
+Meat,T,SI,2015,3,Sheepmeat,0,0,0,1
+Meat,T,SK,2012,0,Sheepmeat,0,0,0,1
+Meat,T,SK,2013,3,Sheepmeat,0,0,0,1
+Meat,T,SK,2015,2,Sheepmeat,0,0,0,1
+Meat,T,SK,2016,1,Sheepmeat,0,0,0,1
+Meat,T,SK,2017,194,Sheepmeat,0,0,0,1
+Meat,T,TR,2013,128,Sheepmeat,0,0,0,1
+Meat,T,TR,2014,38,Sheepmeat,0,0,0,1
+Meat,T,TR,2015,14,Sheepmeat,0,0,0,1
+Meat,T,TR,2016,47,Sheepmeat,0,0,0,1
+Meat,T,TR,2017,1,Sheepmeat,0,0,0,1
+Meat,T,TR,2018,50,Sheepmeat,0,0,0,1
+Meat,T,TR,2021,2,Sheepmeat,0,0,0,1
+Meat,T,UK,2012,7300,Sheepmeat,0,0,0,1
+Meat,T,UK,2013,12800,Sheepmeat,0,0,0,1
+Meat,T,UK,2014,8300,Sheepmeat,0,0,0,1
+Meat,T,UK,2015,7600,Sheepmeat,0,0,0,1
+Meat,T,UK,2016,7300,Sheepmeat,0,0,0,1
+Meat,T,UK,2017,7900,Sheepmeat,0,0,0,1
+Meat,T,UK,2018,7600,Sheepmeat,0,0,0,1
+Meat,T,UK,2019,4900,Sheepmeat,0,0,0,1
+Meat,T,BG,2012,0,Goat meat,0,0,0,1
+Meat,T,BG,2014,0,Goat meat,0,0,0,1
+Meat,T,BG,2015,0,Goat meat,0,0,0,1
+Meat,T,BG,2016,35,Goat meat,0,0,0,1
+Meat,T,BG,2017,13,Goat meat,0,0,0,1
+Meat,T,BG,2018,40,Goat meat,0,0,0,1
+Meat,T,BG,2019,0,Goat meat,0,0,0,1
+Meat,T,BG,2020,8,Goat meat,0,0,0,1
+Meat,T,BG,2021,14,Goat meat,0,0,0,1
+Meat,T,CY,2013,0,Goat meat,0,0,0,1
+Meat,T,CY,2019,0,Goat meat,0,0,0,1
+Meat,T,CY,2020,0,Goat meat,0,0,0,1
+Meat,T,CY,2021,0,Goat meat,0,0,0,1
+Meat,T,CZ,2012,16,Goat meat,0,0,0,1
+Meat,T,CZ,2013,20,Goat meat,0,0,0,1
+Meat,T,CZ,2014,23,Goat meat,0,0,0,1
+Meat,T,CZ,2015,21,Goat meat,0,0,0,1
+Meat,T,CZ,2016,18,Goat meat,0,0,0,1
+Meat,T,CZ,2017,19,Goat meat,0,0,0,1
+Meat,T,CZ,2018,19,Goat meat,0,0,0,1
+Meat,T,CZ,2019,24,Goat meat,0,0,0,1
+Meat,T,CZ,2020,26,Goat meat,0,0,0,1
+Meat,T,CZ,2021,20,Goat meat,0,0,0,1
+Meat,T,DK,2016,,Goat meat,0,0,0,1
+Meat,T,DK,2017,,Goat meat,0,0,0,1
+Meat,T,DK,2018,,Goat meat,0,0,0,1
+Meat,T,EE,2012,3,Goat meat,0,0,0,1
+Meat,T,EE,2013,3,Goat meat,0,0,0,1
+Meat,T,EE,2014,7,Goat meat,0,0,0,1
+Meat,T,EE,2015,4,Goat meat,0,0,0,1
+Meat,T,EE,2016,3,Goat meat,0,0,0,1
+Meat,T,EE,2017,3,Goat meat,0,0,0,1
+Meat,T,EE,2018,4,Goat meat,0,0,0,1
+Meat,T,EE,2019,4,Goat meat,0,0,0,1
+Meat,T,EE,2020,3,Goat meat,0,0,0,1
+Meat,T,EE,2021,2,Goat meat,0,0,0,1
+Meat,T,ES,2012,545,Goat meat,0,0,0,1
+Meat,T,ES,2013,507,Goat meat,0,0,0,1
+Meat,T,ES,2014,481,Goat meat,0,0,0,1
+Meat,T,ES,2015,520,Goat meat,0,0,0,1
+Meat,T,ES,2016,411,Goat meat,0,0,0,1
+Meat,T,ES,2017,311,Goat meat,0,0,0,1
+Meat,T,ES,2018,491,Goat meat,0,0,0,1
+Meat,T,ES,2019,482,Goat meat,0,0,0,1
+Meat,T,ES,2020,462,Goat meat,0,0,0,1
+Meat,T,ES,2021,550,Goat meat,0,0,0,1
+Meat,T,FI,2015,,Goat meat,0,0,0,1
+Meat,T,FI,2016,,Goat meat,0,0,0,1
+Meat,T,FI,2017,,Goat meat,0,0,0,1
+Meat,T,FI,2018,,Goat meat,0,0,0,1
+Meat,T,FR,2014,,Goat meat,0,0,0,1
+Meat,T,HR,2012,0,Goat meat,0,0,0,1
+Meat,T,HR,2014,2,Goat meat,0,0,0,1
+Meat,T,HR,2015,13,Goat meat,0,0,0,1
+Meat,T,HR,2016,14,Goat meat,0,0,0,1
+Meat,T,HR,2017,13,Goat meat,0,0,0,1
+Meat,T,HR,2018,17,Goat meat,0,0,0,1
+Meat,T,HR,2019,21,Goat meat,0,0,0,1
+Meat,T,HR,2020,18,Goat meat,0,0,0,1
+Meat,T,HR,2021,18,Goat meat,0,0,0,1
+Meat,T,HU,2012,4,Goat meat,0,0,0,1
+Meat,T,HU,2013,4,Goat meat,0,0,0,1
+Meat,T,HU,2021,1,Goat meat,0,0,0,1
+Meat,T,IE,2017,0,Goat meat,0,0,0,1
+Meat,T,IE,2019,0,Goat meat,0,0,0,1
+Meat,T,IE,2020,0,Goat meat,0,0,0,1
+Meat,T,IE,2021,0,Goat meat,0,0,0,1
+Meat,T,IS,2019,0,Goat meat,0,0,0,1
+Meat,T,IT,2014,1854,Goat meat,0,0,0,1
+Meat,T,IT,2015,635,Goat meat,0,0,0,1
+Meat,T,LT,2014,6,Goat meat,0,0,0,1
+Meat,T,LT,2015,2,Goat meat,0,0,0,1
+Meat,T,LT,2021,0,Goat meat,0,0,0,1
+Meat,T,LU,2013,,Goat meat,0,0,0,1
+Meat,T,LU,2014,,Goat meat,0,0,0,1
+Meat,T,LU,2015,,Goat meat,0,0,0,1
+Meat,T,LU,2016,,Goat meat,0,0,0,1
+Meat,T,LU,2017,,Goat meat,0,0,0,1
+Meat,T,LU,2018,,Goat meat,0,0,0,1
+Meat,T,LU,2021,0,Goat meat,0,0,0,1
+Meat,T,LV,2012,4,Goat meat,0,0,0,1
+Meat,T,LV,2013,5,Goat meat,0,0,0,1
+Meat,T,LV,2014,5,Goat meat,0,0,0,1
+Meat,T,LV,2015,6,Goat meat,0,0,0,1
+Meat,T,ME,2021,0,Goat meat,0,0,0,1
+Meat,T,MK,2013,0,Goat meat,0,0,0,1
+Meat,T,MK,2014,0,Goat meat,0,0,0,1
+Meat,T,MT,2012,0,Goat meat,0,0,0,1
+Meat,T,MT,2014,0,Goat meat,0,0,0,1
+Meat,T,MT,2015,0,Goat meat,0,0,0,1
+Meat,T,MT,2016,0,Goat meat,0,0,0,1
+Meat,T,MT,2017,0,Goat meat,0,0,0,1
+Meat,T,MT,2018,0,Goat meat,0,0,0,1
+Meat,T,MT,2021,0,Goat meat,0,0,0,1
+Meat,T,NO,2012,2,Goat meat,0,0,0,1
+Meat,T,NO,2013,4,Goat meat,0,0,0,1
+Meat,T,NO,2014,3,Goat meat,0,0,0,1
+Meat,T,NO,2015,2,Goat meat,0,0,0,1
+Meat,T,NO,2016,2,Goat meat,0,0,0,1
+Meat,T,NO,2017,3,Goat meat,0,0,0,1
+Meat,T,NO,2018,4,Goat meat,0,0,0,1
+Meat,T,NO,2019,3,Goat meat,0,0,0,1
+Meat,T,NO,2020,4,Goat meat,0,0,0,1
+Meat,T,PL,2019,0,Goat meat,0,0,0,1
+Meat,T,RO,2014,0,Goat meat,0,0,0,1
+Meat,T,RO,2016,0,Goat meat,0,0,0,1
+Meat,T,RO,2020,0,Goat meat,0,0,0,1
+Meat,T,RS,2016,0,Goat meat,0,0,0,1
+Meat,T,RS,2017,0,Goat meat,0,0,0,1
+Meat,T,RS,2018,0,Goat meat,0,0,0,1
+Meat,T,RS,2019,0,Goat meat,0,0,0,1
+Meat,T,SE,2014,,Goat meat,0,0,0,1
+Meat,T,SE,2021,0,Goat meat,0,0,0,1
+Meat,T,SI,2012,0,Goat meat,0,0,0,1
+Meat,T,SI,2014,0,Goat meat,0,0,0,1
+Meat,T,SI,2015,0,Goat meat,0,0,0,1
+Meat,T,SK,2012,0,Goat meat,0,0,0,1
+Meat,T,SK,2013,0,Goat meat,0,0,0,1
+Meat,T,SK,2014,0,Goat meat,0,0,0,1
+Meat,T,SK,2015,0,Goat meat,0,0,0,1
+Meat,T,SK,2016,0,Goat meat,0,0,0,1
+Meat,T,TR,2013,98,Goat meat,0,0,0,1
+Meat,T,TR,2014,16,Goat meat,0,0,0,1
+Meat,T,TR,2015,2,Goat meat,0,0,0,1
+Meat,T,TR,2016,2,Goat meat,0,0,0,1
+Meat,T,TR,2017,0,Goat meat,0,0,0,1
+Meat,T,TR,2018,14,Goat meat,0,0,0,1
+Meat,T,TR,2021,0,Goat meat,0,0,0,1
+Meat,T,UK,2019,0,Goat meat,0,0,0,1
+Meat,T,BG,2012,0,Meat of horses etc,0,0,0,1
+Meat,T,BG,2014,0,Meat of horses etc,0,0,0,1
+Meat,T,BG,2015,0,Meat of horses etc,0,0,0,1
+Meat,T,BG,2016,0,Meat of horses etc,0,0,0,1
+Meat,T,BG,2017,0,Meat of horses etc,0,0,0,1
+Meat,T,BG,2018,0,Meat of horses etc,0,0,0,1
+Meat,T,BG,2019,0,Meat of horses etc,0,0,0,1
+Meat,T,BG,2020,0,Meat of horses etc,0,0,0,1
+Meat,T,CY,2012,0,Meat of horses etc,0,0,0,1
+Meat,T,CY,2013,0,Meat of horses etc,0,0,0,1
+Meat,T,CY,2019,0,Meat of horses etc,0,0,0,1
+Meat,T,CY,2020,0,Meat of horses etc,0,0,0,1
+Meat,T,CZ,2012,0,Meat of horses etc,0,0,0,1
+Meat,T,CZ,2013,0,Meat of horses etc,0,0,0,1
+Meat,T,CZ,2014,1,Meat of horses etc,0,0,0,1
+Meat,T,CZ,2015,0,Meat of horses etc,0,0,0,1
+Meat,T,CZ,2016,0,Meat of horses etc,0,0,0,1
+Meat,T,CZ,2017,0,Meat of horses etc,0,0,0,1
+Meat,T,CZ,2018,0,Meat of horses etc,0,0,0,1
+Meat,T,CZ,2019,0,Meat of horses etc,0,0,0,1
+Meat,T,DK,2012,0,Meat of horses etc,0,0,0,1
+Meat,T,DK,2013,0,Meat of horses etc,0,0,0,1
+Meat,T,DK,2014,0,Meat of horses etc,0,0,0,1
+Meat,T,DK,2016,,Meat of horses etc,0,0,0,1
+Meat,T,DK,2017,,Meat of horses etc,0,0,0,1
+Meat,T,DK,2018,,Meat of horses etc,0,0,0,1
+Meat,T,EE,2012,2,Meat of horses etc,0,0,0,1
+Meat,T,EE,2013,3,Meat of horses etc,0,0,0,1
+Meat,T,EE,2014,10,Meat of horses etc,0,0,0,1
+Meat,T,EE,2015,7,Meat of horses etc,0,0,0,1
+Meat,T,EE,2016,5,Meat of horses etc,0,0,0,1
+Meat,T,EE,2017,11,Meat of horses etc,0,0,0,1
+Meat,T,EE,2018,6,Meat of horses etc,0,0,0,1
+Meat,T,EE,2019,9,Meat of horses etc,0,0,0,1
+Meat,T,EE,2020,3,Meat of horses etc,0,0,0,1
+Meat,T,ES,2012,307,Meat of horses etc,0,0,0,1
+Meat,T,ES,2013,463,Meat of horses etc,0,0,0,1
+Meat,T,ES,2014,500,Meat of horses etc,0,0,0,1
+Meat,T,ES,2015,657,Meat of horses etc,0,0,0,1
+Meat,T,ES,2016,409,Meat of horses etc,0,0,0,1
+Meat,T,ES,2017,392,Meat of horses etc,0,0,0,1
+Meat,T,ES,2018,512,Meat of horses etc,0,0,0,1
+Meat,T,ES,2019,466,Meat of horses etc,0,0,0,1
+Meat,T,ES,2020,441,Meat of horses etc,0,0,0,1
+Meat,T,FI,2015,,Meat of horses etc,0,0,0,1
+Meat,T,FI,2016,,Meat of horses etc,0,0,0,1
+Meat,T,FI,2017,,Meat of horses etc,0,0,0,1
+Meat,T,FI,2018,,Meat of horses etc,0,0,0,1
+Meat,T,HR,2012,0,Meat of horses etc,0,0,0,1
+Meat,T,HR,2013,0,Meat of horses etc,0,0,0,1
+Meat,T,HR,2014,0,Meat of horses etc,0,0,0,1
+Meat,T,HR,2015,21,Meat of horses etc,0,0,0,1
+Meat,T,HR,2016,92,Meat of horses etc,0,0,0,1
+Meat,T,HR,2017,95,Meat of horses etc,0,0,0,1
+Meat,T,HR,2018,124,Meat of horses etc,0,0,0,1
+Meat,T,HR,2019,226,Meat of horses etc,0,0,0,1
+Meat,T,HR,2020,293,Meat of horses etc,0,0,0,1
+Meat,T,HU,2012,5,Meat of horses etc,0,0,0,1
+Meat,T,HU,2013,4,Meat of horses etc,0,0,0,1
+Meat,T,IE,2017,0,Meat of horses etc,0,0,0,1
+Meat,T,IE,2019,0,Meat of horses etc,0,0,0,1
+Meat,T,IE,2020,0,Meat of horses etc,0,0,0,1
+Meat,T,IS,2019,0,Meat of horses etc,0,0,0,1
+Meat,T,IT,2015,84,Meat of horses etc,0,0,0,1
+Meat,T,LT,2012,11,Meat of horses etc,0,0,0,1
+Meat,T,LT,2013,25,Meat of horses etc,0,0,0,1
+Meat,T,LT,2014,17,Meat of horses etc,0,0,0,1
+Meat,T,LT,2015,30,Meat of horses etc,0,0,0,1
+Meat,T,LT,2016,,Meat of horses etc,0,0,0,1
+Meat,T,LT,2017,,Meat of horses etc,0,0,0,1
+Meat,T,LT,2018,,Meat of horses etc,0,0,0,1
+Meat,T,LT,2019,,Meat of horses etc,0,0,0,1
+Meat,T,LT,2020,0,Meat of horses etc,0,0,0,1
+Meat,T,LU,2013,,Meat of horses etc,0,0,0,1
+Meat,T,LU,2014,,Meat of horses etc,0,0,0,1
+Meat,T,LU,2015,,Meat of horses etc,0,0,0,1
+Meat,T,LU,2016,,Meat of horses etc,0,0,0,1
+Meat,T,LU,2017,,Meat of horses etc,0,0,0,1
+Meat,T,LU,2018,,Meat of horses etc,0,0,0,1
+Meat,T,LV,2012,0,Meat of horses etc,0,0,0,1
+Meat,T,LV,2014,0,Meat of horses etc,0,0,0,1
+Meat,T,LV,2015,0,Meat of horses etc,0,0,0,1
+Meat,T,MK,2013,0,Meat of horses etc,0,0,0,1
+Meat,T,MK,2014,0,Meat of horses etc,0,0,0,1
+Meat,T,MT,2012,0,Meat of horses etc,0,0,0,1
+Meat,T,MT,2014,0,Meat of horses etc,0,0,0,1
+Meat,T,MT,2015,0,Meat of horses etc,0,0,0,1
+Meat,T,MT,2016,0,Meat of horses etc,0,0,0,1
+Meat,T,MT,2017,0,Meat of horses etc,0,0,0,1
+Meat,T,MT,2018,0,Meat of horses etc,0,0,0,1
+Meat,T,NO,2012,0,Meat of horses etc,0,0,0,1
+Meat,T,NO,2013,0,Meat of horses etc,0,0,0,1
+Meat,T,NO,2014,0,Meat of horses etc,0,0,0,1
+Meat,T,NO,2016,0,Meat of horses etc,0,0,0,1
+Meat,T,NO,2017,0,Meat of horses etc,0,0,0,1
+Meat,T,NO,2018,0,Meat of horses etc,0,0,0,1
+Meat,T,NO,2019,0,Meat of horses etc,0,0,0,1
+Meat,T,NO,2020,0,Meat of horses etc,0,0,0,1
+Meat,T,PL,2019,0,Meat of horses etc,0,0,0,1
+Meat,T,RO,2014,0,Meat of horses etc,0,0,0,1
+Meat,T,RO,2016,0,Meat of horses etc,0,0,0,1
+Meat,T,RO,2020,0,Meat of horses etc,0,0,0,1
+Meat,T,RS,2016,0,Meat of horses etc,0,0,0,1
+Meat,T,RS,2017,0,Meat of horses etc,0,0,0,1
+Meat,T,RS,2018,0,Meat of horses etc,0,0,0,1
+Meat,T,RS,2019,0,Meat of horses etc,0,0,0,1
+Meat,T,SE,2014,,Meat of horses etc,0,0,0,1
+Meat,T,SI,2012,2,Meat of horses etc,0,0,0,1
+Meat,T,SI,2014,2,Meat of horses etc,0,0,0,1
+Meat,T,SI,2015,1,Meat of horses etc,0,0,0,1
+Meat,T,SK,2012,0,Meat of horses etc,0,0,0,1
+Meat,T,SK,2013,0,Meat of horses etc,0,0,0,1
+Meat,T,SK,2014,0,Meat of horses etc,0,0,0,1
+Meat,T,SK,2015,0,Meat of horses etc,0,0,0,1
+Meat,T,SK,2016,0,Meat of horses etc,0,0,0,1
+Meat,T,TR,2014,0,Meat of horses etc,0,0,0,1
+Meat,T,TR,2015,0,Meat of horses etc,0,0,0,1
+Meat,T,TR,2016,0,Meat of horses etc,0,0,0,1
+Meat,T,TR,2017,0,Meat of horses etc,0,0,0,1
+Meat,T,TR,2018,0,Meat of horses etc,0,0,0,1
+Meat,T,TR,2019,0,Meat of horses etc,0,0,0,1
+Meat,T,UK,2019,0,Meat of horses etc,0,0,0,1
+Meat,T,BE,2016,3252,Poultry meat,0,0,0,1
+Meat,T,BE,2017,3960,Poultry meat,0,0,0,1
+Meat,T,BE,2018,4904,Poultry meat,0,0,0,1
+Meat,T,BE,2019,5525,Poultry meat,0,0,0,1
+Meat,T,BE,2020,6295,Poultry meat,0,0,0,1
+Meat,T,BG,2012,0,Poultry meat,0,0,0,1
+Meat,T,BG,2014,0,Poultry meat,0,0,0,1
+Meat,T,BG,2015,0,Poultry meat,0,0,0,1
+Meat,T,BG,2016,0,Poultry meat,0,0,0,1
+Meat,T,BG,2017,12,Poultry meat,0,0,0,1
+Meat,T,BG,2018,0,Poultry meat,0,0,0,1
+Meat,T,BG,2019,2,Poultry meat,0,0,0,1
+Meat,T,BG,2020,4,Poultry meat,0,0,0,1
+Meat,T,BG,2021,0,Poultry meat,0,0,0,1
+Meat,T,CY,2013,10,Poultry meat,0,0,0,1
+Meat,T,CY,2014,15,Poultry meat,0,0,0,1
+Meat,T,CY,2017,23,Poultry meat,0,0,0,1
+Meat,T,CY,2019,17,Poultry meat,0,0,0,1
+Meat,T,CY,2020,13,Poultry meat,0,0,0,1
+Meat,T,CY,2021,5,Poultry meat,0,0,0,1
+Meat,T,CZ,2012,161,Poultry meat,0,0,0,1
+Meat,T,CZ,2013,163,Poultry meat,0,0,0,1
+Meat,T,CZ,2014,121,Poultry meat,0,0,0,1
+Meat,T,CZ,2015,117,Poultry meat,0,0,0,1
+Meat,T,CZ,2016,113,Poultry meat,0,0,0,1
+Meat,T,CZ,2017,112,Poultry meat,0,0,0,1
+Meat,T,CZ,2018,167,Poultry meat,0,0,0,1
+Meat,T,CZ,2019,197,Poultry meat,0,0,0,1
+Meat,T,CZ,2020,191,Poultry meat,0,0,0,1
+Meat,T,CZ,2021,196,Poultry meat,0,0,0,1
+Meat,T,DK,2016,,Poultry meat,0,0,0,1
+Meat,T,DK,2017,,Poultry meat,0,0,0,1
+Meat,T,EE,2013,4,Poultry meat,0,0,0,1
+Meat,T,EE,2014,9,Poultry meat,0,0,0,1
+Meat,T,EE,2015,6,Poultry meat,0,0,0,1
+Meat,T,EE,2016,12,Poultry meat,0,0,0,1
+Meat,T,EE,2017,14,Poultry meat,0,0,0,1
+Meat,T,EE,2018,29,Poultry meat,0,0,0,1
+Meat,T,EE,2019,35,Poultry meat,0,0,0,1
+Meat,T,EE,2020,21,Poultry meat,0,0,0,1
+Meat,T,EE,2021,14,Poultry meat,0,0,0,1
+Meat,T,ES,2012,579,Poultry meat,0,0,0,1
+Meat,T,ES,2013,778,Poultry meat,0,0,0,1
+Meat,T,ES,2014,854,Poultry meat,0,0,0,1
+Meat,T,ES,2015,653,Poultry meat,0,0,0,1
+Meat,T,ES,2016,944,Poultry meat,0,0,0,1
+Meat,T,ES,2017,1238,Poultry meat,0,0,0,1
+Meat,T,ES,2018,1289,Poultry meat,0,0,0,1
+Meat,T,ES,2019,1921,Poultry meat,0,0,0,1
+Meat,T,ES,2020,2775,Poultry meat,0,0,0,1
+Meat,T,ES,2021,1663,Poultry meat,0,0,0,1
+Meat,T,FI,2013,30,Poultry meat,0,0,0,1
+Meat,T,FI,2014,80,Poultry meat,0,0,0,1
+Meat,T,FI,2015,210,Poultry meat,0,0,0,1
+Meat,T,FI,2016,180,Poultry meat,0,0,0,1
+Meat,T,FI,2017,,Poultry meat,0,0,0,1
+Meat,T,FI,2018,,Poultry meat,0,0,0,1
+Meat,T,FR,2012,11579,Poultry meat,0,0,0,1
+Meat,T,FR,2013,12348,Poultry meat,0,0,0,1
+Meat,T,FR,2014,14275,Poultry meat,0,0,0,1
+Meat,T,FR,2015,15023,Poultry meat,0,0,0,1
+Meat,T,FR,2016,16077,Poultry meat,0,0,0,1
+Meat,T,FR,2017,18142,Poultry meat,0,0,0,1
+Meat,T,FR,2018,23039,Poultry meat,0,0,0,1
+Meat,T,FR,2019,25179,Poultry meat,0,0,0,1
+Meat,T,FR,2020,25977,Poultry meat,0,0,0,1
+Meat,T,HR,2012,0,Poultry meat,0,0,0,1
+Meat,T,HR,2013,0,Poultry meat,0,0,0,1
+Meat,T,HR,2014,0,Poultry meat,0,0,0,1
+Meat,T,HR,2015,4,Poultry meat,0,0,0,1
+Meat,T,HR,2016,4,Poultry meat,0,0,0,1
+Meat,T,HR,2017,3,Poultry meat,0,0,0,1
+Meat,T,HR,2018,2,Poultry meat,0,0,0,1
+Meat,T,HR,2019,2,Poultry meat,0,0,0,1
+Meat,T,HR,2020,1,Poultry meat,0,0,0,1
+Meat,T,HR,2021,3,Poultry meat,0,0,0,1
+Meat,T,HU,2012,133,Poultry meat,0,0,0,1
+Meat,T,HU,2013,133,Poultry meat,0,0,0,1
+Meat,T,HU,2021,129,Poultry meat,0,0,0,1
+Meat,T,IE,2017,223,Poultry meat,0,0,0,1
+Meat,T,IE,2019,323,Poultry meat,0,0,0,1
+Meat,T,IE,2020,262,Poultry meat,0,0,0,1
+Meat,T,IE,2021,315,Poultry meat,0,0,0,1
+Meat,T,IS,2019,0,Poultry meat,0,0,0,1
+Meat,T,IT,2014,552,Poultry meat,0,0,0,1
+Meat,T,IT,2015,13687,Poultry meat,0,0,0,1
+Meat,T,LT,2013,1,Poultry meat,0,0,0,1
+Meat,T,LT,2014,2,Poultry meat,0,0,0,1
+Meat,T,LT,2015,0,Poultry meat,0,0,0,1
+Meat,T,LT,2016,,Poultry meat,0,0,0,1
+Meat,T,LT,2017,,Poultry meat,0,0,0,1
+Meat,T,LT,2020,,Poultry meat,0,0,0,1
+Meat,T,LT,2021,,Poultry meat,0,0,0,1
+Meat,T,LU,2013,,Poultry meat,0,0,0,1
+Meat,T,LU,2014,,Poultry meat,0,0,0,1
+Meat,T,LU,2015,,Poultry meat,0,0,0,1
+Meat,T,LU,2016,,Poultry meat,0,0,0,1
+Meat,T,LU,2017,,Poultry meat,0,0,0,1
+Meat,T,LU,2018,,Poultry meat,0,0,0,1
+Meat,T,LU,2021,0,Poultry meat,0,0,0,1
+Meat,T,LV,2012,5,Poultry meat,0,0,0,1
+Meat,T,LV,2013,6,Poultry meat,0,0,0,1
+Meat,T,LV,2014,5,Poultry meat,0,0,0,1
+Meat,T,LV,2015,9,Poultry meat,0,0,0,1
+Meat,T,ME,2021,0,Poultry meat,0,0,0,1
+Meat,T,MK,2013,0,Poultry meat,0,0,0,1
+Meat,T,MK,2014,0,Poultry meat,0,0,0,1
+Meat,T,MT,2012,0,Poultry meat,0,0,0,1
+Meat,T,MT,2014,0,Poultry meat,0,0,0,1
+Meat,T,MT,2015,0,Poultry meat,0,0,0,1
+Meat,T,MT,2016,0,Poultry meat,0,0,0,1
+Meat,T,MT,2017,0,Poultry meat,0,0,0,1
+Meat,T,MT,2018,0,Poultry meat,0,0,0,1
+Meat,T,MT,2021,0,Poultry meat,0,0,0,1
+Meat,T,NL,2012,530,Poultry meat,0,0,0,1
+Meat,T,NL,2013,564,Poultry meat,0,0,0,1
+Meat,T,NL,2014,419,Poultry meat,0,0,0,1
+Meat,T,NL,2015,525,Poultry meat,0,0,0,1
+Meat,T,NL,2016,623,Poultry meat,0,0,0,1
+Meat,T,NL,2017,575,Poultry meat,0,0,0,1
+Meat,T,NL,2018,679,Poultry meat,0,0,0,1
+Meat,T,NL,2019,926,Poultry meat,0,0,0,1
+Meat,T,NL,2020,1299,Poultry meat,0,0,0,1
+Meat,T,NL,2021,1071,Poultry meat,0,0,0,1
+Meat,T,NO,2012,162,Poultry meat,0,0,0,1
+Meat,T,NO,2013,213,Poultry meat,0,0,0,1
+Meat,T,NO,2014,208,Poultry meat,0,0,0,1
+Meat,T,NO,2015,165,Poultry meat,0,0,0,1
+Meat,T,NO,2016,228,Poultry meat,0,0,0,1
+Meat,T,NO,2017,328,Poultry meat,0,0,0,1
+Meat,T,NO,2018,459,Poultry meat,0,0,0,1
+Meat,T,NO,2019,534,Poultry meat,0,0,0,1
+Meat,T,NO,2020,576,Poultry meat,0,0,0,1
+Meat,T,PL,2019,22,Poultry meat,0,0,0,1
+Meat,T,RO,2014,0,Poultry meat,0,0,0,1
+Meat,T,RO,2016,0,Poultry meat,0,0,0,1
+Meat,T,RO,2017,1,Poultry meat,0,0,0,1
+Meat,T,RO,2020,4,Poultry meat,0,0,0,1
+Meat,T,RS,2016,0,Poultry meat,0,0,0,1
+Meat,T,RS,2017,0,Poultry meat,0,0,0,1
+Meat,T,RS,2018,3,Poultry meat,0,0,0,1
+Meat,T,RS,2019,14,Poultry meat,0,0,0,1
+Meat,T,SE,2013,317,Poultry meat,0,0,0,1
+Meat,T,SE,2014,347,Poultry meat,0,0,0,1
+Meat,T,SE,2015,520,Poultry meat,0,0,0,1
+Meat,T,SE,2016,1523,Poultry meat,0,0,0,1
+Meat,T,SE,2017,1667,Poultry meat,0,0,0,1
+Meat,T,SE,2018,1217,Poultry meat,0,0,0,1
+Meat,T,SE,2019,1333,Poultry meat,0,0,0,1
+Meat,T,SE,2020,1420,Poultry meat,0,0,0,1
+Meat,T,SE,2021,1318,Poultry meat,0,0,0,1
+Meat,T,SI,2012,17,Poultry meat,0,0,0,1
+Meat,T,SI,2014,14,Poultry meat,0,0,0,1
+Meat,T,SI,2015,2,Poultry meat,0,0,0,1
+Meat,T,SK,2012,0,Poultry meat,0,0,0,1
+Meat,T,SK,2013,0,Poultry meat,0,0,0,1
+Meat,T,SK,2014,0,Poultry meat,0,0,0,1
+Meat,T,SK,2015,0,Poultry meat,0,0,0,1
+Meat,T,SK,2016,0,Poultry meat,0,0,0,1
+Meat,T,TR,2013,1618,Poultry meat,0,0,0,1
+Meat,T,TR,2014,1823,Poultry meat,0,0,0,1
+Meat,T,TR,2015,2130,Poultry meat,0,0,0,1
+Meat,T,TR,2016,1486,Poultry meat,0,0,0,1
+Meat,T,TR,2017,1266,Poultry meat,0,0,0,1
+Meat,T,TR,2018,1261,Poultry meat,0,0,0,1
+Meat,T,TR,2019,697,Poultry meat,0,0,0,1
+Meat,T,UK,2012,1900,Poultry meat,0,0,0,1
+Meat,T,UK,2013,7000,Poultry meat,0,0,0,1
+Meat,T,UK,2014,10000,Poultry meat,0,0,0,1
+Meat,T,UK,2015,8500,Poultry meat,0,0,0,1
+Meat,T,UK,2016,9900,Poultry meat,0,0,0,1
+Meat,T,UK,2017,10900,Poultry meat,0,0,0,1
+Meat,T,UK,2018,11800,Poultry meat,0,0,0,1
+Meat,T,UK,2019,11100,Poultry meat,0,0,0,1
+Meat,T,BG,2021,0,Chicken,0,0,0,1
+Meat,T,EE,2021,3,Chicken,0,0,0,1
+Meat,T,ES,2021,1634,Chicken,0,0,0,1
+Meat,T,LT,2021,,Chicken,0,0,0,1
+Meat,T,LU,2021,0,Chicken,0,0,0,1
+Meat,T,ME,2021,0,Chicken,0,0,0,1
+Meat,T,MT,2021,0,Chicken,0,0,0,1
+Meat,T,NL,2021,1071,Chicken,0,0,0,1
+Meat,T,RO,2021,36,Chicken,0,0,0,1
+Meat,T,SE,2021,1318,Chicken,0,0,0,1
+Meat,T,BG,2021,0,Meat of rabbits,0,0,0,1
+Meat,T,EE,2021,0,Meat of rabbits,0,0,0,1
+Meat,T,LT,2021,0,Meat of rabbits,0,0,0,1
+Meat,T,LU,2021,0,Meat of rabbits,0,0,0,1
+Meat,T,ME,2021,0,Meat of rabbits,0,0,0,1
+Meat,T,MT,2021,0,Meat of rabbits,0,0,0,1
+Meat,T,NL,2021,0,Meat of rabbits,0,0,0,1
+Meat,T,SE,2021,0,Meat of rabbits,0,0,0,1
+Meat,T,BG,2012,0,Other meat,0,0,0,1
+Meat,T,BG,2014,0,Other meat,0,0,0,1
+Meat,T,BG,2015,0,Other meat,0,0,0,1
+Meat,T,BG,2016,0,Other meat,0,0,0,1
+Meat,T,BG,2017,0,Other meat,0,0,0,1
+Meat,T,BG,2018,0,Other meat,0,0,0,1
+Meat,T,BG,2019,6,Other meat,0,0,0,1
+Meat,T,BG,2020,6,Other meat,0,0,0,1
+Meat,T,CY,2012,0,Other meat,0,0,0,1
+Meat,T,CY,2013,0,Other meat,0,0,0,1
+Meat,T,CY,2019,0,Other meat,0,0,0,1
+Meat,T,CY,2020,0,Other meat,0,0,0,1
+Meat,T,CZ,2012,1,Other meat,0,0,0,1
+Meat,T,CZ,2013,2,Other meat,0,0,0,1
+Meat,T,CZ,2014,2,Other meat,0,0,0,1
+Meat,T,CZ,2015,0,Other meat,0,0,0,1
+Meat,T,CZ,2016,1,Other meat,0,0,0,1
+Meat,T,CZ,2017,3,Other meat,0,0,0,1
+Meat,T,CZ,2018,0,Other meat,0,0,0,1
+Meat,T,CZ,2019,0,Other meat,0,0,0,1
+Meat,T,CZ,2020,0,Other meat,0,0,0,1
+Meat,T,DK,2012,0,Other meat,0,0,0,1
+Meat,T,DK,2013,0,Other meat,0,0,0,1
+Meat,T,DK,2016,,Other meat,0,0,0,1
+Meat,T,DK,2017,,Other meat,0,0,0,1
+Meat,T,DK,2018,,Other meat,0,0,0,1
+Meat,T,EE,2012,1,Other meat,0,0,0,1
+Meat,T,EE,2013,2,Other meat,0,0,0,1
+Meat,T,EE,2014,4,Other meat,0,0,0,1
+Meat,T,EE,2015,3,Other meat,0,0,0,1
+Meat,T,EE,2016,5,Other meat,0,0,0,1
+Meat,T,EE,2017,4,Other meat,0,0,0,1
+Meat,T,EE,2018,1,Other meat,0,0,0,1
+Meat,T,EE,2019,1,Other meat,0,0,0,1
+Meat,T,EE,2020,1,Other meat,0,0,0,1
+Meat,T,ES,2012,0,Other meat,0,0,0,1
+Meat,T,ES,2013,0,Other meat,0,0,0,1
+Meat,T,ES,2014,0,Other meat,0,0,0,1
+Meat,T,ES,2015,0,Other meat,0,0,0,1
+Meat,T,ES,2016,0,Other meat,0,0,0,1
+Meat,T,ES,2017,0,Other meat,0,0,0,1
+Meat,T,ES,2018,0,Other meat,0,0,0,1
+Meat,T,ES,2019,2,Other meat,0,0,0,1
+Meat,T,ES,2020,1,Other meat,0,0,0,1
+Meat,T,FI,2015,,Other meat,0,0,0,1
+Meat,T,FI,2016,,Other meat,0,0,0,1
+Meat,T,FI,2017,,Other meat,0,0,0,1
+Meat,T,FI,2018,,Other meat,0,0,0,1
+Meat,T,HR,2012,2,Other meat,0,0,0,1
+Meat,T,HR,2013,0,Other meat,0,0,0,1
+Meat,T,HR,2014,0,Other meat,0,0,0,1
+Meat,T,HU,2012,5,Other meat,0,0,0,1
+Meat,T,HU,2013,5,Other meat,0,0,0,1
+Meat,T,IE,2017,1,Other meat,0,0,0,1
+Meat,T,IE,2019,0,Other meat,0,0,0,1
+Meat,T,IE,2020,0,Other meat,0,0,0,1
+Meat,T,IS,2019,0,Other meat,0,0,0,1
+Meat,T,IT,2013,0,Other meat,0,0,0,1
+Meat,T,IT,2014,1,Other meat,0,0,0,1
+Meat,T,IT,2015,1,Other meat,0,0,0,1
+Meat,T,LT,2012,1,Other meat,0,0,0,1
+Meat,T,LT,2013,46,Other meat,0,0,0,1
+Meat,T,LT,2015,1033,Other meat,0,0,0,1
+Meat,T,LT,2016,,Other meat,0,0,0,1
+Meat,T,LT,2017,,Other meat,0,0,0,1
+Meat,T,LT,2018,,Other meat,0,0,0,1
+Meat,T,LT,2019,,Other meat,0,0,0,1
+Meat,T,LT,2020,,Other meat,0,0,0,1
+Meat,T,LU,2013,,Other meat,0,0,0,1
+Meat,T,LU,2014,,Other meat,0,0,0,1
+Meat,T,LU,2015,,Other meat,0,0,0,1
+Meat,T,LU,2016,,Other meat,0,0,0,1
+Meat,T,LU,2017,,Other meat,0,0,0,1
+Meat,T,LU,2018,,Other meat,0,0,0,1
+Meat,T,LV,2012,12,Other meat,0,0,0,1
+Meat,T,LV,2013,10,Other meat,0,0,0,1
+Meat,T,LV,2014,11,Other meat,0,0,0,1
+Meat,T,LV,2015,23,Other meat,0,0,0,1
+Meat,T,MK,2013,0,Other meat,0,0,0,1
+Meat,T,MK,2014,0,Other meat,0,0,0,1
+Meat,T,MT,2012,0,Other meat,0,0,0,1
+Meat,T,MT,2014,0,Other meat,0,0,0,1
+Meat,T,MT,2015,0,Other meat,0,0,0,1
+Meat,T,MT,2016,0,Other meat,0,0,0,1
+Meat,T,MT,2017,0,Other meat,0,0,0,1
+Meat,T,MT,2018,0,Other meat,0,0,0,1
+Meat,T,NO,2019,0,Other meat,0,0,0,1
+Meat,T,NO,2020,0,Other meat,0,0,0,1
+Meat,T,PL,2019,0,Other meat,0,0,0,1
+Meat,T,RO,2014,0,Other meat,0,0,0,1
+Meat,T,RO,2016,0,Other meat,0,0,0,1
+Meat,T,RO,2019,25,Other meat,0,0,0,1
+Meat,T,RO,2020,0,Other meat,0,0,0,1
+Meat,T,RS,2016,0,Other meat,0,0,0,1
+Meat,T,RS,2017,0,Other meat,0,0,0,1
+Meat,T,RS,2018,0,Other meat,0,0,0,1
+Meat,T,RS,2019,0,Other meat,0,0,0,1
+Meat,T,SE,2014,,Other meat,0,0,0,1
+Meat,T,SI,2012,0,Other meat,0,0,0,1
+Meat,T,SI,2014,0,Other meat,0,0,0,1
+Meat,T,SI,2015,7,Other meat,0,0,0,1
+Meat,T,SK,2012,0,Other meat,0,0,0,1
+Meat,T,SK,2013,0,Other meat,0,0,0,1
+Meat,T,SK,2014,0,Other meat,0,0,0,1
+Meat,T,SK,2015,0,Other meat,0,0,0,1
+Meat,T,SK,2016,0,Other meat,0,0,0,1
+Meat,T,TR,2014,0,Other meat,0,0,0,1
+Meat,T,TR,2015,0,Other meat,0,0,0,1
+Meat,T,TR,2016,0,Other meat,0,0,0,1
+Meat,T,TR,2017,0,Other meat,0,0,0,1
+Meat,T,TR,2018,0,Other meat,0,0,0,1
+Meat,T,TR,2019,0,Other meat,0,0,0,1
+Meat,T,UK,2019,0,Other meat,0,0,0,1
+Dairy,T,AT,2014,443486,Raw milk,1,0,0,0
+Dairy,T,AT,2015,440924,Raw milk,1,0,0,0
+Dairy,T,AT,2016,552389,Raw milk,1,0,0,0
+Dairy,T,AT,2017,612629,Raw milk,1,0,0,0
+Dairy,T,AT,2018,635751,Raw milk,1,0,0,0
+Dairy,T,AT,2019,642340,Raw milk,1,0,0,0
+Dairy,T,AT,2020,649368,Raw milk,1,0,0,0
+Dairy,T,BE,2016,92429,Raw milk,1,0,0,0
+Dairy,T,BE,2017,112145,Raw milk,1,0,0,0
+Dairy,T,BE,2018,120077,Raw milk,1,0,0,0
+Dairy,T,BE,2019,125000,Raw milk,1,0,0,0
+Dairy,T,BE,2020,135683,Raw milk,1,0,0,0
+Dairy,T,BG,2012,0,Raw milk,1,0,0,0
+Dairy,T,BG,2013,2194,Raw milk,1,0,0,0
+Dairy,T,BG,2014,2486,Raw milk,1,0,0,0
+Dairy,T,BG,2015,7347,Raw milk,1,0,0,0
+Dairy,T,BG,2016,8639,Raw milk,1,0,0,0
+Dairy,T,BG,2017,8531,Raw milk,1,0,0,0
+Dairy,T,BG,2018,5280,Raw milk,1,0,0,0
+Dairy,T,BG,2019,11072,Raw milk,1,0,0,0
+Dairy,T,BG,2020,11674,Raw milk,1,0,0,0
+Dairy,T,BG,2021,10651,Raw milk,1,0,0,0
+Dairy,T,CY,2013,879,Raw milk,1,0,0,0
+Dairy,T,CY,2014,1612,Raw milk,1,0,0,0
+Dairy,T,CY,2015,1433,Raw milk,1,0,0,0
+Dairy,T,CY,2016,1696,Raw milk,1,0,0,0
+Dairy,T,CY,2017,2341,Raw milk,1,0,0,0
+Dairy,T,CY,2018,3706,Raw milk,1,0,0,0
+Dairy,T,CY,2019,4763,Raw milk,1,0,0,0
+Dairy,T,CY,2020,4401,Raw milk,1,0,0,0
+Dairy,T,CY,2021,4106,Raw milk,1,0,0,0
+Dairy,T,CZ,2012,31049,Raw milk,1,0,0,0
+Dairy,T,CZ,2013,32374,Raw milk,1,0,0,0
+Dairy,T,CZ,2014,30058,Raw milk,1,0,0,0
+Dairy,T,CZ,2015,32759,Raw milk,1,0,0,0
+Dairy,T,CZ,2016,32916,Raw milk,1,0,0,0
+Dairy,T,CZ,2017,32375,Raw milk,1,0,0,0
+Dairy,T,CZ,2018,33433,Raw milk,1,0,0,0
+Dairy,T,CZ,2019,33578,Raw milk,1,0,0,0
+Dairy,T,CZ,2020,32167,Raw milk,1,0,0,0
+Dairy,T,CZ,2021,32547,Raw milk,1,0,0,0
+Dairy,T,DE,2012,670927,Raw milk,1,0,0,0
+Dairy,T,DE,2013,682000,Raw milk,1,0,0,0
+Dairy,T,DE,2014,708055,Raw milk,1,0,0,0
+Dairy,T,DE,2015,736065,Raw milk,1,0,0,0
+Dairy,T,DE,2016,794717,Raw milk,1,0,0,0
+Dairy,T,DE,2017,939080,Raw milk,1,0,0,0
+Dairy,T,DE,2018,1117821,Raw milk,1,0,0,0
+Dairy,T,DE,2019,1184742,Raw milk,1,0,0,0
+Dairy,T,DE,2020,1234238,Raw milk,1,0,0,0
+Dairy,T,DE,2021,1271853,Raw milk,1,0,0,0
+Dairy,T,DK,2012,479100,Raw milk,1,0,0,0
+Dairy,T,DK,2013,481670,Raw milk,1,0,0,0
+Dairy,T,DK,2014,487100,Raw milk,1,0,0,0
+Dairy,T,DK,2015,483350,Raw milk,1,0,0,0
+Dairy,T,DK,2016,516131,Raw milk,1,0,0,0
+Dairy,T,DK,2017,594000,Raw milk,1,0,0,0
+Dairy,T,DK,2018,689600,Raw milk,1,0,0,0
+Dairy,T,DK,2019,708400,Raw milk,1,0,0,0
+Dairy,T,DK,2020,727716,Raw milk,1,0,0,0
+Dairy,T,EE,2012,12268,Raw milk,1,0,0,0
+Dairy,T,EE,2013,10266,Raw milk,1,0,0,0
+Dairy,T,EE,2014,9396,Raw milk,1,0,0,0
+Dairy,T,EE,2015,8765,Raw milk,1,0,0,0
+Dairy,T,EE,2016,10650,Raw milk,1,0,0,0
+Dairy,T,EE,2017,7186,Raw milk,1,0,0,0
+Dairy,T,EE,2018,7386,Raw milk,1,0,0,0
+Dairy,T,EE,2019,8211,Raw milk,1,0,0,0
+Dairy,T,EE,2020,8879,Raw milk,1,0,0,0
+Dairy,T,EE,2021,9042,Raw milk,1,0,0,0
+Dairy,T,EL,2012,22606,Raw milk,1,0,0,0
+Dairy,T,EL,2013,27383,Raw milk,1,0,0,0
+Dairy,T,EL,2014,34812,Raw milk,1,0,0,0
+Dairy,T,EL,2015,56476,Raw milk,1,0,0,0
+Dairy,T,EL,2016,41578,Raw milk,1,0,0,0
+Dairy,T,EL,2017,57289,Raw milk,1,0,0,0
+Dairy,T,EL,2018,75722,Raw milk,1,0,0,0
+Dairy,T,EL,2019,104938,Raw milk,1,0,0,0
+Dairy,T,EL,2020,130887,Raw milk,1,0,0,0
+Dairy,T,ES,2012,19227,Raw milk,1,0,0,0
+Dairy,T,ES,2013,16410,Raw milk,1,0,0,0
+Dairy,T,ES,2014,19757,Raw milk,1,0,0,0
+Dairy,T,ES,2015,24087,Raw milk,1,0,0,0
+Dairy,T,ES,2016,25129,Raw milk,1,0,0,0
+Dairy,T,ES,2017,28476,Raw milk,1,0,0,0
+Dairy,T,ES,2018,42006,Raw milk,1,0,0,0
+Dairy,T,ES,2019,56164,Raw milk,1,0,0,0
+Dairy,T,ES,2020,68574,Raw milk,1,0,0,0
+Dairy,T,ES,2021,77203,Raw milk,1,0,0,0
+Dairy,T,FI,2012,37569,Raw milk,1,0,0,0
+Dairy,T,FI,2013,42450,Raw milk,1,0,0,0
+Dairy,T,FI,2014,48583,Raw milk,1,0,0,0
+Dairy,T,FI,2015,55800,Raw milk,1,0,0,0
+Dairy,T,FI,2016,56786,Raw milk,1,0,0,0
+Dairy,T,FI,2017,64460,Raw milk,1,0,0,0
+Dairy,T,FI,2018,71028,Raw milk,1,0,0,0
+Dairy,T,FI,2019,76214,Raw milk,1,0,0,0
+Dairy,T,FI,2020,81378,Raw milk,1,0,0,0
+Dairy,T,FR,2012,475155,Raw milk,1,0,0,0
+Dairy,T,FR,2013,522722,Raw milk,1,0,0,0
+Dairy,T,FR,2014,567516,Raw milk,1,0,0,0
+Dairy,T,FR,2015,608684,Raw milk,1,0,0,0
+Dairy,T,FR,2016,603774,Raw milk,1,0,0,0
+Dairy,T,FR,2017,678849,Raw milk,1,0,0,0
+Dairy,T,FR,2018,909336,Raw milk,1,0,0,0
+Dairy,T,FR,2019,1075631,Raw milk,1,0,0,0
+Dairy,T,FR,2020,1219283,Raw milk,1,0,0,0
+Dairy,T,HR,2013,2865,Raw milk,1,0,0,0
+Dairy,T,HR,2014,1782,Raw milk,1,0,0,0
+Dairy,T,HR,2015,5987,Raw milk,1,0,0,0
+Dairy,T,HR,2016,5163,Raw milk,1,0,0,0
+Dairy,T,HR,2017,5782,Raw milk,1,0,0,0
+Dairy,T,HR,2018,3094,Raw milk,1,0,0,0
+Dairy,T,HR,2019,1476,Raw milk,1,0,0,0
+Dairy,T,HR,2020,1869,Raw milk,1,0,0,0
+Dairy,T,HR,2021,871,Raw milk,1,0,0,0
+Dairy,T,HU,2012,9381,Raw milk,1,0,0,0
+Dairy,T,HU,2013,9422,Raw milk,1,0,0,0
+Dairy,T,HU,2014,8856,Raw milk,1,0,0,0
+Dairy,T,HU,2015,11534,Raw milk,1,0,0,0
+Dairy,T,HU,2016,13759,Raw milk,1,0,0,0
+Dairy,T,HU,2017,13487,Raw milk,1,0,0,0
+Dairy,T,HU,2018,4721,Raw milk,1,0,0,0
+Dairy,T,HU,2019,4985,Raw milk,1,0,0,0
+Dairy,T,HU,2020,3209,Raw milk,1,0,0,0
+Dairy,T,HU,2021,6313,Raw milk,1,0,0,0
+Dairy,T,IE,2013,7012,Raw milk,1,0,0,0
+Dairy,T,IE,2014,7703,Raw milk,1,0,0,0
+Dairy,T,IE,2015,5978,Raw milk,1,0,0,0
+Dairy,T,IE,2016,7335,Raw milk,1,0,0,0
+Dairy,T,IE,2017,9035,Raw milk,1,0,0,0
+Dairy,T,IE,2018,17791,Raw milk,1,0,0,0
+Dairy,T,IE,2019,11037,Raw milk,1,0,0,0
+Dairy,T,IE,2020,10722,Raw milk,1,0,0,0
+Dairy,T,IE,2021,14010,Raw milk,1,0,0,0
+Dairy,T,IS,2018,402,Raw milk,1,0,0,0
+Dairy,T,IS,2019,379,Raw milk,1,0,0,0
+Dairy,T,IS,2020,390,Raw milk,1,0,0,0
+Dairy,T,IT,2012,203522,Raw milk,1,0,0,0
+Dairy,T,IT,2013,334376,Raw milk,1,0,0,0
+Dairy,T,IT,2014,551360,Raw milk,1,0,0,0
+Dairy,T,IT,2015,340128,Raw milk,1,0,0,0
+Dairy,T,IT,2016,396074,Raw milk,1,0,0,0
+Dairy,T,IT,2017,448184,Raw milk,1,0,0,0
+Dairy,T,IT,2020,587914,Raw milk,1,0,0,0
+Dairy,T,LT,2012,48413,Raw milk,1,0,0,0
+Dairy,T,LT,2013,53554,Raw milk,1,0,0,0
+Dairy,T,LT,2014,43178,Raw milk,1,0,0,0
+Dairy,T,LT,2015,40060,Raw milk,1,0,0,0
+Dairy,T,LT,2016,41511,Raw milk,1,0,0,0
+Dairy,T,LT,2017,65678,Raw milk,1,0,0,0
+Dairy,T,LT,2018,68133,Raw milk,1,0,0,0
+Dairy,T,LT,2019,75930,Raw milk,1,0,0,0
+Dairy,T,LT,2020,74670,Raw milk,1,0,0,0
+Dairy,T,LT,2021,82911,Raw milk,1,0,0,0
+Dairy,T,LU,2012,2307,Raw milk,1,0,0,0
+Dairy,T,LU,2013,2471,Raw milk,1,0,0,0
+Dairy,T,LU,2014,2455,Raw milk,1,0,0,0
+Dairy,T,LU,2015,2510,Raw milk,1,0,0,0
+Dairy,T,LU,2016,2832,Raw milk,1,0,0,0
+Dairy,T,LU,2017,3277,Raw milk,1,0,0,0
+Dairy,T,LU,2018,4298,Raw milk,1,0,0,0
+Dairy,T,LU,2019,4772,Raw milk,1,0,0,0
+Dairy,T,LU,2020,5864,Raw milk,1,0,0,0
+Dairy,T,LU,2021,5753,Raw milk,1,0,0,0
+Dairy,T,LV,2012,69184,Raw milk,1,0,0,0
+Dairy,T,LV,2013,69999,Raw milk,1,0,0,0
+Dairy,T,LV,2014,75139,Raw milk,1,0,0,0
+Dairy,T,LV,2015,83451,Raw milk,1,0,0,0
+Dairy,T,LV,2016,97981,Raw milk,1,0,0,0
+Dairy,T,LV,2017,96549,Raw milk,1,0,0,0
+Dairy,T,LV,2018,94327,Raw milk,1,0,0,0
+Dairy,T,LV,2019,88116,Raw milk,1,0,0,0
+Dairy,T,LV,2020,87851,Raw milk,1,0,0,0
+Dairy,T,ME,2021,89,Raw milk,1,0,0,0
+Dairy,T,MK,2013,36,Raw milk,1,0,0,0
+Dairy,T,MK,2014,36,Raw milk,1,0,0,0
+Dairy,T,MK,2015,123,Raw milk,1,0,0,0
+Dairy,T,MK,2016,86,Raw milk,1,0,0,0
+Dairy,T,MK,2017,0,Raw milk,1,0,0,0
+Dairy,T,MK,2018,0,Raw milk,1,0,0,0
+Dairy,T,MK,2019,0,Raw milk,1,0,0,0
+Dairy,T,MK,2020,0,Raw milk,1,0,0,0
+Dairy,T,MK,2021,4068,Raw milk,1,0,0,0
+Dairy,T,MT,2012,0,Raw milk,1,0,0,0
+Dairy,T,MT,2013,0,Raw milk,1,0,0,0
+Dairy,T,MT,2014,0,Raw milk,1,0,0,0
+Dairy,T,MT,2015,0,Raw milk,1,0,0,0
+Dairy,T,MT,2016,0,Raw milk,1,0,0,0
+Dairy,T,MT,2017,0,Raw milk,1,0,0,0
+Dairy,T,MT,2018,0,Raw milk,1,0,0,0
+Dairy,T,MT,2019,0,Raw milk,1,0,0,0
+Dairy,T,MT,2020,0,Raw milk,1,0,0,0
+Dairy,T,MT,2021,0,Raw milk,1,0,0,0
+Dairy,T,NL,2012,177620,Raw milk,1,0,0,0
+Dairy,T,NL,2013,191119,Raw milk,1,0,0,0
+Dairy,T,NL,2014,191601,Raw milk,1,0,0,0
+Dairy,T,NL,2015,197956,Raw milk,1,0,0,0
+Dairy,T,NL,2016,218061,Raw milk,1,0,0,0
+Dairy,T,NL,2017,247795,Raw milk,1,0,0,0
+Dairy,T,NL,2018,293681,Raw milk,1,0,0,0
+Dairy,T,NL,2019,301634,Raw milk,1,0,0,0
+Dairy,T,NL,2020,315979,Raw milk,1,0,0,0
+Dairy,T,NL,2021,333838,Raw milk,1,0,0,0
+Dairy,T,NO,2012,55680,Raw milk,1,0,0,0
+Dairy,T,NO,2013,56270,Raw milk,1,0,0,0
+Dairy,T,NO,2014,53526,Raw milk,1,0,0,0
+Dairy,T,NO,2015,53113,Raw milk,1,0,0,0
+Dairy,T,NO,2016,52885,Raw milk,1,0,0,0
+Dairy,T,NO,2017,51864,Raw milk,1,0,0,0
+Dairy,T,NO,2018,51667,Raw milk,1,0,0,0
+Dairy,T,NO,2019,50589,Raw milk,1,0,0,0
+Dairy,T,NO,2020,51165,Raw milk,1,0,0,0
+Dairy,T,PL,2012,35942,Raw milk,1,0,0,0
+Dairy,T,PL,2013,27991,Raw milk,1,0,0,0
+Dairy,T,PL,2014,26583,Raw milk,1,0,0,0
+Dairy,T,PL,2015,25243,Raw milk,1,0,0,0
+Dairy,T,PL,2016,25583,Raw milk,1,0,0,0
+Dairy,T,PL,2017,26734,Raw milk,1,0,0,0
+Dairy,T,PL,2018,26773,Raw milk,1,0,0,0
+Dairy,T,PL,2019,26655,Raw milk,1,0,0,0
+Dairy,T,PL,2020,29493,Raw milk,1,0,0,0
+Dairy,T,RO,2014,35945,Raw milk,1,0,0,0
+Dairy,T,RO,2015,38478,Raw milk,1,0,0,0
+Dairy,T,RO,2016,34995,Raw milk,1,0,0,0
+Dairy,T,RO,2018,28062,Raw milk,1,0,0,0
+Dairy,T,RO,2019,42443,Raw milk,1,0,0,0
+Dairy,T,RO,2020,36140,Raw milk,1,0,0,0
+Dairy,T,RO,2021,39820,Raw milk,1,0,0,0
+Dairy,T,RS,2013,3093,Raw milk,1,0,0,0
+Dairy,T,RS,2014,3883,Raw milk,1,0,0,0
+Dairy,T,RS,2015,6941,Raw milk,1,0,0,0
+Dairy,T,RS,2016,7154,Raw milk,1,0,0,0
+Dairy,T,RS,2017,6567,Raw milk,1,0,0,0
+Dairy,T,RS,2018,7120,Raw milk,1,0,0,0
+Dairy,T,RS,2019,6836,Raw milk,1,0,0,0
+Dairy,T,RS,2020,8615,Raw milk,1,0,0,0
+Dairy,T,SE,2013,365940,Raw milk,1,0,0,0
+Dairy,T,SE,2014,371452,Raw milk,1,0,0,0
+Dairy,T,SE,2015,370259,Raw milk,1,0,0,0
+Dairy,T,SE,2016,371015,Raw milk,1,0,0,0
+Dairy,T,SE,2017,414233,Raw milk,1,0,0,0
+Dairy,T,SE,2018,464970,Raw milk,1,0,0,0
+Dairy,T,SE,2019,464170,Raw milk,1,0,0,0
+Dairy,T,SE,2020,481200,Raw milk,1,0,0,0
+Dairy,T,SE,2021,482320,Raw milk,1,0,0,0
+Dairy,T,SI,2012,4830,Raw milk,1,0,0,0
+Dairy,T,SI,2013,5395,Raw milk,1,0,0,0
+Dairy,T,SI,2014,5626,Raw milk,1,0,0,0
+Dairy,T,SI,2015,6036,Raw milk,1,0,0,0
+Dairy,T,SI,2016,7128,Raw milk,1,0,0,0
+Dairy,T,SI,2017,6051,Raw milk,1,0,0,0
+Dairy,T,SI,2018,7187,Raw milk,1,0,0,0
+Dairy,T,SI,2019,7740,Raw milk,1,0,0,0
+Dairy,T,SI,2020,7715,Raw milk,1,0,0,0
+Dairy,T,SK,2012,19157,Raw milk,1,0,0,0
+Dairy,T,SK,2013,22674,Raw milk,1,0,0,0
+Dairy,T,SK,2014,26299,Raw milk,1,0,0,0
+Dairy,T,SK,2015,9528,Raw milk,1,0,0,0
+Dairy,T,SK,2016,16536,Raw milk,1,0,0,0
+Dairy,T,SK,2017,21140,Raw milk,1,0,0,0
+Dairy,T,SK,2018,25998,Raw milk,1,0,0,0
+Dairy,T,SK,2019,19598,Raw milk,1,0,0,0
+Dairy,T,SK,2020,22577,Raw milk,1,0,0,0
+Dairy,T,TR,2013,54781,Raw milk,1,0,0,0
+Dairy,T,TR,2014,15510,Raw milk,1,0,0,0
+Dairy,T,TR,2015,19739,Raw milk,1,0,0,0
+Dairy,T,TR,2016,21431,Raw milk,1,0,0,0
+Dairy,T,TR,2017,15109,Raw milk,1,0,0,0
+Dairy,T,TR,2018,12884,Raw milk,1,0,0,0
+Dairy,T,TR,2019,5394,Raw milk,1,0,0,0
+Dairy,T,TR,2020,21801,Raw milk,1,0,0,0
+Dairy,T,TR,2021,22818,Raw milk,1,0,0,0
+Dairy,T,UK,2012,417800,Raw milk,1,0,0,0
+Dairy,T,UK,2013,461000,Raw milk,1,0,0,0
+Dairy,T,UK,2014,481600,Raw milk,1,0,0,0
+Dairy,T,UK,2015,489300,Raw milk,1,0,0,0
+Dairy,T,UK,2016,519500,Raw milk,1,0,0,0
+Dairy,T,UK,2017,492000,Raw milk,1,0,0,0
+Dairy,T,UK,2018,564000,Raw milk,1,0,0,0
+Dairy,T,UK,2019,573500,Raw milk,1,0,0,0
+Dairy,T,AT,2018,635751,Raw cows milk,1,0,0,0
+Dairy,T,AT,2019,642340,Raw cows milk,1,0,0,0
+Dairy,T,AT,2021,661688,Raw cows milk,1,0,0,0
+Dairy,T,BE,2016,89375,Raw cows milk,1,0,0,0
+Dairy,T,BE,2017,108545,Raw cows milk,1,0,0,0
+Dairy,T,BE,2018,116208,Raw cows milk,1,0,0,0
+Dairy,T,BE,2019,121225,Raw cows milk,1,0,0,0
+Dairy,T,BE,2020,131263,Raw cows milk,1,0,0,0
+Dairy,T,BG,2012,0,Raw cows milk,1,0,0,0
+Dairy,T,BG,2013,827,Raw cows milk,1,0,0,0
+Dairy,T,BG,2014,1124,Raw cows milk,1,0,0,0
+Dairy,T,BG,2015,5468,Raw cows milk,1,0,0,0
+Dairy,T,BG,2016,6973,Raw cows milk,1,0,0,0
+Dairy,T,BG,2017,6430,Raw cows milk,1,0,0,0
+Dairy,T,BG,2018,2646,Raw cows milk,1,0,0,0
+Dairy,T,BG,2019,8071,Raw cows milk,1,0,0,0
+Dairy,T,BG,2020,8978,Raw cows milk,1,0,0,0
+Dairy,T,BG,2021,9276,Raw cows milk,1,0,0,0
+Dairy,T,CY,2012,0,Raw cows milk,1,0,0,0
+Dairy,T,CY,2013,0,Raw cows milk,1,0,0,0
+Dairy,T,CY,2014,0,Raw cows milk,1,0,0,0
+Dairy,T,CY,2015,130,Raw cows milk,1,0,0,0
+Dairy,T,CY,2016,619,Raw cows milk,1,0,0,0
+Dairy,T,CY,2017,1371,Raw cows milk,1,0,0,0
+Dairy,T,CY,2018,2165,Raw cows milk,1,0,0,0
+Dairy,T,CY,2019,3218,Raw cows milk,1,0,0,0
+Dairy,T,CY,2020,2894,Raw cows milk,1,0,0,0
+Dairy,T,CY,2021,2785,Raw cows milk,1,0,0,0
+Dairy,T,CZ,2012,30680,Raw cows milk,1,0,0,0
+Dairy,T,CZ,2013,32206,Raw cows milk,1,0,0,0
+Dairy,T,CZ,2014,29908,Raw cows milk,1,0,0,0
+Dairy,T,CZ,2015,32607,Raw cows milk,1,0,0,0
+Dairy,T,CZ,2016,32754,Raw cows milk,1,0,0,0
+Dairy,T,CZ,2017,32207,Raw cows milk,1,0,0,0
+Dairy,T,CZ,2018,33309,Raw cows milk,1,0,0,0
+Dairy,T,CZ,2019,33459,Raw cows milk,1,0,0,0
+Dairy,T,CZ,2020,32035,Raw cows milk,1,0,0,0
+Dairy,T,CZ,2021,32361,Raw cows milk,1,0,0,0
+Dairy,T,DE,2021,1266219,Raw cows milk,1,0,0,0
+Dairy,T,DK,2012,479100,Raw cows milk,1,0,0,0
+Dairy,T,DK,2013,481670,Raw cows milk,1,0,0,0
+Dairy,T,DK,2014,487100,Raw cows milk,1,0,0,0
+Dairy,T,DK,2015,483350,Raw cows milk,1,0,0,0
+Dairy,T,DK,2016,516131,Raw cows milk,1,0,0,0
+Dairy,T,DK,2017,594000,Raw cows milk,1,0,0,0
+Dairy,T,DK,2018,689600,Raw cows milk,1,0,0,0
+Dairy,T,DK,2019,708400,Raw cows milk,1,0,0,0
+Dairy,T,EE,2012,12174,Raw cows milk,1,0,0,0
+Dairy,T,EE,2013,10180,Raw cows milk,1,0,0,0
+Dairy,T,EE,2014,9280,Raw cows milk,1,0,0,0
+Dairy,T,EE,2015,8641,Raw cows milk,1,0,0,0
+Dairy,T,EE,2016,10535,Raw cows milk,1,0,0,0
+Dairy,T,EE,2017,7026,Raw cows milk,1,0,0,0
+Dairy,T,EE,2018,7218,Raw cows milk,1,0,0,0
+Dairy,T,EE,2019,8098,Raw cows milk,1,0,0,0
+Dairy,T,EE,2020,8797,Raw cows milk,1,0,0,0
+Dairy,T,EE,2021,8909,Raw cows milk,1,0,0,0
+Dairy,T,ES,2012,11333,Raw cows milk,1,0,0,0
+Dairy,T,ES,2013,12638,Raw cows milk,1,0,0,0
+Dairy,T,ES,2014,11593,Raw cows milk,1,0,0,0
+Dairy,T,ES,2015,13002,Raw cows milk,1,0,0,0
+Dairy,T,ES,2016,15146,Raw cows milk,1,0,0,0
+Dairy,T,ES,2017,18672,Raw cows milk,1,0,0,0
+Dairy,T,ES,2018,27837,Raw cows milk,1,0,0,0
+Dairy,T,ES,2019,40450,Raw cows milk,1,0,0,0
+Dairy,T,ES,2020,48545,Raw cows milk,1,0,0,0
+Dairy,T,ES,2021,53467,Raw cows milk,1,0,0,0
+Dairy,T,FI,2012,37569,Raw cows milk,1,0,0,0
+Dairy,T,FI,2013,42450,Raw cows milk,1,0,0,0
+Dairy,T,FI,2014,48583,Raw cows milk,1,0,0,0
+Dairy,T,FI,2015,55800,Raw cows milk,1,0,0,0
+Dairy,T,FI,2016,56786,Raw cows milk,1,0,0,0
+Dairy,T,FI,2017,64460,Raw cows milk,1,0,0,0
+Dairy,T,FI,2018,71028,Raw cows milk,1,0,0,0
+Dairy,T,FI,2019,76214,Raw cows milk,1,0,0,0
+Dairy,T,FI,2020,81378,Raw cows milk,1,0,0,0
+Dairy,T,FR,2012,460778,Raw cows milk,1,0,0,0
+Dairy,T,FR,2013,506984,Raw cows milk,1,0,0,0
+Dairy,T,FR,2014,550760,Raw cows milk,1,0,0,0
+Dairy,T,FR,2015,588489,Raw cows milk,1,0,0,0
+Dairy,T,FR,2016,581280,Raw cows milk,1,0,0,0
+Dairy,T,FR,2017,649289,Raw cows milk,1,0,0,0
+Dairy,T,FR,2018,872208,Raw cows milk,1,0,0,0
+Dairy,T,FR,2019,1031059,Raw cows milk,1,0,0,0
+Dairy,T,FR,2020,1163967,Raw cows milk,1,0,0,0
+Dairy,T,HR,2012,1627,Raw cows milk,1,0,0,0
+Dairy,T,HR,2013,2797,Raw cows milk,1,0,0,0
+Dairy,T,HR,2014,1700,Raw cows milk,1,0,0,0
+Dairy,T,HR,2015,5947,Raw cows milk,1,0,0,0
+Dairy,T,HR,2016,5023,Raw cows milk,1,0,0,0
+Dairy,T,HR,2017,5671,Raw cows milk,1,0,0,0
+Dairy,T,HR,2018,2846,Raw cows milk,1,0,0,0
+Dairy,T,HR,2019,1087,Raw cows milk,1,0,0,0
+Dairy,T,HR,2020,1555,Raw cows milk,1,0,0,0
+Dairy,T,HR,2021,754,Raw cows milk,1,0,0,0
+Dairy,T,HU,2012,9308,Raw cows milk,1,0,0,0
+Dairy,T,HU,2013,9353,Raw cows milk,1,0,0,0
+Dairy,T,HU,2021,6281,Raw cows milk,1,0,0,0
+Dairy,T,IE,2013,6999,Raw cows milk,1,0,0,0
+Dairy,T,IE,2015,5972,Raw cows milk,1,0,0,0
+Dairy,T,IE,2019,11037,Raw cows milk,1,0,0,0
+Dairy,T,IE,2021,14010,Raw cows milk,1,0,0,0
+Dairy,T,IS,2019,379,Raw cows milk,1,0,0,0
+Dairy,T,IS,2020,390,Raw cows milk,1,0,0,0
+Dairy,T,IT,2012,162504,Raw cows milk,1,0,0,0
+Dairy,T,IT,2013,291693,Raw cows milk,1,0,0,0
+Dairy,T,IT,2014,400000,Raw cows milk,1,0,0,0
+Dairy,T,IT,2015,214627,Raw cows milk,1,0,0,0
+Dairy,T,LT,2012,48307,Raw cows milk,1,0,0,0
+Dairy,T,LT,2013,52670,Raw cows milk,1,0,0,0
+Dairy,T,LT,2014,43025,Raw cows milk,1,0,0,0
+Dairy,T,LT,2015,39890,Raw cows milk,1,0,0,0
+Dairy,T,LT,2016,41395,Raw cows milk,1,0,0,0
+Dairy,T,LT,2017,65560,Raw cows milk,1,0,0,0
+Dairy,T,LT,2018,68047,Raw cows milk,1,0,0,0
+Dairy,T,LT,2019,75862,Raw cows milk,1,0,0,0
+Dairy,T,LT,2020,74633,Raw cows milk,1,0,0,0
+Dairy,T,LT,2021,82865,Raw cows milk,1,0,0,0
+Dairy,T,LU,2012,,Raw cows milk,1,0,0,0
+Dairy,T,LU,2013,,Raw cows milk,1,0,0,0
+Dairy,T,LU,2014,,Raw cows milk,1,0,0,0
+Dairy,T,LU,2015,,Raw cows milk,1,0,0,0
+Dairy,T,LU,2016,,Raw cows milk,1,0,0,0
+Dairy,T,LU,2017,,Raw cows milk,1,0,0,0
+Dairy,T,LU,2018,,Raw cows milk,1,0,0,0
+Dairy,T,LU,2019,,Raw cows milk,1,0,0,0
+Dairy,T,LU,2020,,Raw cows milk,1,0,0,0
+Dairy,T,LU,2021,,Raw cows milk,1,0,0,0
+Dairy,T,LV,2012,68981,Raw cows milk,1,0,0,0
+Dairy,T,LV,2013,69717,Raw cows milk,1,0,0,0
+Dairy,T,LV,2014,75020,Raw cows milk,1,0,0,0
+Dairy,T,LV,2015,83194,Raw cows milk,1,0,0,0
+Dairy,T,LV,2016,97699,Raw cows milk,1,0,0,0
+Dairy,T,LV,2017,96147,Raw cows milk,1,0,0,0
+Dairy,T,LV,2018,93851,Raw cows milk,1,0,0,0
+Dairy,T,ME,2021,70,Raw cows milk,1,0,0,0
+Dairy,T,MK,2013,0,Raw cows milk,1,0,0,0
+Dairy,T,MK,2021,234,Raw cows milk,1,0,0,0
+Dairy,T,MT,2012,0,Raw cows milk,1,0,0,0
+Dairy,T,MT,2014,0,Raw cows milk,1,0,0,0
+Dairy,T,MT,2015,0,Raw cows milk,1,0,0,0
+Dairy,T,MT,2016,0,Raw cows milk,1,0,0,0
+Dairy,T,MT,2017,0,Raw cows milk,1,0,0,0
+Dairy,T,MT,2018,0,Raw cows milk,1,0,0,0
+Dairy,T,MT,2021,0,Raw cows milk,1,0,0,0
+Dairy,T,NL,2012,160510,Raw cows milk,1,0,0,0
+Dairy,T,NL,2013,171234,Raw cows milk,1,0,0,0
+Dairy,T,NL,2014,172907,Raw cows milk,1,0,0,0
+Dairy,T,NL,2015,177695,Raw cows milk,1,0,0,0
+Dairy,T,NL,2016,198576,Raw cows milk,1,0,0,0
+Dairy,T,NL,2017,223181,Raw cows milk,1,0,0,0
+Dairy,T,NL,2018,260260,Raw cows milk,1,0,0,0
+Dairy,T,NL,2019,265314,Raw cows milk,1,0,0,0
+Dairy,T,NL,2020,280287,Raw cows milk,1,0,0,0
+Dairy,T,NL,2021,296192,Raw cows milk,1,0,0,0
+Dairy,T,NO,2012,55680,Raw cows milk,1,0,0,0
+Dairy,T,NO,2013,56270,Raw cows milk,1,0,0,0
+Dairy,T,NO,2014,53526,Raw cows milk,1,0,0,0
+Dairy,T,NO,2015,53113,Raw cows milk,1,0,0,0
+Dairy,T,NO,2016,52885,Raw cows milk,1,0,0,0
+Dairy,T,NO,2017,51864,Raw cows milk,1,0,0,0
+Dairy,T,NO,2018,51667,Raw cows milk,1,0,0,0
+Dairy,T,NO,2019,50589,Raw cows milk,1,0,0,0
+Dairy,T,NO,2020,51165,Raw cows milk,1,0,0,0
+Dairy,T,PL,2012,35154,Raw cows milk,1,0,0,0
+Dairy,T,PL,2013,27324,Raw cows milk,1,0,0,0
+Dairy,T,PL,2014,25943,Raw cows milk,1,0,0,0
+Dairy,T,PL,2015,24524,Raw cows milk,1,0,0,0
+Dairy,T,PL,2016,24881,Raw cows milk,1,0,0,0
+Dairy,T,PL,2017,26018,Raw cows milk,1,0,0,0
+Dairy,T,PL,2018,26017,Raw cows milk,1,0,0,0
+Dairy,T,PL,2019,25946,Raw cows milk,1,0,0,0
+Dairy,T,PL,2020,28806,Raw cows milk,1,0,0,0
+Dairy,T,RO,2014,33103,Raw cows milk,1,0,0,0
+Dairy,T,RO,2016,31551,Raw cows milk,1,0,0,0
+Dairy,T,RO,2019,39609,Raw cows milk,1,0,0,0
+Dairy,T,RO,2020,35775,Raw cows milk,1,0,0,0
+Dairy,T,RO,2021,39184,Raw cows milk,1,0,0,0
+Dairy,T,RS,2013,3093,Raw cows milk,1,0,0,0
+Dairy,T,RS,2016,7154,Raw cows milk,1,0,0,0
+Dairy,T,RS,2017,6567,Raw cows milk,1,0,0,0
+Dairy,T,RS,2018,7110,Raw cows milk,1,0,0,0
+Dairy,T,RS,2019,6815,Raw cows milk,1,0,0,0
+Dairy,T,SE,2013,365940,Raw cows milk,1,0,0,0
+Dairy,T,SE,2014,371452,Raw cows milk,1,0,0,0
+Dairy,T,SE,2015,370259,Raw cows milk,1,0,0,0
+Dairy,T,SE,2016,371015,Raw cows milk,1,0,0,0
+Dairy,T,SE,2017,414233,Raw cows milk,1,0,0,0
+Dairy,T,SE,2018,464970,Raw cows milk,1,0,0,0
+Dairy,T,SE,2019,464170,Raw cows milk,1,0,0,0
+Dairy,T,SE,2020,481200,Raw cows milk,1,0,0,0
+Dairy,T,SE,2021,482320,Raw cows milk,1,0,0,0
+Dairy,T,SI,2012,4591,Raw cows milk,1,0,0,0
+Dairy,T,SI,2013,5122,Raw cows milk,1,0,0,0
+Dairy,T,SI,2014,5416,Raw cows milk,1,0,0,0
+Dairy,T,SI,2015,5832,Raw cows milk,1,0,0,0
+Dairy,T,SK,2012,17558,Raw cows milk,1,0,0,0
+Dairy,T,SK,2013,20941,Raw cows milk,1,0,0,0
+Dairy,T,SK,2014,24491,Raw cows milk,1,0,0,0
+Dairy,T,SK,2015,8800,Raw cows milk,1,0,0,0
+Dairy,T,SK,2016,15349,Raw cows milk,1,0,0,0
+Dairy,T,SK,2017,19184,Raw cows milk,1,0,0,0
+Dairy,T,SK,2018,24811,Raw cows milk,1,0,0,0
+Dairy,T,TR,2013,51003,Raw cows milk,1,0,0,0
+Dairy,T,TR,2014,15113,Raw cows milk,1,0,0,0
+Dairy,T,TR,2015,18120,Raw cows milk,1,0,0,0
+Dairy,T,TR,2016,20298,Raw cows milk,1,0,0,0
+Dairy,T,TR,2017,14674,Raw cows milk,1,0,0,0
+Dairy,T,TR,2018,12293,Raw cows milk,1,0,0,0
+Dairy,T,TR,2019,5148,Raw cows milk,1,0,0,0
+Dairy,T,TR,2021,22500,Raw cows milk,1,0,0,0
+Dairy,T,UK,2012,417800,Raw cows milk,1,0,0,0
+Dairy,T,UK,2013,461000,Raw cows milk,1,0,0,0
+Dairy,T,UK,2014,481600,Raw cows milk,1,0,0,0
+Dairy,T,UK,2015,489300,Raw cows milk,1,0,0,0
+Dairy,T,UK,2016,519500,Raw cows milk,1,0,0,0
+Dairy,T,UK,2017,492000,Raw cows milk,1,0,0,0
+Dairy,T,UK,2018,564000,Raw cows milk,1,0,0,0
+Dairy,T,UK,2019,573500,Raw cows milk,1,0,0,0
+Dairy,T,BG,2012,0,Ewes milk,1,0,0,0
+Dairy,T,BG,2013,325,Ewes milk,1,0,0,0
+Dairy,T,BG,2014,380,Ewes milk,1,0,0,0
+Dairy,T,BG,2015,1455,Ewes milk,1,0,0,0
+Dairy,T,BG,2016,768,Ewes milk,1,0,0,0
+Dairy,T,BG,2017,766,Ewes milk,1,0,0,0
+Dairy,T,BG,2018,1031,Ewes milk,1,0,0,0
+Dairy,T,BG,2019,1679,Ewes milk,1,0,0,0
+Dairy,T,BG,2020,1359,Ewes milk,1,0,0,0
+Dairy,T,BG,2021,1036,Ewes milk,1,0,0,0
+Dairy,T,CY,2013,160,Ewes milk,1,0,0,0
+Dairy,T,CY,2014,261,Ewes milk,1,0,0,0
+Dairy,T,CY,2015,145,Ewes milk,1,0,0,0
+Dairy,T,CY,2016,64,Ewes milk,1,0,0,0
+Dairy,T,CY,2017,77,Ewes milk,1,0,0,0
+Dairy,T,CY,2018,152,Ewes milk,1,0,0,0
+Dairy,T,CY,2019,149,Ewes milk,1,0,0,0
+Dairy,T,CY,2020,180,Ewes milk,1,0,0,0
+Dairy,T,CY,2021,109,Ewes milk,1,0,0,0
+Dairy,T,CZ,2012,119,Ewes milk,1,0,0,0
+Dairy,T,CZ,2013,30,Ewes milk,1,0,0,0
+Dairy,T,CZ,2014,45,Ewes milk,1,0,0,0
+Dairy,T,CZ,2015,62,Ewes milk,1,0,0,0
+Dairy,T,CZ,2016,66,Ewes milk,1,0,0,0
+Dairy,T,CZ,2017,54,Ewes milk,1,0,0,0
+Dairy,T,CZ,2018,21,Ewes milk,1,0,0,0
+Dairy,T,CZ,2019,10,Ewes milk,1,0,0,0
+Dairy,T,CZ,2020,11,Ewes milk,1,0,0,0
+Dairy,T,CZ,2021,35,Ewes milk,1,0,0,0
+Dairy,T,DE,2021,,Ewes milk,1,0,0,0
+Dairy,T,DK,2014,,Ewes milk,1,0,0,0
+Dairy,T,DK,2015,,Ewes milk,1,0,0,0
+Dairy,T,DK,2016,,Ewes milk,1,0,0,0
+Dairy,T,DK,2017,,Ewes milk,1,0,0,0
+Dairy,T,DK,2018,,Ewes milk,1,0,0,0
+Dairy,T,EE,2021,0,Ewes milk,1,0,0,0
+Dairy,T,ES,2012,1056,Ewes milk,1,0,0,0
+Dairy,T,ES,2013,1111,Ewes milk,1,0,0,0
+Dairy,T,ES,2014,1268,Ewes milk,1,0,0,0
+Dairy,T,ES,2015,1094,Ewes milk,1,0,0,0
+Dairy,T,ES,2016,754,Ewes milk,1,0,0,0
+Dairy,T,ES,2017,1535,Ewes milk,1,0,0,0
+Dairy,T,ES,2018,2917,Ewes milk,1,0,0,0
+Dairy,T,ES,2019,3338,Ewes milk,1,0,0,0
+Dairy,T,ES,2020,5583,Ewes milk,1,0,0,0
+Dairy,T,ES,2021,7055,Ewes milk,1,0,0,0
+Dairy,T,FI,2015,,Ewes milk,1,0,0,0
+Dairy,T,FI,2016,,Ewes milk,1,0,0,0
+Dairy,T,FI,2017,,Ewes milk,1,0,0,0
+Dairy,T,FI,2018,0,Ewes milk,1,0,0,0
+Dairy,T,FI,2019,0,Ewes milk,1,0,0,0
+Dairy,T,FI,2020,0,Ewes milk,1,0,0,0
+Dairy,T,FR,2012,11161,Ewes milk,1,0,0,0
+Dairy,T,FR,2013,11438,Ewes milk,1,0,0,0
+Dairy,T,FR,2014,12510,Ewes milk,1,0,0,0
+Dairy,T,FR,2015,15891,Ewes milk,1,0,0,0
+Dairy,T,FR,2016,16580,Ewes milk,1,0,0,0
+Dairy,T,FR,2017,20493,Ewes milk,1,0,0,0
+Dairy,T,FR,2018,25956,Ewes milk,1,0,0,0
+Dairy,T,FR,2019,30276,Ewes milk,1,0,0,0
+Dairy,T,FR,2020,32742,Ewes milk,1,0,0,0
+Dairy,T,HR,2012,15,Ewes milk,1,0,0,0
+Dairy,T,HR,2013,20,Ewes milk,1,0,0,0
+Dairy,T,HR,2014,51,Ewes milk,1,0,0,0
+Dairy,T,HR,2016,37,Ewes milk,1,0,0,0
+Dairy,T,HR,2017,28,Ewes milk,1,0,0,0
+Dairy,T,HR,2018,73,Ewes milk,1,0,0,0
+Dairy,T,HR,2019,108,Ewes milk,1,0,0,0
+Dairy,T,HR,2020,86,Ewes milk,1,0,0,0
+Dairy,T,IE,2017,0,Ewes milk,1,0,0,0
+Dairy,T,IE,2019,0,Ewes milk,1,0,0,0
+Dairy,T,IS,2019,0,Ewes milk,1,0,0,0
+Dairy,T,IT,2012,36301,Ewes milk,1,0,0,0
+Dairy,T,IT,2013,37500,Ewes milk,1,0,0,0
+Dairy,T,IT,2014,140591,Ewes milk,1,0,0,0
+Dairy,T,IT,2015,103525,Ewes milk,1,0,0,0
+Dairy,T,LT,2012,0,Ewes milk,1,0,0,0
+Dairy,T,LT,2013,6,Ewes milk,1,0,0,0
+Dairy,T,LT,2015,24,Ewes milk,1,0,0,0
+Dairy,T,LT,2016,12,Ewes milk,1,0,0,0
+Dairy,T,LT,2017,27,Ewes milk,1,0,0,0
+Dairy,T,LT,2018,27,Ewes milk,1,0,0,0
+Dairy,T,LT,2019,12,Ewes milk,1,0,0,0
+Dairy,T,LT,2020,1,Ewes milk,1,0,0,0
+Dairy,T,LT,2021,3,Ewes milk,1,0,0,0
+Dairy,T,LU,2016,0,Ewes milk,1,0,0,0
+Dairy,T,LU,2017,0,Ewes milk,1,0,0,0
+Dairy,T,LU,2018,0,Ewes milk,1,0,0,0
+Dairy,T,LU,2019,0,Ewes milk,1,0,0,0
+Dairy,T,LU,2020,0,Ewes milk,1,0,0,0
+Dairy,T,LU,2021,0,Ewes milk,1,0,0,0
+Dairy,T,LV,2012,0,Ewes milk,1,0,0,0
+Dairy,T,LV,2013,0,Ewes milk,1,0,0,0
+Dairy,T,LV,2014,0,Ewes milk,1,0,0,0
+Dairy,T,LV,2015,0,Ewes milk,1,0,0,0
+Dairy,T,ME,2021,19,Ewes milk,1,0,0,0
+Dairy,T,MK,2013,0,Ewes milk,1,0,0,0
+Dairy,T,MK,2015,80,Ewes milk,1,0,0,0
+Dairy,T,MK,2016,76,Ewes milk,1,0,0,0
+Dairy,T,MK,2021,3426,Ewes milk,1,0,0,0
+Dairy,T,MT,2012,0,Ewes milk,1,0,0,0
+Dairy,T,MT,2014,0,Ewes milk,1,0,0,0
+Dairy,T,MT,2015,0,Ewes milk,1,0,0,0
+Dairy,T,MT,2016,0,Ewes milk,1,0,0,0
+Dairy,T,MT,2017,0,Ewes milk,1,0,0,0
+Dairy,T,MT,2018,0,Ewes milk,1,0,0,0
+Dairy,T,MT,2021,0,Ewes milk,1,0,0,0
+Dairy,T,PL,2012,50,Ewes milk,1,0,0,0
+Dairy,T,PL,2013,52,Ewes milk,1,0,0,0
+Dairy,T,PL,2014,72,Ewes milk,1,0,0,0
+Dairy,T,PL,2015,58,Ewes milk,1,0,0,0
+Dairy,T,PL,2016,107,Ewes milk,1,0,0,0
+Dairy,T,PL,2017,79,Ewes milk,1,0,0,0
+Dairy,T,PL,2018,88,Ewes milk,1,0,0,0
+Dairy,T,PL,2019,165,Ewes milk,1,0,0,0
+Dairy,T,PL,2020,23,Ewes milk,1,0,0,0
+Dairy,T,RO,2014,2445,Ewes milk,1,0,0,0
+Dairy,T,RO,2016,1102,Ewes milk,1,0,0,0
+Dairy,T,RO,2019,462,Ewes milk,1,0,0,0
+Dairy,T,RO,2020,247,Ewes milk,1,0,0,0
+Dairy,T,RO,2021,599,Ewes milk,1,0,0,0
+Dairy,T,RS,2013,0,Ewes milk,1,0,0,0
+Dairy,T,RS,2016,0,Ewes milk,1,0,0,0
+Dairy,T,RS,2017,0,Ewes milk,1,0,0,0
+Dairy,T,RS,2018,10,Ewes milk,1,0,0,0
+Dairy,T,RS,2019,21,Ewes milk,1,0,0,0
+Dairy,T,SE,2014,,Ewes milk,1,0,0,0
+Dairy,T,SE,2021,0,Ewes milk,1,0,0,0
+Dairy,T,SI,2012,117,Ewes milk,1,0,0,0
+Dairy,T,SI,2013,128,Ewes milk,1,0,0,0
+Dairy,T,SI,2014,104,Ewes milk,1,0,0,0
+Dairy,T,SI,2015,86,Ewes milk,1,0,0,0
+Dairy,T,SK,2012,1591,Ewes milk,1,0,0,0
+Dairy,T,SK,2013,1518,Ewes milk,1,0,0,0
+Dairy,T,SK,2014,1738,Ewes milk,1,0,0,0
+Dairy,T,SK,2015,677,Ewes milk,1,0,0,0
+Dairy,T,SK,2016,1139,Ewes milk,1,0,0,0
+Dairy,T,SK,2017,1899,Ewes milk,1,0,0,0
+Dairy,T,SK,2018,1086,Ewes milk,1,0,0,0
+Dairy,T,TR,2013,1103,Ewes milk,1,0,0,0
+Dairy,T,TR,2014,232,Ewes milk,1,0,0,0
+Dairy,T,TR,2015,472,Ewes milk,1,0,0,0
+Dairy,T,TR,2016,232,Ewes milk,1,0,0,0
+Dairy,T,TR,2017,96,Ewes milk,1,0,0,0
+Dairy,T,TR,2018,48,Ewes milk,1,0,0,0
+Dairy,T,TR,2019,246,Ewes milk,1,0,0,0
+Dairy,T,TR,2021,318,Ewes milk,1,0,0,0
+Dairy,T,UK,2019,0,Ewes milk,1,0,0,0
+Dairy,T,BE,2016,3053,Goats milk,1,0,0,0
+Dairy,T,BE,2017,3600,Goats milk,1,0,0,0
+Dairy,T,BE,2018,3869,Goats milk,1,0,0,0
+Dairy,T,BE,2019,3776,Goats milk,1,0,0,0
+Dairy,T,BE,2020,4420,Goats milk,1,0,0,0
+Dairy,T,BG,2012,0,Goats milk,1,0,0,0
+Dairy,T,BG,2013,1042,Goats milk,1,0,0,0
+Dairy,T,BG,2014,983,Goats milk,1,0,0,0
+Dairy,T,BG,2015,424,Goats milk,1,0,0,0
+Dairy,T,BG,2016,898,Goats milk,1,0,0,0
+Dairy,T,BG,2017,1336,Goats milk,1,0,0,0
+Dairy,T,BG,2018,1603,Goats milk,1,0,0,0
+Dairy,T,BG,2019,1321,Goats milk,1,0,0,0
+Dairy,T,BG,2020,1336,Goats milk,1,0,0,0
+Dairy,T,BG,2021,336,Goats milk,1,0,0,0
+Dairy,T,CY,2013,719,Goats milk,1,0,0,0
+Dairy,T,CY,2014,1351,Goats milk,1,0,0,0
+Dairy,T,CY,2015,1158,Goats milk,1,0,0,0
+Dairy,T,CY,2016,1013,Goats milk,1,0,0,0
+Dairy,T,CY,2017,893,Goats milk,1,0,0,0
+Dairy,T,CY,2018,1389,Goats milk,1,0,0,0
+Dairy,T,CY,2019,1395,Goats milk,1,0,0,0
+Dairy,T,CY,2020,1327,Goats milk,1,0,0,0
+Dairy,T,CY,2021,1212,Goats milk,1,0,0,0
+Dairy,T,CZ,2012,250,Goats milk,1,0,0,0
+Dairy,T,CZ,2013,139,Goats milk,1,0,0,0
+Dairy,T,CZ,2014,105,Goats milk,1,0,0,0
+Dairy,T,CZ,2015,89,Goats milk,1,0,0,0
+Dairy,T,CZ,2016,96,Goats milk,1,0,0,0
+Dairy,T,CZ,2017,113,Goats milk,1,0,0,0
+Dairy,T,CZ,2018,104,Goats milk,1,0,0,0
+Dairy,T,CZ,2019,109,Goats milk,1,0,0,0
+Dairy,T,CZ,2020,121,Goats milk,1,0,0,0
+Dairy,T,CZ,2021,151,Goats milk,1,0,0,0
+Dairy,T,DE,2021,,Goats milk,1,0,0,0
+Dairy,T,DK,2014,,Goats milk,1,0,0,0
+Dairy,T,DK,2015,,Goats milk,1,0,0,0
+Dairy,T,DK,2016,,Goats milk,1,0,0,0
+Dairy,T,DK,2017,,Goats milk,1,0,0,0
+Dairy,T,DK,2018,,Goats milk,1,0,0,0
+Dairy,T,EE,2012,94,Goats milk,1,0,0,0
+Dairy,T,EE,2013,85,Goats milk,1,0,0,0
+Dairy,T,EE,2014,116,Goats milk,1,0,0,0
+Dairy,T,EE,2015,124,Goats milk,1,0,0,0
+Dairy,T,EE,2016,115,Goats milk,1,0,0,0
+Dairy,T,EE,2017,160,Goats milk,1,0,0,0
+Dairy,T,EE,2018,168,Goats milk,1,0,0,0
+Dairy,T,EE,2019,113,Goats milk,1,0,0,0
+Dairy,T,EE,2020,82,Goats milk,1,0,0,0
+Dairy,T,EE,2021,133,Goats milk,1,0,0,0
+Dairy,T,ES,2012,6838,Goats milk,1,0,0,0
+Dairy,T,ES,2013,2661,Goats milk,1,0,0,0
+Dairy,T,ES,2014,6896,Goats milk,1,0,0,0
+Dairy,T,ES,2015,9988,Goats milk,1,0,0,0
+Dairy,T,ES,2016,9227,Goats milk,1,0,0,0
+Dairy,T,ES,2017,8270,Goats milk,1,0,0,0
+Dairy,T,ES,2018,11251,Goats milk,1,0,0,0
+Dairy,T,ES,2019,12376,Goats milk,1,0,0,0
+Dairy,T,ES,2020,14445,Goats milk,1,0,0,0
+Dairy,T,ES,2021,16682,Goats milk,1,0,0,0
+Dairy,T,FI,2015,,Goats milk,1,0,0,0
+Dairy,T,FI,2016,,Goats milk,1,0,0,0
+Dairy,T,FI,2017,,Goats milk,1,0,0,0
+Dairy,T,FR,2012,3216,Goats milk,1,0,0,0
+Dairy,T,FR,2013,4300,Goats milk,1,0,0,0
+Dairy,T,FR,2014,4246,Goats milk,1,0,0,0
+Dairy,T,FR,2015,4304,Goats milk,1,0,0,0
+Dairy,T,FR,2016,5914,Goats milk,1,0,0,0
+Dairy,T,FR,2017,9066,Goats milk,1,0,0,0
+Dairy,T,FR,2018,11171,Goats milk,1,0,0,0
+Dairy,T,FR,2019,14296,Goats milk,1,0,0,0
+Dairy,T,FR,2020,22574,Goats milk,1,0,0,0
+Dairy,T,HR,2012,81,Goats milk,1,0,0,0
+Dairy,T,HR,2013,48,Goats milk,1,0,0,0
+Dairy,T,HR,2014,31,Goats milk,1,0,0,0
+Dairy,T,HR,2015,40,Goats milk,1,0,0,0
+Dairy,T,HR,2016,102,Goats milk,1,0,0,0
+Dairy,T,HR,2017,84,Goats milk,1,0,0,0
+Dairy,T,HR,2018,175,Goats milk,1,0,0,0
+Dairy,T,HR,2019,280,Goats milk,1,0,0,0
+Dairy,T,HR,2020,229,Goats milk,1,0,0,0
+Dairy,T,HU,2012,73,Goats milk,1,0,0,0
+Dairy,T,HU,2013,69,Goats milk,1,0,0,0
+Dairy,T,IE,2013,14,Goats milk,1,0,0,0
+Dairy,T,IE,2015,6,Goats milk,1,0,0,0
+Dairy,T,IE,2017,0,Goats milk,1,0,0,0
+Dairy,T,IE,2019,0,Goats milk,1,0,0,0
+Dairy,T,IS,2019,0,Goats milk,1,0,0,0
+Dairy,T,IT,2012,4717,Goats milk,1,0,0,0
+Dairy,T,IT,2013,5183,Goats milk,1,0,0,0
+Dairy,T,IT,2014,10769,Goats milk,1,0,0,0
+Dairy,T,IT,2015,21976,Goats milk,1,0,0,0
+Dairy,T,LT,2012,106,Goats milk,1,0,0,0
+Dairy,T,LT,2013,103,Goats milk,1,0,0,0
+Dairy,T,LT,2014,153,Goats milk,1,0,0,0
+Dairy,T,LT,2015,146,Goats milk,1,0,0,0
+Dairy,T,LT,2016,104,Goats milk,1,0,0,0
+Dairy,T,LT,2017,91,Goats milk,1,0,0,0
+Dairy,T,LT,2018,59,Goats milk,1,0,0,0
+Dairy,T,LT,2019,55,Goats milk,1,0,0,0
+Dairy,T,LT,2020,36,Goats milk,1,0,0,0
+Dairy,T,LT,2021,43,Goats milk,1,0,0,0
+Dairy,T,LU,2012,,Goats milk,1,0,0,0
+Dairy,T,LU,2013,,Goats milk,1,0,0,0
+Dairy,T,LU,2014,,Goats milk,1,0,0,0
+Dairy,T,LU,2015,,Goats milk,1,0,0,0
+Dairy,T,LU,2016,,Goats milk,1,0,0,0
+Dairy,T,LU,2017,,Goats milk,1,0,0,0
+Dairy,T,LU,2018,,Goats milk,1,0,0,0
+Dairy,T,LU,2019,,Goats milk,1,0,0,0
+Dairy,T,LU,2020,,Goats milk,1,0,0,0
+Dairy,T,LU,2021,,Goats milk,1,0,0,0
+Dairy,T,LV,2012,203,Goats milk,1,0,0,0
+Dairy,T,LV,2013,283,Goats milk,1,0,0,0
+Dairy,T,LV,2014,119,Goats milk,1,0,0,0
+Dairy,T,LV,2015,258,Goats milk,1,0,0,0
+Dairy,T,LV,2016,282,Goats milk,1,0,0,0
+Dairy,T,LV,2017,402,Goats milk,1,0,0,0
+Dairy,T,LV,2018,476,Goats milk,1,0,0,0
+Dairy,T,ME,2021,0,Goats milk,1,0,0,0
+Dairy,T,MK,2013,36,Goats milk,1,0,0,0
+Dairy,T,MK,2015,43,Goats milk,1,0,0,0
+Dairy,T,MK,2016,9,Goats milk,1,0,0,0
+Dairy,T,MK,2021,407,Goats milk,1,0,0,0
+Dairy,T,MT,2012,0,Goats milk,1,0,0,0
+Dairy,T,MT,2014,0,Goats milk,1,0,0,0
+Dairy,T,MT,2015,0,Goats milk,1,0,0,0
+Dairy,T,MT,2016,0,Goats milk,1,0,0,0
+Dairy,T,MT,2017,0,Goats milk,1,0,0,0
+Dairy,T,MT,2018,0,Goats milk,1,0,0,0
+Dairy,T,MT,2021,0,Goats milk,1,0,0,0
+Dairy,T,NL,2012,17110,Goats milk,1,0,0,0
+Dairy,T,NL,2013,19885,Goats milk,1,0,0,0
+Dairy,T,NL,2014,18694,Goats milk,1,0,0,0
+Dairy,T,NL,2015,20261,Goats milk,1,0,0,0
+Dairy,T,NL,2016,19485,Goats milk,1,0,0,0
+Dairy,T,NL,2017,24614,Goats milk,1,0,0,0
+Dairy,T,NL,2018,33421,Goats milk,1,0,0,0
+Dairy,T,NL,2019,36320,Goats milk,1,0,0,0
+Dairy,T,NL,2020,35692,Goats milk,1,0,0,0
+Dairy,T,NL,2021,37646,Goats milk,1,0,0,0
+Dairy,T,PL,2012,739,Goats milk,1,0,0,0
+Dairy,T,PL,2013,615,Goats milk,1,0,0,0
+Dairy,T,PL,2014,567,Goats milk,1,0,0,0
+Dairy,T,PL,2015,661,Goats milk,1,0,0,0
+Dairy,T,PL,2016,595,Goats milk,1,0,0,0
+Dairy,T,PL,2017,637,Goats milk,1,0,0,0
+Dairy,T,PL,2018,668,Goats milk,1,0,0,0
+Dairy,T,PL,2019,543,Goats milk,1,0,0,0
+Dairy,T,PL,2020,664,Goats milk,1,0,0,0
+Dairy,T,RO,2014,398,Goats milk,1,0,0,0
+Dairy,T,RO,2016,82,Goats milk,1,0,0,0
+Dairy,T,RO,2017,70,Goats milk,1,0,0,0
+Dairy,T,RO,2019,2373,Goats milk,1,0,0,0
+Dairy,T,RO,2020,86,Goats milk,1,0,0,0
+Dairy,T,RO,2021,35,Goats milk,1,0,0,0
+Dairy,T,RS,2013,0,Goats milk,1,0,0,0
+Dairy,T,RS,2016,0,Goats milk,1,0,0,0
+Dairy,T,RS,2017,0,Goats milk,1,0,0,0
+Dairy,T,RS,2018,0,Goats milk,1,0,0,0
+Dairy,T,RS,2019,0,Goats milk,1,0,0,0
+Dairy,T,SE,2014,,Goats milk,1,0,0,0
+Dairy,T,SE,2021,0,Goats milk,1,0,0,0
+Dairy,T,SI,2012,122,Goats milk,1,0,0,0
+Dairy,T,SI,2013,144,Goats milk,1,0,0,0
+Dairy,T,SI,2014,106,Goats milk,1,0,0,0
+Dairy,T,SI,2015,119,Goats milk,1,0,0,0
+Dairy,T,SK,2012,8,Goats milk,1,0,0,0
+Dairy,T,SK,2013,215,Goats milk,1,0,0,0
+Dairy,T,SK,2014,70,Goats milk,1,0,0,0
+Dairy,T,SK,2015,51,Goats milk,1,0,0,0
+Dairy,T,SK,2016,48,Goats milk,1,0,0,0
+Dairy,T,SK,2017,57,Goats milk,1,0,0,0
+Dairy,T,SK,2018,101,Goats milk,1,0,0,0
+Dairy,T,TR,2013,2675,Goats milk,1,0,0,0
+Dairy,T,TR,2014,164,Goats milk,1,0,0,0
+Dairy,T,TR,2015,1148,Goats milk,1,0,0,0
+Dairy,T,TR,2016,901,Goats milk,1,0,0,0
+Dairy,T,TR,2017,339,Goats milk,1,0,0,0
+Dairy,T,TR,2018,543,Goats milk,1,0,0,0
+Dairy,T,TR,2021,0,Goats milk,1,0,0,0
+Dairy,T,UK,2019,0,Goats milk,1,0,0,0
+Dairy,T,BG,2021,4,Buffalos milk,1,0,0,0
+Dairy,T,CY,2021,0,Buffalos milk,1,0,0,0
+Dairy,T,EE,2021,0,Buffalos milk,1,0,0,0
+Dairy,T,LT,2021,0,Buffalos milk,1,0,0,0
+Dairy,T,LU,2021,0,Buffalos milk,1,0,0,0
+Dairy,T,ME,2021,0,Buffalos milk,1,0,0,0
+Dairy,T,MT,2021,0,Buffalos milk,1,0,0,0
+Dairy,T,RO,2021,3,Buffalos milk,1,0,0,0
+Dairy,T,SE,2021,0,Buffalos milk,1,0,0,0
+Dairy,T,TR,2021,0,Buffalos milk,1,0,0,0
+Dairy,T,AT,2016,105738,Drinking milk,1,0,0,0
+Dairy,T,AT,2017,114411,Drinking milk,1,0,0,0
+Dairy,T,AT,2018,120142,Drinking milk,1,0,0,0
+Dairy,T,AT,2019,130055,Drinking milk,1,0,0,0
+Dairy,T,AT,2020,148563,Drinking milk,1,0,0,0
+Dairy,T,AT,2021,147684,Drinking milk,1,0,0,0
+Dairy,T,BG,2012,197,Drinking milk,1,0,0,0
+Dairy,T,BG,2013,226,Drinking milk,1,0,0,0
+Dairy,T,BG,2014,13,Drinking milk,1,0,0,0
+Dairy,T,BG,2015,99,Drinking milk,1,0,0,0
+Dairy,T,BG,2016,253,Drinking milk,1,0,0,0
+Dairy,T,BG,2017,845,Drinking milk,1,0,0,0
+Dairy,T,BG,2018,547,Drinking milk,1,0,0,0
+Dairy,T,BG,2019,87,Drinking milk,1,0,0,0
+Dairy,T,BG,2020,136,Drinking milk,1,0,0,0
+Dairy,T,BG,2021,349,Drinking milk,1,0,0,0
+Dairy,T,CY,2013,264,Drinking milk,1,0,0,0
+Dairy,T,CY,2014,484,Drinking milk,1,0,0,0
+Dairy,T,CY,2015,430,Drinking milk,1,0,0,0
+Dairy,T,CY,2016,509,Drinking milk,1,0,0,0
+Dairy,T,CY,2017,702,Drinking milk,1,0,0,0
+Dairy,T,CY,2018,1112,Drinking milk,1,0,0,0
+Dairy,T,CY,2019,1429,Drinking milk,1,0,0,0
+Dairy,T,CY,2020,1320,Drinking milk,1,0,0,0
+Dairy,T,CY,2021,504,Drinking milk,1,0,0,0
+Dairy,T,CZ,2012,835,Drinking milk,1,0,0,0
+Dairy,T,CZ,2013,65,Drinking milk,1,0,0,0
+Dairy,T,CZ,2014,46,Drinking milk,1,0,0,0
+Dairy,T,CZ,2015,193,Drinking milk,1,0,0,0
+Dairy,T,CZ,2016,205,Drinking milk,1,0,0,0
+Dairy,T,CZ,2017,251,Drinking milk,1,0,0,0
+Dairy,T,CZ,2018,313,Drinking milk,1,0,0,0
+Dairy,T,CZ,2019,316,Drinking milk,1,0,0,0
+Dairy,T,CZ,2020,355,Drinking milk,1,0,0,0
+Dairy,T,CZ,2021,297,Drinking milk,1,0,0,0
+Dairy,T,DE,2012,254792,Drinking milk,1,0,0,0
+Dairy,T,DE,2013,250559,Drinking milk,1,0,0,0
+Dairy,T,DE,2014,286700,Drinking milk,1,0,0,0
+Dairy,T,DE,2015,297228,Drinking milk,1,0,0,0
+Dairy,T,DE,2016,334443,Drinking milk,1,0,0,0
+Dairy,T,DE,2017,354246,Drinking milk,1,0,0,0
+Dairy,T,DE,2018,368560,Drinking milk,1,0,0,0
+Dairy,T,DE,2019,392526,Drinking milk,1,0,0,0
+Dairy,T,DE,2020,447365,Drinking milk,1,0,0,0
+Dairy,T,DE,2021,463260,Drinking milk,1,0,0,0
+Dairy,T,DK,2012,170834,Drinking milk,1,0,0,0
+Dairy,T,DK,2013,171530,Drinking milk,1,0,0,0
+Dairy,T,DK,2014,150844,Drinking milk,1,0,0,0
+Dairy,T,DK,2015,147607,Drinking milk,1,0,0,0
+Dairy,T,DK,2016,145200,Drinking milk,1,0,0,0
+Dairy,T,DK,2017,148800,Drinking milk,1,0,0,0
+Dairy,T,DK,2018,164300,Drinking milk,1,0,0,0
+Dairy,T,DK,2019,166000,Drinking milk,1,0,0,0
+Dairy,T,DK,2020,163700,Drinking milk,1,0,0,0
+Dairy,T,EE,2012,0,Drinking milk,1,0,0,0
+Dairy,T,EE,2013,186,Drinking milk,1,0,0,0
+Dairy,T,EE,2015,528,Drinking milk,1,0,0,0
+Dairy,T,EE,2016,277,Drinking milk,1,0,0,0
+Dairy,T,EE,2017,843,Drinking milk,1,0,0,0
+Dairy,T,EE,2018,999,Drinking milk,1,0,0,0
+Dairy,T,EE,2019,1122,Drinking milk,1,0,0,0
+Dairy,T,EE,2020,1257,Drinking milk,1,0,0,0
+Dairy,T,EE,2021,701,Drinking milk,1,0,0,0
+Dairy,T,EL,2012,9440,Drinking milk,1,0,0,0
+Dairy,T,EL,2013,8759,Drinking milk,1,0,0,0
+Dairy,T,EL,2014,6960,Drinking milk,1,0,0,0
+Dairy,T,EL,2015,14763,Drinking milk,1,0,0,0
+Dairy,T,EL,2016,9321,Drinking milk,1,0,0,0
+Dairy,T,EL,2017,10576,Drinking milk,1,0,0,0
+Dairy,T,EL,2018,10823,Drinking milk,1,0,0,0
+Dairy,T,EL,2019,10794,Drinking milk,1,0,0,0
+Dairy,T,EL,2020,9080,Drinking milk,1,0,0,0
+Dairy,T,ES,2012,2311,Drinking milk,1,0,0,0
+Dairy,T,ES,2013,1071,Drinking milk,1,0,0,0
+Dairy,T,ES,2014,2151,Drinking milk,1,0,0,0
+Dairy,T,ES,2015,3531,Drinking milk,1,0,0,0
+Dairy,T,ES,2016,11435,Drinking milk,1,0,0,0
+Dairy,T,ES,2017,17233,Drinking milk,1,0,0,0
+Dairy,T,ES,2018,21682,Drinking milk,1,0,0,0
+Dairy,T,ES,2019,26344,Drinking milk,1,0,0,0
+Dairy,T,ES,2020,26898,Drinking milk,1,0,0,0
+Dairy,T,ES,2021,27515,Drinking milk,1,0,0,0
+Dairy,T,FI,2012,16862,Drinking milk,1,0,0,0
+Dairy,T,FI,2015,,Drinking milk,1,0,0,0
+Dairy,T,FI,2016,,Drinking milk,1,0,0,0
+Dairy,T,FI,2017,,Drinking milk,1,0,0,0
+Dairy,T,FI,2018,,Drinking milk,1,0,0,0
+Dairy,T,FI,2019,,Drinking milk,1,0,0,0
+Dairy,T,FI,2020,,Drinking milk,1,0,0,0
+Dairy,T,FR,2012,197408,Drinking milk,1,0,0,0
+Dairy,T,FR,2013,217473,Drinking milk,1,0,0,0
+Dairy,T,FR,2014,245604,Drinking milk,1,0,0,0
+Dairy,T,FR,2015,270386,Drinking milk,1,0,0,0
+Dairy,T,FR,2016,278592,Drinking milk,1,0,0,0
+Dairy,T,FR,2017,316202,Drinking milk,1,0,0,0
+Dairy,T,FR,2018,328672,Drinking milk,1,0,0,0
+Dairy,T,FR,2019,362228,Drinking milk,1,0,0,0
+Dairy,T,FR,2020,415555,Drinking milk,1,0,0,0
+Dairy,T,HR,2012,222,Drinking milk,1,0,0,0
+Dairy,T,HR,2013,2600,Drinking milk,1,0,0,0
+Dairy,T,HR,2014,0,Drinking milk,1,0,0,0
+Dairy,T,HR,2015,0,Drinking milk,1,0,0,0
+Dairy,T,HR,2018,117,Drinking milk,1,0,0,0
+Dairy,T,HR,2019,105,Drinking milk,1,0,0,0
+Dairy,T,HR,2020,0,Drinking milk,1,0,0,0
+Dairy,T,HR,2021,2,Drinking milk,1,0,0,0
+Dairy,T,HU,2012,6379,Drinking milk,1,0,0,0
+Dairy,T,HU,2013,6360,Drinking milk,1,0,0,0
+Dairy,T,HU,2014,5978,Drinking milk,1,0,0,0
+Dairy,T,HU,2015,7786,Drinking milk,1,0,0,0
+Dairy,T,HU,2016,9907,Drinking milk,1,0,0,0
+Dairy,T,HU,2017,9711,Drinking milk,1,0,0,0
+Dairy,T,HU,2018,3399,Drinking milk,1,0,0,0
+Dairy,T,HU,2019,3589,Drinking milk,1,0,0,0
+Dairy,T,HU,2020,2311,Drinking milk,1,0,0,0
+Dairy,T,HU,2021,4356,Drinking milk,1,0,0,0
+Dairy,T,IE,2014,7100,Drinking milk,1,0,0,0
+Dairy,T,IE,2015,2359,Drinking milk,1,0,0,0
+Dairy,T,IE,2016,536,Drinking milk,1,0,0,0
+Dairy,T,IE,2017,394,Drinking milk,1,0,0,0
+Dairy,T,IE,2018,9316,Drinking milk,1,0,0,0
+Dairy,T,IE,2019,1123,Drinking milk,1,0,0,0
+Dairy,T,IE,2020,2827,Drinking milk,1,0,0,0
+Dairy,T,IE,2021,3238,Drinking milk,1,0,0,0
+Dairy,T,IS,2019,35,Drinking milk,1,0,0,0
+Dairy,T,IS,2020,47,Drinking milk,1,0,0,0
+Dairy,T,IT,2012,20035,Drinking milk,1,0,0,0
+Dairy,T,IT,2013,23685,Drinking milk,1,0,0,0
+Dairy,T,IT,2014,27661,Drinking milk,1,0,0,0
+Dairy,T,IT,2015,23544,Drinking milk,1,0,0,0
+Dairy,T,IT,2016,27491,Drinking milk,1,0,0,0
+Dairy,T,LT,2014,1971,Drinking milk,1,0,0,0
+Dairy,T,LT,2015,1683,Drinking milk,1,0,0,0
+Dairy,T,LT,2016,1740,Drinking milk,1,0,0,0
+Dairy,T,LT,2017,1986,Drinking milk,1,0,0,0
+Dairy,T,LT,2018,2946,Drinking milk,1,0,0,0
+Dairy,T,LT,2019,2867,Drinking milk,1,0,0,0
+Dairy,T,LT,2020,2691,Drinking milk,1,0,0,0
+Dairy,T,LT,2021,3253,Drinking milk,1,0,0,0
+Dairy,T,LU,2012,,Drinking milk,1,0,0,0
+Dairy,T,LU,2013,,Drinking milk,1,0,0,0
+Dairy,T,LU,2014,,Drinking milk,1,0,0,0
+Dairy,T,LU,2015,,Drinking milk,1,0,0,0
+Dairy,T,LU,2016,1178,Drinking milk,1,0,0,0
+Dairy,T,LU,2017,1281,Drinking milk,1,0,0,0
+Dairy,T,LU,2018,1455,Drinking milk,1,0,0,0
+Dairy,T,LU,2019,1640,Drinking milk,1,0,0,0
+Dairy,T,LU,2020,1859,Drinking milk,1,0,0,0
+Dairy,T,LU,2021,1809,Drinking milk,1,0,0,0
+Dairy,T,LV,2012,0,Drinking milk,1,0,0,0
+Dairy,T,LV,2015,0,Drinking milk,1,0,0,0
+Dairy,T,LV,2016,0,Drinking milk,1,0,0,0
+Dairy,T,LV,2017,0,Drinking milk,1,0,0,0
+Dairy,T,LV,2018,0,Drinking milk,1,0,0,0
+Dairy,T,LV,2019,601,Drinking milk,1,0,0,0
+Dairy,T,LV,2020,44,Drinking milk,1,0,0,0
+Dairy,T,ME,2021,0,Drinking milk,1,0,0,0
+Dairy,T,MK,2013,0,Drinking milk,1,0,0,0
+Dairy,T,MK,2014,36,Drinking milk,1,0,0,0
+Dairy,T,MK,2015,0,Drinking milk,1,0,0,0
+Dairy,T,MK,2017,0,Drinking milk,1,0,0,0
+Dairy,T,MK,2018,0,Drinking milk,1,0,0,0
+Dairy,T,MK,2019,0,Drinking milk,1,0,0,0
+Dairy,T,MK,2020,0,Drinking milk,1,0,0,0
+Dairy,T,MT,2012,0,Drinking milk,1,0,0,0
+Dairy,T,MT,2013,0,Drinking milk,1,0,0,0
+Dairy,T,MT,2014,0,Drinking milk,1,0,0,0
+Dairy,T,MT,2015,0,Drinking milk,1,0,0,0
+Dairy,T,MT,2016,0,Drinking milk,1,0,0,0
+Dairy,T,MT,2017,0,Drinking milk,1,0,0,0
+Dairy,T,MT,2018,0,Drinking milk,1,0,0,0
+Dairy,T,MT,2019,0,Drinking milk,1,0,0,0
+Dairy,T,MT,2020,0,Drinking milk,1,0,0,0
+Dairy,T,MT,2021,0,Drinking milk,1,0,0,0
+Dairy,T,NL,2015,60052,Drinking milk,1,0,0,0
+Dairy,T,NL,2016,93323,Drinking milk,1,0,0,0
+Dairy,T,NL,2017,109177,Drinking milk,1,0,0,0
+Dairy,T,NL,2018,117732,Drinking milk,1,0,0,0
+Dairy,T,NL,2019,121385,Drinking milk,1,0,0,0
+Dairy,T,NL,2020,138605,Drinking milk,1,0,0,0
+Dairy,T,NL,2021,96540,Drinking milk,1,0,0,0
+Dairy,T,NO,2014,11926,Drinking milk,1,0,0,0
+Dairy,T,NO,2015,13720,Drinking milk,1,0,0,0
+Dairy,T,NO,2016,14203,Drinking milk,1,0,0,0
+Dairy,T,NO,2017,14308,Drinking milk,1,0,0,0
+Dairy,T,NO,2018,15785,Drinking milk,1,0,0,0
+Dairy,T,NO,2019,16660,Drinking milk,1,0,0,0
+Dairy,T,NO,2020,16983,Drinking milk,1,0,0,0
+Dairy,T,PL,2013,0,Drinking milk,1,0,0,0
+Dairy,T,PL,2014,0,Drinking milk,1,0,0,0
+Dairy,T,PL,2015,0,Drinking milk,1,0,0,0
+Dairy,T,PL,2016,0,Drinking milk,1,0,0,0
+Dairy,T,PL,2017,0,Drinking milk,1,0,0,0
+Dairy,T,PL,2018,0,Drinking milk,1,0,0,0
+Dairy,T,PL,2019,0,Drinking milk,1,0,0,0
+Dairy,T,PL,2020,0,Drinking milk,1,0,0,0
+Dairy,T,RO,2012,1947,Drinking milk,1,0,0,0
+Dairy,T,RO,2013,560,Drinking milk,1,0,0,0
+Dairy,T,RO,2014,1000,Drinking milk,1,0,0,0
+Dairy,T,RO,2015,1000,Drinking milk,1,0,0,0
+Dairy,T,RO,2016,1000,Drinking milk,1,0,0,0
+Dairy,T,RO,2017,1000,Drinking milk,1,0,0,0
+Dairy,T,RO,2018,21918,Drinking milk,1,0,0,0
+Dairy,T,RO,2019,21848,Drinking milk,1,0,0,0
+Dairy,T,RO,2020,25242,Drinking milk,1,0,0,0
+Dairy,T,RO,2021,989,Drinking milk,1,0,0,0
+Dairy,T,RS,2013,0,Drinking milk,1,0,0,0
+Dairy,T,RS,2015,6941,Drinking milk,1,0,0,0
+Dairy,T,RS,2016,7154,Drinking milk,1,0,0,0
+Dairy,T,RS,2017,1217,Drinking milk,1,0,0,0
+Dairy,T,RS,2018,3782,Drinking milk,1,0,0,0
+Dairy,T,RS,2019,2351,Drinking milk,1,0,0,0
+Dairy,T,RS,2020,4298,Drinking milk,1,0,0,0
+Dairy,T,SE,2013,98729,Drinking milk,1,0,0,0
+Dairy,T,SE,2014,116710,Drinking milk,1,0,0,0
+Dairy,T,SE,2015,139234,Drinking milk,1,0,0,0
+Dairy,T,SE,2016,144743,Drinking milk,1,0,0,0
+Dairy,T,SE,2017,140026,Drinking milk,1,0,0,0
+Dairy,T,SE,2018,146210,Drinking milk,1,0,0,0
+Dairy,T,SE,2019,136410,Drinking milk,1,0,0,0
+Dairy,T,SE,2020,127860,Drinking milk,1,0,0,0
+Dairy,T,SE,2021,123440,Drinking milk,1,0,0,0
+Dairy,T,SK,2012,6381,Drinking milk,1,0,0,0
+Dairy,T,SK,2013,5736,Drinking milk,1,0,0,0
+Dairy,T,SK,2014,5447,Drinking milk,1,0,0,0
+Dairy,T,SK,2015,401,Drinking milk,1,0,0,0
+Dairy,T,SK,2016,2111,Drinking milk,1,0,0,0
+Dairy,T,SK,2017,2154,Drinking milk,1,0,0,0
+Dairy,T,SK,2018,2671,Drinking milk,1,0,0,0
+Dairy,T,SK,2019,3142,Drinking milk,1,0,0,0
+Dairy,T,SK,2020,1806,Drinking milk,1,0,0,0
+Dairy,T,TR,2014,0,Drinking milk,1,0,0,0
+Dairy,T,TR,2016,17541,Drinking milk,1,0,0,0
+Dairy,T,TR,2017,15091,Drinking milk,1,0,0,0
+Dairy,T,UK,2012,210400,Drinking milk,1,0,0,0
+Dairy,T,UK,2013,232600,Drinking milk,1,0,0,0
+Dairy,T,UK,2014,231000,Drinking milk,1,0,0,0
+Dairy,T,UK,2015,222200,Drinking milk,1,0,0,0
+Dairy,T,UK,2016,237300,Drinking milk,1,0,0,0
+Dairy,T,UK,2017,236400,Drinking milk,1,0,0,0
+Dairy,T,UK,2018,267000,Drinking milk,1,0,0,0
+Dairy,T,UK,2019,253700,Drinking milk,1,0,0,0
+Dairy,T,AT,2016,4645,Cream ,1,0,0,0
+Dairy,T,AT,2017,5591,Cream ,1,0,0,0
+Dairy,T,AT,2018,5040,Cream ,1,0,0,0
+Dairy,T,AT,2019,5694,Cream ,1,0,0,0
+Dairy,T,AT,2020,7524,Cream ,1,0,0,0
+Dairy,T,AT,2021,8357,Cream ,1,0,0,0
+Dairy,T,BG,2012,5,Cream ,1,0,0,0
+Dairy,T,BG,2013,25,Cream ,1,0,0,0
+Dairy,T,BG,2014,5,Cream ,1,0,0,0
+Dairy,T,BG,2015,4,Cream ,1,0,0,0
+Dairy,T,BG,2016,5,Cream ,1,0,0,0
+Dairy,T,BG,2017,6,Cream ,1,0,0,0
+Dairy,T,BG,2018,6,Cream ,1,0,0,0
+Dairy,T,BG,2019,5,Cream ,1,0,0,0
+Dairy,T,BG,2020,25,Cream ,1,0,0,0
+Dairy,T,BG,2021,9,Cream ,1,0,0,0
+Dairy,T,CY,2012,0,Cream ,1,0,0,0
+Dairy,T,CY,2013,0,Cream ,1,0,0,0
+Dairy,T,CY,2014,0,Cream ,1,0,0,0
+Dairy,T,CY,2015,0,Cream ,1,0,0,0
+Dairy,T,CY,2016,0,Cream ,1,0,0,0
+Dairy,T,CY,2017,0,Cream ,1,0,0,0
+Dairy,T,CY,2018,0,Cream ,1,0,0,0
+Dairy,T,CY,2019,0,Cream ,1,0,0,0
+Dairy,T,CY,2020,0,Cream ,1,0,0,0
+Dairy,T,CY,2021,0,Cream ,1,0,0,0
+Dairy,T,CZ,2012,3,Cream ,1,0,0,0
+Dairy,T,CZ,2013,4,Cream ,1,0,0,0
+Dairy,T,CZ,2014,37,Cream ,1,0,0,0
+Dairy,T,CZ,2015,41,Cream ,1,0,0,0
+Dairy,T,CZ,2016,39,Cream ,1,0,0,0
+Dairy,T,CZ,2017,19,Cream ,1,0,0,0
+Dairy,T,CZ,2018,20,Cream ,1,0,0,0
+Dairy,T,CZ,2019,6,Cream ,1,0,0,0
+Dairy,T,CZ,2020,4,Cream ,1,0,0,0
+Dairy,T,CZ,2021,3,Cream ,1,0,0,0
+Dairy,T,DK,2012,4500,Cream ,1,0,0,0
+Dairy,T,DK,2013,4833,Cream ,1,0,0,0
+Dairy,T,DK,2014,20380,Cream ,1,0,0,0
+Dairy,T,DK,2015,5870,Cream ,1,0,0,0
+Dairy,T,DK,2016,6300,Cream ,1,0,0,0
+Dairy,T,DK,2017,8700,Cream ,1,0,0,0
+Dairy,T,DK,2018,8000,Cream ,1,0,0,0
+Dairy,T,DK,2019,8500,Cream ,1,0,0,0
+Dairy,T,DK,2020,7800,Cream ,1,0,0,0
+Dairy,T,EE,2012,1,Cream ,1,0,0,0
+Dairy,T,EE,2013,4,Cream ,1,0,0,0
+Dairy,T,EE,2014,8,Cream ,1,0,0,0
+Dairy,T,EE,2015,10,Cream ,1,0,0,0
+Dairy,T,EE,2016,12,Cream ,1,0,0,0
+Dairy,T,EE,2017,17,Cream ,1,0,0,0
+Dairy,T,EE,2018,18,Cream ,1,0,0,0
+Dairy,T,EE,2019,23,Cream ,1,0,0,0
+Dairy,T,EE,2020,12,Cream ,1,0,0,0
+Dairy,T,EE,2021,22,Cream ,1,0,0,0
+Dairy,T,EL,2012,75,Cream ,1,0,0,0
+Dairy,T,EL,2013,150,Cream ,1,0,0,0
+Dairy,T,EL,2014,110,Cream ,1,0,0,0
+Dairy,T,EL,2015,121,Cream ,1,0,0,0
+Dairy,T,EL,2016,132,Cream ,1,0,0,0
+Dairy,T,EL,2017,130,Cream ,1,0,0,0
+Dairy,T,EL,2018,132,Cream ,1,0,0,0
+Dairy,T,EL,2019,98,Cream ,1,0,0,0
+Dairy,T,EL,2020,86,Cream ,1,0,0,0
+Dairy,T,ES,2012,4,Cream ,1,0,0,0
+Dairy,T,ES,2013,5,Cream ,1,0,0,0
+Dairy,T,ES,2014,5,Cream ,1,0,0,0
+Dairy,T,ES,2015,6,Cream ,1,0,0,0
+Dairy,T,ES,2016,7,Cream ,1,0,0,0
+Dairy,T,ES,2017,11,Cream ,1,0,0,0
+Dairy,T,ES,2018,9,Cream ,1,0,0,0
+Dairy,T,ES,2019,14,Cream ,1,0,0,0
+Dairy,T,ES,2020,15,Cream ,1,0,0,0
+Dairy,T,ES,2021,95,Cream ,1,0,0,0
+Dairy,T,FI,2015,,Cream ,1,0,0,0
+Dairy,T,FI,2016,,Cream ,1,0,0,0
+Dairy,T,FI,2017,,Cream ,1,0,0,0
+Dairy,T,FI,2018,,Cream ,1,0,0,0
+Dairy,T,FR,2012,2320,Cream ,1,0,0,0
+Dairy,T,FR,2013,2363,Cream ,1,0,0,0
+Dairy,T,FR,2014,3521,Cream ,1,0,0,0
+Dairy,T,FR,2015,4028,Cream ,1,0,0,0
+Dairy,T,FR,2016,4815,Cream ,1,0,0,0
+Dairy,T,FR,2017,5975,Cream ,1,0,0,0
+Dairy,T,FR,2018,8207,Cream ,1,0,0,0
+Dairy,T,FR,2019,10450,Cream ,1,0,0,0
+Dairy,T,FR,2020,9997,Cream ,1,0,0,0
+Dairy,T,HR,2012,0,Cream ,1,0,0,0
+Dairy,T,HR,2013,0,Cream ,1,0,0,0
+Dairy,T,HR,2014,300,Cream ,1,0,0,0
+Dairy,T,HR,2015,0,Cream ,1,0,0,0
+Dairy,T,HR,2019,0,Cream ,1,0,0,0
+Dairy,T,HR,2020,0,Cream ,1,0,0,0
+Dairy,T,HR,2021,0,Cream ,1,0,0,0
+Dairy,T,HU,2012,21,Cream ,1,0,0,0
+Dairy,T,HU,2013,16,Cream ,1,0,0,0
+Dairy,T,HU,2014,15,Cream ,1,0,0,0
+Dairy,T,HU,2015,19,Cream ,1,0,0,0
+Dairy,T,HU,2016,15,Cream ,1,0,0,0
+Dairy,T,HU,2017,15,Cream ,1,0,0,0
+Dairy,T,HU,2018,5,Cream ,1,0,0,0
+Dairy,T,HU,2019,6,Cream ,1,0,0,0
+Dairy,T,HU,2020,4,Cream ,1,0,0,0
+Dairy,T,HU,2021,5,Cream ,1,0,0,0
+Dairy,T,IE,2014,0,Cream ,1,0,0,0
+Dairy,T,IE,2015,2,Cream ,1,0,0,0
+Dairy,T,IE,2016,17,Cream ,1,0,0,0
+Dairy,T,IE,2017,15,Cream ,1,0,0,0
+Dairy,T,IE,2018,70,Cream ,1,0,0,0
+Dairy,T,IE,2019,10,Cream ,1,0,0,0
+Dairy,T,IE,2020,19,Cream ,1,0,0,0
+Dairy,T,IE,2021,27,Cream ,1,0,0,0
+Dairy,T,IS,2019,2,Cream ,1,0,0,0
+Dairy,T,IS,2020,0,Cream ,1,0,0,0
+Dairy,T,IT,2012,1519,Cream ,1,0,0,0
+Dairy,T,IT,2013,980,Cream ,1,0,0,0
+Dairy,T,IT,2014,0,Cream ,1,0,0,0
+Dairy,T,IT,2015,0,Cream ,1,0,0,0
+Dairy,T,IT,2016,0,Cream ,1,0,0,0
+Dairy,T,LT,2014,0,Cream ,1,0,0,0
+Dairy,T,LT,2015,0,Cream ,1,0,0,0
+Dairy,T,LT,2016,0,Cream ,1,0,0,0
+Dairy,T,LT,2017,0,Cream ,1,0,0,0
+Dairy,T,LT,2018,,Cream ,1,0,0,0
+Dairy,T,LT,2019,,Cream ,1,0,0,0
+Dairy,T,LT,2020,,Cream ,1,0,0,0
+Dairy,T,LT,2021,,Cream ,1,0,0,0
+Dairy,T,LU,2012,,Cream ,1,0,0,0
+Dairy,T,LU,2013,,Cream ,1,0,0,0
+Dairy,T,LU,2014,,Cream ,1,0,0,0
+Dairy,T,LU,2015,0,Cream ,1,0,0,0
+Dairy,T,LU,2016,,Cream ,1,0,0,0
+Dairy,T,LU,2017,,Cream ,1,0,0,0
+Dairy,T,LU,2018,,Cream ,1,0,0,0
+Dairy,T,LU,2019,,Cream ,1,0,0,0
+Dairy,T,LU,2020,,Cream ,1,0,0,0
+Dairy,T,LU,2021,,Cream ,1,0,0,0
+Dairy,T,LV,2012,0,Cream ,1,0,0,0
+Dairy,T,LV,2013,0,Cream ,1,0,0,0
+Dairy,T,LV,2014,0,Cream ,1,0,0,0
+Dairy,T,LV,2015,2,Cream ,1,0,0,0
+Dairy,T,LV,2016,0,Cream ,1,0,0,0
+Dairy,T,LV,2017,0,Cream ,1,0,0,0
+Dairy,T,LV,2018,0,Cream ,1,0,0,0
+Dairy,T,LV,2019,0,Cream ,1,0,0,0
+Dairy,T,LV,2020,0,Cream ,1,0,0,0
+Dairy,T,ME,2021,1,Cream ,1,0,0,0
+Dairy,T,MK,2013,0,Cream ,1,0,0,0
+Dairy,T,MK,2014,0,Cream ,1,0,0,0
+Dairy,T,MK,2015,0,Cream ,1,0,0,0
+Dairy,T,MK,2016,0,Cream ,1,0,0,0
+Dairy,T,MK,2017,0,Cream ,1,0,0,0
+Dairy,T,MK,2018,0,Cream ,1,0,0,0
+Dairy,T,MK,2019,0,Cream ,1,0,0,0
+Dairy,T,MK,2020,0,Cream ,1,0,0,0
+Dairy,T,MT,2012,0,Cream ,1,0,0,0
+Dairy,T,MT,2013,0,Cream ,1,0,0,0
+Dairy,T,MT,2014,0,Cream ,1,0,0,0
+Dairy,T,MT,2015,0,Cream ,1,0,0,0
+Dairy,T,MT,2016,0,Cream ,1,0,0,0
+Dairy,T,MT,2017,0,Cream ,1,0,0,0
+Dairy,T,MT,2018,0,Cream ,1,0,0,0
+Dairy,T,MT,2019,0,Cream ,1,0,0,0
+Dairy,T,MT,2020,0,Cream ,1,0,0,0
+Dairy,T,MT,2021,0,Cream ,1,0,0,0
+Dairy,T,NL,2015,1019,Cream ,1,0,0,0
+Dairy,T,NL,2016,274,Cream ,1,0,0,0
+Dairy,T,NL,2017,277,Cream ,1,0,0,0
+Dairy,T,NL,2018,285,Cream ,1,0,0,0
+Dairy,T,NL,2019,588,Cream ,1,0,0,0
+Dairy,T,NL,2020,785,Cream ,1,0,0,0
+Dairy,T,NL,2021,402,Cream ,1,0,0,0
+Dairy,T,NO,2014,792,Cream ,1,0,0,0
+Dairy,T,NO,2015,666,Cream ,1,0,0,0
+Dairy,T,NO,2016,743,Cream ,1,0,0,0
+Dairy,T,NO,2017,702,Cream ,1,0,0,0
+Dairy,T,NO,2018,545,Cream ,1,0,0,0
+Dairy,T,NO,2019,499,Cream ,1,0,0,0
+Dairy,T,NO,2020,587,Cream ,1,0,0,0
+Dairy,T,PL,2012,1,Cream ,1,0,0,0
+Dairy,T,PL,2013,0,Cream ,1,0,0,0
+Dairy,T,PL,2014,0,Cream ,1,0,0,0
+Dairy,T,PL,2015,0,Cream ,1,0,0,0
+Dairy,T,PL,2016,0,Cream ,1,0,0,0
+Dairy,T,PL,2017,0,Cream ,1,0,0,0
+Dairy,T,PL,2018,1,Cream ,1,0,0,0
+Dairy,T,PL,2019,50,Cream ,1,0,0,0
+Dairy,T,PL,2020,1,Cream ,1,0,0,0
+Dairy,T,RO,2012,0,Cream ,1,0,0,0
+Dairy,T,RO,2013,0,Cream ,1,0,0,0
+Dairy,T,RO,2014,42,Cream ,1,0,0,0
+Dairy,T,RO,2015,0,Cream ,1,0,0,0
+Dairy,T,RO,2016,0,Cream ,1,0,0,0
+Dairy,T,RO,2017,0,Cream ,1,0,0,0
+Dairy,T,RO,2018,5,Cream ,1,0,0,0
+Dairy,T,RO,2019,43,Cream ,1,0,0,0
+Dairy,T,RO,2020,34,Cream ,1,0,0,0
+Dairy,T,RO,2021,7,Cream ,1,0,0,0
+Dairy,T,RS,2013,0,Cream ,1,0,0,0
+Dairy,T,RS,2015,0,Cream ,1,0,0,0
+Dairy,T,RS,2017,41,Cream ,1,0,0,0
+Dairy,T,RS,2018,7,Cream ,1,0,0,0
+Dairy,T,RS,2019,60,Cream ,1,0,0,0
+Dairy,T,RS,2020,0,Cream ,1,0,0,0
+Dairy,T,SE,2013,2610,Cream ,1,0,0,0
+Dairy,T,SE,2014,4418,Cream ,1,0,0,0
+Dairy,T,SE,2015,7587,Cream ,1,0,0,0
+Dairy,T,SE,2016,5599,Cream ,1,0,0,0
+Dairy,T,SE,2017,5348,Cream ,1,0,0,0
+Dairy,T,SE,2018,2730,Cream ,1,0,0,0
+Dairy,T,SE,2019,2610,Cream ,1,0,0,0
+Dairy,T,SE,2020,2690,Cream ,1,0,0,0
+Dairy,T,SE,2021,2060,Cream ,1,0,0,0
+Dairy,T,SI,2012,3,Cream ,1,0,0,0
+Dairy,T,SI,2013,10,Cream ,1,0,0,0
+Dairy,T,SI,2014,7,Cream ,1,0,0,0
+Dairy,T,SI,2015,25,Cream ,1,0,0,0
+Dairy,T,SI,2016,27,Cream ,1,0,0,0
+Dairy,T,SI,2017,30,Cream ,1,0,0,0
+Dairy,T,SI,2018,30,Cream ,1,0,0,0
+Dairy,T,SI,2019,13,Cream ,1,0,0,0
+Dairy,T,SI,2020,11,Cream ,1,0,0,0
+Dairy,T,SK,2012,0,Cream ,1,0,0,0
+Dairy,T,SK,2013,0,Cream ,1,0,0,0
+Dairy,T,SK,2014,0,Cream ,1,0,0,0
+Dairy,T,SK,2015,0,Cream ,1,0,0,0
+Dairy,T,SK,2016,0,Cream ,1,0,0,0
+Dairy,T,SK,2018,0,Cream ,1,0,0,0
+Dairy,T,SK,2019,0,Cream ,1,0,0,0
+Dairy,T,SK,2020,0,Cream ,1,0,0,0
+Dairy,T,TR,2014,0,Cream ,1,0,0,0
+Dairy,T,TR,2015,0,Cream ,1,0,0,0
+Dairy,T,TR,2016,0,Cream ,1,0,0,0
+Dairy,T,TR,2017,0,Cream ,1,0,0,0
+Dairy,T,TR,2018,7,Cream ,1,0,0,0
+Dairy,T,UK,2012,7600,Cream ,1,0,0,0
+Dairy,T,UK,2013,10000,Cream ,1,0,0,0
+Dairy,T,UK,2014,9600,Cream ,1,0,0,0
+Dairy,T,UK,2015,6200,Cream ,1,0,0,0
+Dairy,T,UK,2016,9800,Cream ,1,0,0,0
+Dairy,T,UK,2017,10200,Cream ,1,0,0,0
+Dairy,T,UK,2018,11000,Cream ,1,0,0,0
+Dairy,T,UK,2019,12000,Cream ,1,0,0,0
+Dairy,T,AT,2016,29591,yoghurts and other,1,0,0,0
+Dairy,T,AT,2017,26449,yoghurts and other,1,0,0,0
+Dairy,T,AT,2018,31950,yoghurts and other,1,0,0,0
+Dairy,T,AT,2019,32126,yoghurts and other,1,0,0,0
+Dairy,T,AT,2020,37354,yoghurts and other,1,0,0,0
+Dairy,T,AT,2021,35801,yoghurts and other,1,0,0,0
+Dairy,T,BG,2012,55,yoghurts and other,1,0,0,0
+Dairy,T,BG,2013,58,yoghurts and other,1,0,0,0
+Dairy,T,BG,2014,238,yoghurts and other,1,0,0,0
+Dairy,T,BG,2015,191,yoghurts and other,1,0,0,0
+Dairy,T,BG,2016,240,yoghurts and other,1,0,0,0
+Dairy,T,BG,2017,83,yoghurts and other,1,0,0,0
+Dairy,T,BG,2018,271,yoghurts and other,1,0,0,0
+Dairy,T,BG,2019,323,yoghurts and other,1,0,0,0
+Dairy,T,BG,2020,540,yoghurts and other,1,0,0,0
+Dairy,T,BG,2021,1177,yoghurts and other,1,0,0,0
+Dairy,T,CY,2013,132,yoghurts and other,1,0,0,0
+Dairy,T,CY,2014,484,yoghurts and other,1,0,0,0
+Dairy,T,CY,2015,143,yoghurts and other,1,0,0,0
+Dairy,T,CY,2016,170,yoghurts and other,1,0,0,0
+Dairy,T,CY,2017,234,yoghurts and other,1,0,0,0
+Dairy,T,CY,2018,371,yoghurts and other,1,0,0,0
+Dairy,T,CY,2019,476,yoghurts and other,1,0,0,0
+Dairy,T,CY,2020,440,yoghurts and other,1,0,0,0
+Dairy,T,CY,2021,66,yoghurts and other,1,0,0,0
+Dairy,T,CZ,2012,83,yoghurts and other,1,0,0,0
+Dairy,T,CZ,2013,186,yoghurts and other,1,0,0,0
+Dairy,T,CZ,2014,98,yoghurts and other,1,0,0,0
+Dairy,T,CZ,2015,107,yoghurts and other,1,0,0,0
+Dairy,T,CZ,2016,87,yoghurts and other,1,0,0,0
+Dairy,T,CZ,2017,115,yoghurts and other,1,0,0,0
+Dairy,T,CZ,2018,105,yoghurts and other,1,0,0,0
+Dairy,T,CZ,2019,104,yoghurts and other,1,0,0,0
+Dairy,T,CZ,2020,111,yoghurts and other,1,0,0,0
+Dairy,T,CZ,2021,90,yoghurts and other,1,0,0,0
+Dairy,T,DK,2012,20000,yoghurts and other,1,0,0,0
+Dairy,T,DK,2013,20403,yoghurts and other,1,0,0,0
+Dairy,T,DK,2014,20380,yoghurts and other,1,0,0,0
+Dairy,T,DK,2015,20972,yoghurts and other,1,0,0,0
+Dairy,T,DK,2016,21900,yoghurts and other,1,0,0,0
+Dairy,T,DK,2017,24800,yoghurts and other,1,0,0,0
+Dairy,T,DK,2018,29300,yoghurts and other,1,0,0,0
+Dairy,T,DK,2019,32800,yoghurts and other,1,0,0,0
+Dairy,T,DK,2020,31400,yoghurts and other,1,0,0,0
+Dairy,T,EE,2012,47,yoghurts and other,1,0,0,0
+Dairy,T,EE,2013,41,yoghurts and other,1,0,0,0
+Dairy,T,EE,2014,53,yoghurts and other,1,0,0,0
+Dairy,T,EE,2015,189,yoghurts and other,1,0,0,0
+Dairy,T,EE,2016,72,yoghurts and other,1,0,0,0
+Dairy,T,EE,2017,88,yoghurts and other,1,0,0,0
+Dairy,T,EE,2018,88,yoghurts and other,1,0,0,0
+Dairy,T,EE,2019,91,yoghurts and other,1,0,0,0
+Dairy,T,EE,2020,125,yoghurts and other,1,0,0,0
+Dairy,T,EE,2021,97,yoghurts and other,1,0,0,0
+Dairy,T,EL,2012,2338,yoghurts and other,1,0,0,0
+Dairy,T,EL,2013,820,yoghurts and other,1,0,0,0
+Dairy,T,EL,2014,1151,yoghurts and other,1,0,0,0
+Dairy,T,EL,2015,1176,yoghurts and other,1,0,0,0
+Dairy,T,EL,2016,611,yoghurts and other,1,0,0,0
+Dairy,T,EL,2017,985,yoghurts and other,1,0,0,0
+Dairy,T,EL,2018,996,yoghurts and other,1,0,0,0
+Dairy,T,EL,2019,1042,yoghurts and other,1,0,0,0
+Dairy,T,EL,2020,802,yoghurts and other,1,0,0,0
+Dairy,T,ES,2012,435,yoghurts and other,1,0,0,0
+Dairy,T,ES,2013,466,yoghurts and other,1,0,0,0
+Dairy,T,ES,2014,588,yoghurts and other,1,0,0,0
+Dairy,T,ES,2015,1142,yoghurts and other,1,0,0,0
+Dairy,T,ES,2016,2775,yoghurts and other,1,0,0,0
+Dairy,T,ES,2017,2328,yoghurts and other,1,0,0,0
+Dairy,T,ES,2018,2832,yoghurts and other,1,0,0,0
+Dairy,T,ES,2019,3094,yoghurts and other,1,0,0,0
+Dairy,T,ES,2020,3236,yoghurts and other,1,0,0,0
+Dairy,T,ES,2021,2852,yoghurts and other,1,0,0,0
+Dairy,T,FI,2015,,yoghurts and other,1,0,0,0
+Dairy,T,FI,2016,,yoghurts and other,1,0,0,0
+Dairy,T,FI,2017,,yoghurts and other,1,0,0,0
+Dairy,T,FI,2018,,yoghurts and other,1,0,0,0
+Dairy,T,FR,2012,46223,yoghurts and other,1,0,0,0
+Dairy,T,FR,2013,51380,yoghurts and other,1,0,0,0
+Dairy,T,FR,2014,49054,yoghurts and other,1,0,0,0
+Dairy,T,FR,2015,51280,yoghurts and other,1,0,0,0
+Dairy,T,FR,2016,52368,yoghurts and other,1,0,0,0
+Dairy,T,FR,2017,55405,yoghurts and other,1,0,0,0
+Dairy,T,FR,2018,65742,yoghurts and other,1,0,0,0
+Dairy,T,FR,2019,67028,yoghurts and other,1,0,0,0
+Dairy,T,FR,2020,69805,yoghurts and other,1,0,0,0
+Dairy,T,HR,2012,0,yoghurts and other,1,0,0,0
+Dairy,T,HR,2013,0,yoghurts and other,1,0,0,0
+Dairy,T,HR,2014,2,yoghurts and other,1,0,0,0
+Dairy,T,HR,2015,0,yoghurts and other,1,0,0,0
+Dairy,T,HR,2019,0,yoghurts and other,1,0,0,0
+Dairy,T,HR,2020,0,yoghurts and other,1,0,0,0
+Dairy,T,HR,2021,0,yoghurts and other,1,0,0,0
+Dairy,T,HU,2012,94,yoghurts and other,1,0,0,0
+Dairy,T,HU,2013,118,yoghurts and other,1,0,0,0
+Dairy,T,HU,2014,111,yoghurts and other,1,0,0,0
+Dairy,T,HU,2015,144,yoghurts and other,1,0,0,0
+Dairy,T,HU,2016,172,yoghurts and other,1,0,0,0
+Dairy,T,HU,2017,168,yoghurts and other,1,0,0,0
+Dairy,T,HU,2018,59,yoghurts and other,1,0,0,0
+Dairy,T,HU,2019,62,yoghurts and other,1,0,0,0
+Dairy,T,HU,2020,64,yoghurts and other,1,0,0,0
+Dairy,T,HU,2021,95,yoghurts and other,1,0,0,0
+Dairy,T,IE,2014,0,yoghurts and other,1,0,0,0
+Dairy,T,IE,2015,5492,yoghurts and other,1,0,0,0
+Dairy,T,IE,2016,3060,yoghurts and other,1,0,0,0
+Dairy,T,IE,2017,4851,yoghurts and other,1,0,0,0
+Dairy,T,IE,2018,5578,yoghurts and other,1,0,0,0
+Dairy,T,IE,2019,5550,yoghurts and other,1,0,0,0
+Dairy,T,IE,2020,6203,yoghurts and other,1,0,0,0
+Dairy,T,IE,2021,11419,yoghurts and other,1,0,0,0
+Dairy,T,IS,2019,307,yoghurts and other,1,0,0,0
+Dairy,T,IS,2020,315,yoghurts and other,1,0,0,0
+Dairy,T,IT,2012,900,yoghurts and other,1,0,0,0
+Dairy,T,IT,2013,700,yoghurts and other,1,0,0,0
+Dairy,T,IT,2014,0,yoghurts and other,1,0,0,0
+Dairy,T,IT,2015,0,yoghurts and other,1,0,0,0
+Dairy,T,IT,2016,0,yoghurts and other,1,0,0,0
+Dairy,T,LT,2014,,yoghurts and other,1,0,0,0
+Dairy,T,LT,2015,2587,yoghurts and other,1,0,0,0
+Dairy,T,LT,2016,2572,yoghurts and other,1,0,0,0
+Dairy,T,LT,2017,2639,yoghurts and other,1,0,0,0
+Dairy,T,LT,2018,3144,yoghurts and other,1,0,0,0
+Dairy,T,LT,2019,3476,yoghurts and other,1,0,0,0
+Dairy,T,LT,2020,3331,yoghurts and other,1,0,0,0
+Dairy,T,LT,2021,3543,yoghurts and other,1,0,0,0
+Dairy,T,LU,2012,,yoghurts and other,1,0,0,0
+Dairy,T,LU,2013,,yoghurts and other,1,0,0,0
+Dairy,T,LU,2014,,yoghurts and other,1,0,0,0
+Dairy,T,LU,2015,,yoghurts and other,1,0,0,0
+Dairy,T,LU,2016,,yoghurts and other,1,0,0,0
+Dairy,T,LU,2017,,yoghurts and other,1,0,0,0
+Dairy,T,LU,2018,,yoghurts and other,1,0,0,0
+Dairy,T,LU,2019,,yoghurts and other,1,0,0,0
+Dairy,T,LU,2020,,yoghurts and other,1,0,0,0
+Dairy,T,LU,2021,,yoghurts and other,1,0,0,0
+Dairy,T,LV,2012,0,yoghurts and other,1,0,0,0
+Dairy,T,LV,2013,0,yoghurts and other,1,0,0,0
+Dairy,T,LV,2014,0,yoghurts and other,1,0,0,0
+Dairy,T,LV,2015,0,yoghurts and other,1,0,0,0
+Dairy,T,LV,2016,0,yoghurts and other,1,0,0,0
+Dairy,T,LV,2017,0,yoghurts and other,1,0,0,0
+Dairy,T,LV,2018,0,yoghurts and other,1,0,0,0
+Dairy,T,LV,2019,1,yoghurts and other,1,0,0,0
+Dairy,T,LV,2020,2,yoghurts and other,1,0,0,0
+Dairy,T,ME,2021,0,yoghurts and other,1,0,0,0
+Dairy,T,MK,2013,0,yoghurts and other,1,0,0,0
+Dairy,T,MK,2014,0,yoghurts and other,1,0,0,0
+Dairy,T,MK,2015,0,yoghurts and other,1,0,0,0
+Dairy,T,MK,2016,0,yoghurts and other,1,0,0,0
+Dairy,T,MK,2017,0,yoghurts and other,1,0,0,0
+Dairy,T,MK,2018,0,yoghurts and other,1,0,0,0
+Dairy,T,MK,2019,0,yoghurts and other,1,0,0,0
+Dairy,T,MK,2020,0,yoghurts and other,1,0,0,0
+Dairy,T,MT,2012,0,yoghurts and other,1,0,0,0
+Dairy,T,MT,2013,0,yoghurts and other,1,0,0,0
+Dairy,T,MT,2014,0,yoghurts and other,1,0,0,0
+Dairy,T,MT,2015,0,yoghurts and other,1,0,0,0
+Dairy,T,MT,2016,0,yoghurts and other,1,0,0,0
+Dairy,T,MT,2017,0,yoghurts and other,1,0,0,0
+Dairy,T,MT,2018,0,yoghurts and other,1,0,0,0
+Dairy,T,MT,2019,0,yoghurts and other,1,0,0,0
+Dairy,T,MT,2020,0,yoghurts and other,1,0,0,0
+Dairy,T,MT,2021,0,yoghurts and other,1,0,0,0
+Dairy,T,NL,2015,18916,yoghurts and other,1,0,0,0
+Dairy,T,NL,2016,21768,yoghurts and other,1,0,0,0
+Dairy,T,NL,2017,37264,yoghurts and other,1,0,0,0
+Dairy,T,NL,2018,38101,yoghurts and other,1,0,0,0
+Dairy,T,NL,2019,33064,yoghurts and other,1,0,0,0
+Dairy,T,NL,2020,34819,yoghurts and other,1,0,0,0
+Dairy,T,NL,2021,32487,yoghurts and other,1,0,0,0
+Dairy,T,NO,2014,5877,yoghurts and other,1,0,0,0
+Dairy,T,NO,2015,6386,yoghurts and other,1,0,0,0
+Dairy,T,NO,2016,5992,yoghurts and other,1,0,0,0
+Dairy,T,NO,2017,5994,yoghurts and other,1,0,0,0
+Dairy,T,NO,2018,6355,yoghurts and other,1,0,0,0
+Dairy,T,NO,2019,5851,yoghurts and other,1,0,0,0
+Dairy,T,NO,2020,5468,yoghurts and other,1,0,0,0
+Dairy,T,PL,2013,0,yoghurts and other,1,0,0,0
+Dairy,T,PL,2014,0,yoghurts and other,1,0,0,0
+Dairy,T,PL,2015,0,yoghurts and other,1,0,0,0
+Dairy,T,PL,2016,0,yoghurts and other,1,0,0,0
+Dairy,T,PL,2017,0,yoghurts and other,1,0,0,0
+Dairy,T,PL,2018,0,yoghurts and other,1,0,0,0
+Dairy,T,PL,2019,78,yoghurts and other,1,0,0,0
+Dairy,T,PL,2020,10,yoghurts and other,1,0,0,0
+Dairy,T,RO,2013,18,yoghurts and other,1,0,0,0
+Dairy,T,RO,2014,40,yoghurts and other,1,0,0,0
+Dairy,T,RO,2015,55,yoghurts and other,1,0,0,0
+Dairy,T,RO,2016,50,yoghurts and other,1,0,0,0
+Dairy,T,RO,2017,50,yoghurts and other,1,0,0,0
+Dairy,T,RO,2018,16,yoghurts and other,1,0,0,0
+Dairy,T,RO,2019,18,yoghurts and other,1,0,0,0
+Dairy,T,RO,2020,21,yoghurts and other,1,0,0,0
+Dairy,T,RO,2021,20,yoghurts and other,1,0,0,0
+Dairy,T,RS,2013,0,yoghurts and other,1,0,0,0
+Dairy,T,RS,2015,0,yoghurts and other,1,0,0,0
+Dairy,T,RS,2017,1075,yoghurts and other,1,0,0,0
+Dairy,T,RS,2018,1139,yoghurts and other,1,0,0,0
+Dairy,T,RS,2019,940,yoghurts and other,1,0,0,0
+Dairy,T,RS,2020,1119,yoghurts and other,1,0,0,0
+Dairy,T,SE,2013,22131,yoghurts and other,1,0,0,0
+Dairy,T,SE,2014,26327,yoghurts and other,1,0,0,0
+Dairy,T,SE,2015,36393,yoghurts and other,1,0,0,0
+Dairy,T,SE,2016,27367,yoghurts and other,1,0,0,0
+Dairy,T,SE,2017,25993,yoghurts and other,1,0,0,0
+Dairy,T,SE,2018,32110,yoghurts and other,1,0,0,0
+Dairy,T,SE,2019,28970,yoghurts and other,1,0,0,0
+Dairy,T,SE,2020,27090,yoghurts and other,1,0,0,0
+Dairy,T,SE,2021,24170,yoghurts and other,1,0,0,0
+Dairy,T,SI,2012,105,yoghurts and other,1,0,0,0
+Dairy,T,SI,2013,36,yoghurts and other,1,0,0,0
+Dairy,T,SI,2014,27,yoghurts and other,1,0,0,0
+Dairy,T,SI,2015,7,yoghurts and other,1,0,0,0
+Dairy,T,SI,2016,29,yoghurts and other,1,0,0,0
+Dairy,T,SI,2017,432,yoghurts and other,1,0,0,0
+Dairy,T,SI,2018,518,yoghurts and other,1,0,0,0
+Dairy,T,SI,2019,383,yoghurts and other,1,0,0,0
+Dairy,T,SI,2020,589,yoghurts and other,1,0,0,0
+Dairy,T,SK,2012,371,yoghurts and other,1,0,0,0
+Dairy,T,SK,2013,347,yoghurts and other,1,0,0,0
+Dairy,T,SK,2014,327,yoghurts and other,1,0,0,0
+Dairy,T,SK,2015,10,yoghurts and other,1,0,0,0
+Dairy,T,SK,2016,98,yoghurts and other,1,0,0,0
+Dairy,T,SK,2017,32,yoghurts and other,1,0,0,0
+Dairy,T,SK,2018,30,yoghurts and other,1,0,0,0
+Dairy,T,SK,2019,50,yoghurts and other,1,0,0,0
+Dairy,T,SK,2020,56,yoghurts and other,1,0,0,0
+Dairy,T,TR,2014,0,yoghurts and other,1,0,0,0
+Dairy,T,TR,2015,0,yoghurts and other,1,0,0,0
+Dairy,T,TR,2016,0,yoghurts and other,1,0,0,0
+Dairy,T,TR,2017,0,yoghurts and other,1,0,0,0
+Dairy,T,TR,2018,0,yoghurts and other,1,0,0,0
+Dairy,T,UK,2012,8000,yoghurts and other,1,0,0,0
+Dairy,T,UK,2013,9100,yoghurts and other,1,0,0,0
+Dairy,T,UK,2014,8700,yoghurts and other,1,0,0,0
+Dairy,T,UK,2015,9600,yoghurts and other,1,0,0,0
+Dairy,T,UK,2016,11000,yoghurts and other,1,0,0,0
+Dairy,T,UK,2017,12800,yoghurts and other,1,0,0,0
+Dairy,T,UK,2018,15100,yoghurts and other,1,0,0,0
+Dairy,T,UK,2019,18500,yoghurts and other,1,0,0,0
+Dairy,T,AT,2016,3586,Butter,1,0,0,0
+Dairy,T,AT,2017,3793,Butter,1,0,0,0
+Dairy,T,AT,2018,3792,Butter,1,0,0,0
+Dairy,T,AT,2019,4070,Butter,1,0,0,0
+Dairy,T,AT,2020,4822,Butter,1,0,0,0
+Dairy,T,AT,2021,4268,Butter,1,0,0,0
+Dairy,T,BG,2012,0,Butter,1,0,0,0
+Dairy,T,BG,2013,4,Butter,1,0,0,0
+Dairy,T,BG,2014,0,Butter,1,0,0,0
+Dairy,T,BG,2015,1,Butter,1,0,0,0
+Dairy,T,BG,2016,14,Butter,1,0,0,0
+Dairy,T,BG,2017,15,Butter,1,0,0,0
+Dairy,T,BG,2018,11,Butter,1,0,0,0
+Dairy,T,BG,2019,9,Butter,1,0,0,0
+Dairy,T,BG,2020,0,Butter,1,0,0,0
+Dairy,T,BG,2021,3,Butter,1,0,0,0
+Dairy,T,CY,2012,0,Butter,1,0,0,0
+Dairy,T,CY,2013,0,Butter,1,0,0,0
+Dairy,T,CY,2014,0,Butter,1,0,0,0
+Dairy,T,CY,2015,0,Butter,1,0,0,0
+Dairy,T,CY,2016,0,Butter,1,0,0,0
+Dairy,T,CY,2017,0,Butter,1,0,0,0
+Dairy,T,CY,2018,0,Butter,1,0,0,0
+Dairy,T,CY,2019,0,Butter,1,0,0,0
+Dairy,T,CY,2020,0,Butter,1,0,0,0
+Dairy,T,CY,2021,0,Butter,1,0,0,0
+Dairy,T,CZ,2012,1,Butter,1,0,0,0
+Dairy,T,CZ,2013,1,Butter,1,0,0,0
+Dairy,T,CZ,2014,3,Butter,1,0,0,0
+Dairy,T,CZ,2015,2,Butter,1,0,0,0
+Dairy,T,CZ,2016,2,Butter,1,0,0,0
+Dairy,T,CZ,2017,3,Butter,1,0,0,0
+Dairy,T,CZ,2018,4,Butter,1,0,0,0
+Dairy,T,CZ,2019,3,Butter,1,0,0,0
+Dairy,T,CZ,2020,3,Butter,1,0,0,0
+Dairy,T,CZ,2021,5,Butter,1,0,0,0
+Dairy,T,DE,2012,13707,Butter,1,0,0,0
+Dairy,T,DE,2013,12853,Butter,1,0,0,0
+Dairy,T,DE,2014,13949,Butter,1,0,0,0
+Dairy,T,DE,2015,13930,Butter,1,0,0,0
+Dairy,T,DE,2016,13791,Butter,1,0,0,0
+Dairy,T,DE,2017,15852,Butter,1,0,0,0
+Dairy,T,DE,2018,15805,Butter,1,0,0,0
+Dairy,T,DE,2019,13887,Butter,1,0,0,0
+Dairy,T,DE,2020,14639,Butter,1,0,0,0
+Dairy,T,DE,2021,14723,Butter,1,0,0,0
+Dairy,T,DK,2012,2989,Butter,1,0,0,0
+Dairy,T,DK,2014,3722,Butter,1,0,0,0
+Dairy,T,DK,2015,5018,Butter,1,0,0,0
+Dairy,T,DK,2016,7300,Butter,1,0,0,0
+Dairy,T,DK,2017,8055,Butter,1,0,0,0
+Dairy,T,DK,2018,13400,Butter,1,0,0,0
+Dairy,T,DK,2019,14500,Butter,1,0,0,0
+Dairy,T,DK,2020,12300,Butter,1,0,0,0
+Dairy,T,EE,2012,0,Butter,1,0,0,0
+Dairy,T,EE,2013,1,Butter,1,0,0,0
+Dairy,T,EE,2014,1,Butter,1,0,0,0
+Dairy,T,EE,2015,1,Butter,1,0,0,0
+Dairy,T,EE,2016,2,Butter,1,0,0,0
+Dairy,T,EE,2017,2,Butter,1,0,0,0
+Dairy,T,EE,2018,0,Butter,1,0,0,0
+Dairy,T,EE,2019,0,Butter,1,0,0,0
+Dairy,T,EE,2020,4,Butter,1,0,0,0
+Dairy,T,EE,2021,5,Butter,1,0,0,0
+Dairy,T,EL,2012,9,Butter,1,0,0,0
+Dairy,T,EL,2013,4,Butter,1,0,0,0
+Dairy,T,EL,2014,5,Butter,1,0,0,0
+Dairy,T,EL,2015,65,Butter,1,0,0,0
+Dairy,T,EL,2016,51,Butter,1,0,0,0
+Dairy,T,EL,2017,44,Butter,1,0,0,0
+Dairy,T,EL,2018,45,Butter,1,0,0,0
+Dairy,T,EL,2019,45,Butter,1,0,0,0
+Dairy,T,EL,2020,41,Butter,1,0,0,0
+Dairy,T,ES,2012,10,Butter,1,0,0,0
+Dairy,T,ES,2013,786,Butter,1,0,0,0
+Dairy,T,ES,2014,4,Butter,1,0,0,0
+Dairy,T,ES,2015,0,Butter,1,0,0,0
+Dairy,T,ES,2016,10,Butter,1,0,0,0
+Dairy,T,ES,2017,9,Butter,1,0,0,0
+Dairy,T,ES,2018,14,Butter,1,0,0,0
+Dairy,T,ES,2019,15,Butter,1,0,0,0
+Dairy,T,ES,2020,19,Butter,1,0,0,0
+Dairy,T,ES,2021,21,Butter,1,0,0,0
+Dairy,T,FI,2015,,Butter,1,0,0,0
+Dairy,T,FI,2016,,Butter,1,0,0,0
+Dairy,T,FI,2017,,Butter,1,0,0,0
+Dairy,T,FI,2018,,Butter,1,0,0,0
+Dairy,T,FR,2012,6663,Butter,1,0,0,0
+Dairy,T,FR,2013,7357,Butter,1,0,0,0
+Dairy,T,FR,2014,7938,Butter,1,0,0,0
+Dairy,T,FR,2015,8716,Butter,1,0,0,0
+Dairy,T,FR,2016,9542,Butter,1,0,0,0
+Dairy,T,FR,2017,11116,Butter,1,0,0,0
+Dairy,T,FR,2018,14155,Butter,1,0,0,0
+Dairy,T,FR,2019,17205,Butter,1,0,0,0
+Dairy,T,FR,2020,18282,Butter,1,0,0,0
+Dairy,T,HR,2012,0,Butter,1,0,0,0
+Dairy,T,HR,2013,0,Butter,1,0,0,0
+Dairy,T,HR,2014,0,Butter,1,0,0,0
+Dairy,T,HR,2015,0,Butter,1,0,0,0
+Dairy,T,HR,2019,0,Butter,1,0,0,0
+Dairy,T,HR,2020,0,Butter,1,0,0,0
+Dairy,T,HR,2021,0,Butter,1,0,0,0
+Dairy,T,HU,2012,26,Butter,1,0,0,0
+Dairy,T,HU,2013,21,Butter,1,0,0,0
+Dairy,T,HU,2014,20,Butter,1,0,0,0
+Dairy,T,HU,2015,26,Butter,1,0,0,0
+Dairy,T,HU,2016,25,Butter,1,0,0,0
+Dairy,T,HU,2017,25,Butter,1,0,0,0
+Dairy,T,HU,2018,9,Butter,1,0,0,0
+Dairy,T,HU,2019,9,Butter,1,0,0,0
+Dairy,T,HU,2020,6,Butter,1,0,0,0
+Dairy,T,HU,2021,10,Butter,1,0,0,0
+Dairy,T,IE,2014,0,Butter,1,0,0,0
+Dairy,T,IE,2015,0,Butter,1,0,0,0
+Dairy,T,IE,2016,0,Butter,1,0,0,0
+Dairy,T,IE,2017,0,Butter,1,0,0,0
+Dairy,T,IE,2018,0,Butter,1,0,0,0
+Dairy,T,IE,2019,0,Butter,1,0,0,0
+Dairy,T,IE,2020,0,Butter,1,0,0,0
+Dairy,T,IE,2021,1,Butter,1,0,0,0
+Dairy,T,IS,2019,0,Butter,1,0,0,0
+Dairy,T,IS,2020,0,Butter,1,0,0,0
+Dairy,T,IT,2012,225,Butter,1,0,0,0
+Dairy,T,IT,2013,137,Butter,1,0,0,0
+Dairy,T,IT,2014,1,Butter,1,0,0,0
+Dairy,T,IT,2015,1,Butter,1,0,0,0
+Dairy,T,IT,2016,1,Butter,1,0,0,0
+Dairy,T,LT,2014,0,Butter,1,0,0,0
+Dairy,T,LT,2016,,Butter,1,0,0,0
+Dairy,T,LT,2017,,Butter,1,0,0,0
+Dairy,T,LT,2018,,Butter,1,0,0,0
+Dairy,T,LT,2019,,Butter,1,0,0,0
+Dairy,T,LT,2020,,Butter,1,0,0,0
+Dairy,T,LT,2021,198,Butter,1,0,0,0
+Dairy,T,LU,2012,0,Butter,1,0,0,0
+Dairy,T,LU,2013,0,Butter,1,0,0,0
+Dairy,T,LU,2014,0,Butter,1,0,0,0
+Dairy,T,LU,2015,0,Butter,1,0,0,0
+Dairy,T,LU,2016,0,Butter,1,0,0,0
+Dairy,T,LU,2017,0,Butter,1,0,0,0
+Dairy,T,LU,2018,0,Butter,1,0,0,0
+Dairy,T,LU,2019,0,Butter,1,0,0,0
+Dairy,T,LU,2020,0,Butter,1,0,0,0
+Dairy,T,LU,2021,0,Butter,1,0,0,0
+Dairy,T,LV,2012,0,Butter,1,0,0,0
+Dairy,T,LV,2013,0,Butter,1,0,0,0
+Dairy,T,LV,2014,0,Butter,1,0,0,0
+Dairy,T,LV,2015,0,Butter,1,0,0,0
+Dairy,T,LV,2016,0,Butter,1,0,0,0
+Dairy,T,LV,2017,0,Butter,1,0,0,0
+Dairy,T,LV,2018,0,Butter,1,0,0,0
+Dairy,T,LV,2019,0,Butter,1,0,0,0
+Dairy,T,LV,2020,1,Butter,1,0,0,0
+Dairy,T,ME,2021,0,Butter,1,0,0,0
+Dairy,T,MK,2013,0,Butter,1,0,0,0
+Dairy,T,MK,2014,0,Butter,1,0,0,0
+Dairy,T,MK,2015,0,Butter,1,0,0,0
+Dairy,T,MK,2016,0,Butter,1,0,0,0
+Dairy,T,MK,2017,0,Butter,1,0,0,0
+Dairy,T,MK,2018,0,Butter,1,0,0,0
+Dairy,T,MK,2019,0,Butter,1,0,0,0
+Dairy,T,MK,2020,0,Butter,1,0,0,0
+Dairy,T,MT,2012,0,Butter,1,0,0,0
+Dairy,T,MT,2013,0,Butter,1,0,0,0
+Dairy,T,MT,2014,0,Butter,1,0,0,0
+Dairy,T,MT,2015,0,Butter,1,0,0,0
+Dairy,T,MT,2016,0,Butter,1,0,0,0
+Dairy,T,MT,2017,0,Butter,1,0,0,0
+Dairy,T,MT,2018,0,Butter,1,0,0,0
+Dairy,T,MT,2019,0,Butter,1,0,0,0
+Dairy,T,MT,2020,0,Butter,1,0,0,0
+Dairy,T,MT,2021,0,Butter,1,0,0,0
+Dairy,T,NL,2015,4307,Butter,1,0,0,0
+Dairy,T,NL,2016,1044,Butter,1,0,0,0
+Dairy,T,NL,2017,1817,Butter,1,0,0,0
+Dairy,T,NL,2018,1818,Butter,1,0,0,0
+Dairy,T,NL,2019,1757,Butter,1,0,0,0
+Dairy,T,NL,2020,1787,Butter,1,0,0,0
+Dairy,T,NL,2021,4091,Butter,1,0,0,0
+Dairy,T,NO,2014,142,Butter,1,0,0,0
+Dairy,T,NO,2015,162,Butter,1,0,0,0
+Dairy,T,NO,2016,177,Butter,1,0,0,0
+Dairy,T,NO,2017,201,Butter,1,0,0,0
+Dairy,T,NO,2018,193,Butter,1,0,0,0
+Dairy,T,NO,2019,198,Butter,1,0,0,0
+Dairy,T,NO,2020,193,Butter,1,0,0,0
+Dairy,T,PL,2012,689,Butter,1,0,0,0
+Dairy,T,PL,2013,0,Butter,1,0,0,0
+Dairy,T,PL,2014,0,Butter,1,0,0,0
+Dairy,T,PL,2015,0,Butter,1,0,0,0
+Dairy,T,PL,2016,0,Butter,1,0,0,0
+Dairy,T,PL,2017,0,Butter,1,0,0,0
+Dairy,T,PL,2018,0,Butter,1,0,0,0
+Dairy,T,PL,2019,35,Butter,1,0,0,0
+Dairy,T,PL,2020,11,Butter,1,0,0,0
+Dairy,T,RO,2012,42,Butter,1,0,0,0
+Dairy,T,RO,2013,21,Butter,1,0,0,0
+Dairy,T,RO,2014,50,Butter,1,0,0,0
+Dairy,T,RO,2015,42,Butter,1,0,0,0
+Dairy,T,RO,2016,42,Butter,1,0,0,0
+Dairy,T,RO,2017,40,Butter,1,0,0,0
+Dairy,T,RO,2018,0,Butter,1,0,0,0
+Dairy,T,RO,2019,0,Butter,1,0,0,0
+Dairy,T,RO,2020,1,Butter,1,0,0,0
+Dairy,T,RO,2021,3,Butter,1,0,0,0
+Dairy,T,RS,2013,0,Butter,1,0,0,0
+Dairy,T,RS,2015,0,Butter,1,0,0,0
+Dairy,T,RS,2016,0,Butter,1,0,0,0
+Dairy,T,RS,2017,0,Butter,1,0,0,0
+Dairy,T,RS,2018,1,Butter,1,0,0,0
+Dairy,T,RS,2019,10,Butter,1,0,0,0
+Dairy,T,RS,2020,20,Butter,1,0,0,0
+Dairy,T,SE,2013,760,Butter,1,0,0,0
+Dairy,T,SE,2014,722,Butter,1,0,0,0
+Dairy,T,SE,2015,,Butter,1,0,0,0
+Dairy,T,SE,2016,,Butter,1,0,0,0
+Dairy,T,SE,2017,,Butter,1,0,0,0
+Dairy,T,SE,2018,,Butter,1,0,0,0
+Dairy,T,SE,2019,,Butter,1,0,0,0
+Dairy,T,SE,2020,,Butter,1,0,0,0
+Dairy,T,SE,2021,,Butter,1,0,0,0
+Dairy,T,SI,2012,0,Butter,1,0,0,0
+Dairy,T,SI,2013,1,Butter,1,0,0,0
+Dairy,T,SI,2014,1,Butter,1,0,0,0
+Dairy,T,SI,2015,1,Butter,1,0,0,0
+Dairy,T,SI,2016,1,Butter,1,0,0,0
+Dairy,T,SI,2017,2,Butter,1,0,0,0
+Dairy,T,SI,2018,3,Butter,1,0,0,0
+Dairy,T,SI,2019,18,Butter,1,0,0,0
+Dairy,T,SI,2020,15,Butter,1,0,0,0
+Dairy,T,SK,2012,52,Butter,1,0,0,0
+Dairy,T,SK,2013,52,Butter,1,0,0,0
+Dairy,T,SK,2014,49,Butter,1,0,0,0
+Dairy,T,SK,2015,2,Butter,1,0,0,0
+Dairy,T,SK,2016,11,Butter,1,0,0,0
+Dairy,T,SK,2017,24,Butter,1,0,0,0
+Dairy,T,SK,2018,19,Butter,1,0,0,0
+Dairy,T,SK,2019,25,Butter,1,0,0,0
+Dairy,T,SK,2020,32,Butter,1,0,0,0
+Dairy,T,TR,2014,1,Butter,1,0,0,0
+Dairy,T,TR,2015,0,Butter,1,0,0,0
+Dairy,T,TR,2016,7,Butter,1,0,0,0
+Dairy,T,TR,2017,0,Butter,1,0,0,0
+Dairy,T,TR,2018,1,Butter,1,0,0,0
+Dairy,T,UK,2012,4300,Butter,1,0,0,0
+Dairy,T,UK,2013,4700,Butter,1,0,0,0
+Dairy,T,UK,2014,4500,Butter,1,0,0,0
+Dairy,T,UK,2015,4700,Butter,1,0,0,0
+Dairy,T,UK,2016,5300,Butter,1,0,0,0
+Dairy,T,UK,2017,5000,Butter,1,0,0,0
+Dairy,T,UK,2018,5900,Butter,1,0,0,0
+Dairy,T,UK,2019,7400,Butter,1,0,0,0
+Dairy,T,AT,2016,30736,Cheese,1,0,0,0
+Dairy,T,AT,2017,29930,Cheese,1,0,0,0
+Dairy,T,AT,2018,28312,Cheese,1,0,0,0
+Dairy,T,AT,2019,30834,Cheese,1,0,0,0
+Dairy,T,AT,2020,31836,Cheese,1,0,0,0
+Dairy,T,AT,2021,34314,Cheese,1,0,0,0
+Dairy,T,BG,2012,330,Cheese,1,0,0,0
+Dairy,T,BG,2013,26,Cheese,1,0,0,0
+Dairy,T,BG,2014,263,Cheese,1,0,0,0
+Dairy,T,BG,2015,31,Cheese,1,0,0,0
+Dairy,T,BG,2016,156,Cheese,1,0,0,0
+Dairy,T,BG,2017,203,Cheese,1,0,0,0
+Dairy,T,BG,2018,244,Cheese,1,0,0,0
+Dairy,T,BG,2019,247,Cheese,1,0,0,0
+Dairy,T,BG,2020,145,Cheese,1,0,0,0
+Dairy,T,BG,2021,340,Cheese,1,0,0,0
+Dairy,T,CY,2013,50,Cheese,1,0,0,0
+Dairy,T,CY,2014,92,Cheese,1,0,0,0
+Dairy,T,CY,2015,108,Cheese,1,0,0,0
+Dairy,T,CY,2016,127,Cheese,1,0,0,0
+Dairy,T,CY,2017,176,Cheese,1,0,0,0
+Dairy,T,CY,2018,278,Cheese,1,0,0,0
+Dairy,T,CY,2019,357,Cheese,1,0,0,0
+Dairy,T,CY,2020,350,Cheese,1,0,0,0
+Dairy,T,CY,2021,670,Cheese,1,0,0,0
+Dairy,T,CZ,2012,64,Cheese,1,0,0,0
+Dairy,T,CZ,2013,69,Cheese,1,0,0,0
+Dairy,T,CZ,2014,51,Cheese,1,0,0,0
+Dairy,T,CZ,2015,122,Cheese,1,0,0,0
+Dairy,T,CZ,2016,131,Cheese,1,0,0,0
+Dairy,T,CZ,2017,126,Cheese,1,0,0,0
+Dairy,T,CZ,2018,117,Cheese,1,0,0,0
+Dairy,T,CZ,2019,116,Cheese,1,0,0,0
+Dairy,T,CZ,2020,125,Cheese,1,0,0,0
+Dairy,T,CZ,2021,88,Cheese,1,0,0,0
+Dairy,T,DE,2012,27353,Cheese,1,0,0,0
+Dairy,T,DE,2013,33777,Cheese,1,0,0,0
+Dairy,T,DE,2014,34262,Cheese,1,0,0,0
+Dairy,T,DE,2015,38941,Cheese,1,0,0,0
+Dairy,T,DE,2016,42281,Cheese,1,0,0,0
+Dairy,T,DE,2017,46799,Cheese,1,0,0,0
+Dairy,T,DE,2018,52506,Cheese,1,0,0,0
+Dairy,T,DE,2019,56115,Cheese,1,0,0,0
+Dairy,T,DE,2020,64733,Cheese,1,0,0,0
+Dairy,T,DE,2021,67946,Cheese,1,0,0,0
+Dairy,T,DK,2012,3312,Cheese,1,0,0,0
+Dairy,T,DK,2014,7652,Cheese,1,0,0,0
+Dairy,T,DK,2015,5544,Cheese,1,0,0,0
+Dairy,T,DK,2016,6700,Cheese,1,0,0,0
+Dairy,T,DK,2017,7900,Cheese,1,0,0,0
+Dairy,T,DK,2018,9800,Cheese,1,0,0,0
+Dairy,T,DK,2019,12300,Cheese,1,0,0,0
+Dairy,T,DK,2020,15700,Cheese,1,0,0,0
+Dairy,T,EE,2012,21,Cheese,1,0,0,0
+Dairy,T,EE,2013,23,Cheese,1,0,0,0
+Dairy,T,EE,2014,91,Cheese,1,0,0,0
+Dairy,T,EE,2015,42,Cheese,1,0,0,0
+Dairy,T,EE,2016,141,Cheese,1,0,0,0
+Dairy,T,EE,2017,313,Cheese,1,0,0,0
+Dairy,T,EE,2018,316,Cheese,1,0,0,0
+Dairy,T,EE,2019,333,Cheese,1,0,0,0
+Dairy,T,EE,2020,330,Cheese,1,0,0,0
+Dairy,T,EE,2021,274,Cheese,1,0,0,0
+Dairy,T,EL,2012,3445,Cheese,1,0,0,0
+Dairy,T,EL,2013,2618,Cheese,1,0,0,0
+Dairy,T,EL,2014,3583,Cheese,1,0,0,0
+Dairy,T,EL,2015,5884,Cheese,1,0,0,0
+Dairy,T,EL,2016,7950,Cheese,1,0,0,0
+Dairy,T,EL,2017,9652,Cheese,1,0,0,0
+Dairy,T,EL,2018,9635,Cheese,1,0,0,0
+Dairy,T,EL,2019,9520,Cheese,1,0,0,0
+Dairy,T,EL,2020,7340,Cheese,1,0,0,0
+Dairy,T,ES,2012,388,Cheese,1,0,0,0
+Dairy,T,ES,2013,678,Cheese,1,0,0,0
+Dairy,T,ES,2014,824,Cheese,1,0,0,0
+Dairy,T,ES,2015,715,Cheese,1,0,0,0
+Dairy,T,ES,2016,617,Cheese,1,0,0,0
+Dairy,T,ES,2017,559,Cheese,1,0,0,0
+Dairy,T,ES,2018,729,Cheese,1,0,0,0
+Dairy,T,ES,2019,739,Cheese,1,0,0,0
+Dairy,T,ES,2020,752,Cheese,1,0,0,0
+Dairy,T,ES,2021,1996,Cheese,1,0,0,0
+Dairy,T,FI,2015,,Cheese,1,0,0,0
+Dairy,T,FI,2016,,Cheese,1,0,0,0
+Dairy,T,FI,2017,,Cheese,1,0,0,0
+Dairy,T,FI,2018,,Cheese,1,0,0,0
+Dairy,T,FR,2012,16588,Cheese,1,0,0,0
+Dairy,T,FR,2013,18076,Cheese,1,0,0,0
+Dairy,T,FR,2014,19385,Cheese,1,0,0,0
+Dairy,T,FR,2015,19872,Cheese,1,0,0,0
+Dairy,T,FR,2016,22342,Cheese,1,0,0,0
+Dairy,T,FR,2017,26833,Cheese,1,0,0,0
+Dairy,T,FR,2018,33584,Cheese,1,0,0,0
+Dairy,T,FR,2019,41292,Cheese,1,0,0,0
+Dairy,T,FR,2020,44780,Cheese,1,0,0,0
+Dairy,T,HR,2012,766,Cheese,1,0,0,0
+Dairy,T,HR,2013,19,Cheese,1,0,0,0
+Dairy,T,HR,2014,4,Cheese,1,0,0,0
+Dairy,T,HR,2015,13,Cheese,1,0,0,0
+Dairy,T,HR,2016,8,Cheese,1,0,0,0
+Dairy,T,HR,2017,7,Cheese,1,0,0,0
+Dairy,T,HR,2018,43,Cheese,1,0,0,0
+Dairy,T,HR,2019,1,Cheese,1,0,0,0
+Dairy,T,HR,2020,4,Cheese,1,0,0,0
+Dairy,T,HR,2021,26,Cheese,1,0,0,0
+Dairy,T,HU,2012,375,Cheese,1,0,0,0
+Dairy,T,HU,2013,415,Cheese,1,0,0,0
+Dairy,T,HU,2014,390,Cheese,1,0,0,0
+Dairy,T,HU,2015,508,Cheese,1,0,0,0
+Dairy,T,HU,2016,537,Cheese,1,0,0,0
+Dairy,T,HU,2017,526,Cheese,1,0,0,0
+Dairy,T,HU,2018,184,Cheese,1,0,0,0
+Dairy,T,HU,2019,194,Cheese,1,0,0,0
+Dairy,T,HU,2020,116,Cheese,1,0,0,0
+Dairy,T,HU,2021,240,Cheese,1,0,0,0
+Dairy,T,IE,2013,27,Cheese,1,0,0,0
+Dairy,T,IE,2014,19,Cheese,1,0,0,0
+Dairy,T,IE,2015,25092,Cheese,1,0,0,0
+Dairy,T,IE,2016,249,Cheese,1,0,0,0
+Dairy,T,IE,2017,217,Cheese,1,0,0,0
+Dairy,T,IE,2018,391,Cheese,1,0,0,0
+Dairy,T,IE,2019,86,Cheese,1,0,0,0
+Dairy,T,IE,2020,144,Cheese,1,0,0,0
+Dairy,T,IE,2021,170,Cheese,1,0,0,0
+Dairy,T,IS,2019,3,Cheese,1,0,0,0
+Dairy,T,IS,2020,28,Cheese,1,0,0,0
+Dairy,T,IT,2012,18076,Cheese,1,0,0,0
+Dairy,T,IT,2013,24700,Cheese,1,0,0,0
+Dairy,T,IT,2014,20520,Cheese,1,0,0,0
+Dairy,T,IT,2015,14635,Cheese,1,0,0,0
+Dairy,T,IT,2016,16440,Cheese,1,0,0,0
+Dairy,T,LT,2014,,Cheese,1,0,0,0
+Dairy,T,LT,2015,805,Cheese,1,0,0,0
+Dairy,T,LT,2016,990,Cheese,1,0,0,0
+Dairy,T,LT,2017,1280,Cheese,1,0,0,0
+Dairy,T,LT,2018,1196,Cheese,1,0,0,0
+Dairy,T,LT,2019,1249,Cheese,1,0,0,0
+Dairy,T,LT,2020,1514,Cheese,1,0,0,0
+Dairy,T,LT,2021,1619,Cheese,1,0,0,0
+Dairy,T,LU,2012,,Cheese,1,0,0,0
+Dairy,T,LU,2013,,Cheese,1,0,0,0
+Dairy,T,LU,2014,,Cheese,1,0,0,0
+Dairy,T,LU,2015,,Cheese,1,0,0,0
+Dairy,T,LU,2016,,Cheese,1,0,0,0
+Dairy,T,LU,2017,,Cheese,1,0,0,0
+Dairy,T,LU,2018,,Cheese,1,0,0,0
+Dairy,T,LU,2019,,Cheese,1,0,0,0
+Dairy,T,LU,2020,,Cheese,1,0,0,0
+Dairy,T,LU,2021,,Cheese,1,0,0,0
+Dairy,T,LV,2012,0,Cheese,1,0,0,0
+Dairy,T,LV,2013,0,Cheese,1,0,0,0
+Dairy,T,LV,2014,0,Cheese,1,0,0,0
+Dairy,T,LV,2015,3,Cheese,1,0,0,0
+Dairy,T,LV,2016,0,Cheese,1,0,0,0
+Dairy,T,LV,2017,0,Cheese,1,0,0,0
+Dairy,T,LV,2018,0,Cheese,1,0,0,0
+Dairy,T,LV,2019,1,Cheese,1,0,0,0
+Dairy,T,LV,2020,2,Cheese,1,0,0,0
+Dairy,T,ME,2021,9,Cheese,1,0,0,0
+Dairy,T,MK,2013,16,Cheese,1,0,0,0
+Dairy,T,MK,2014,16,Cheese,1,0,0,0
+Dairy,T,MK,2015,55,Cheese,1,0,0,0
+Dairy,T,MK,2016,33,Cheese,1,0,0,0
+Dairy,T,MK,2017,3,Cheese,1,0,0,0
+Dairy,T,MK,2018,0,Cheese,1,0,0,0
+Dairy,T,MK,2019,0,Cheese,1,0,0,0
+Dairy,T,MK,2020,0,Cheese,1,0,0,0
+Dairy,T,MT,2012,0,Cheese,1,0,0,0
+Dairy,T,MT,2013,0,Cheese,1,0,0,0
+Dairy,T,MT,2014,0,Cheese,1,0,0,0
+Dairy,T,MT,2015,0,Cheese,1,0,0,0
+Dairy,T,MT,2016,0,Cheese,1,0,0,0
+Dairy,T,MT,2017,0,Cheese,1,0,0,0
+Dairy,T,MT,2018,0,Cheese,1,0,0,0
+Dairy,T,MT,2019,0,Cheese,1,0,0,0
+Dairy,T,MT,2020,0,Cheese,1,0,0,0
+Dairy,T,MT,2021,0,Cheese,1,0,0,0
+Dairy,T,NL,2015,50328,Cheese,1,0,0,0
+Dairy,T,NL,2016,51135,Cheese,1,0,0,0
+Dairy,T,NL,2017,54499,Cheese,1,0,0,0
+Dairy,T,NL,2018,57555,Cheese,1,0,0,0
+Dairy,T,NL,2019,51992,Cheese,1,0,0,0
+Dairy,T,NL,2020,53944,Cheese,1,0,0,0
+Dairy,T,NL,2021,10767,Cheese,1,0,0,0
+Dairy,T,NO,2014,211,Cheese,1,0,0,0
+Dairy,T,NO,2015,253,Cheese,1,0,0,0
+Dairy,T,NO,2016,277,Cheese,1,0,0,0
+Dairy,T,NO,2017,278,Cheese,1,0,0,0
+Dairy,T,NO,2018,252,Cheese,1,0,0,0
+Dairy,T,NO,2019,192,Cheese,1,0,0,0
+Dairy,T,NO,2020,241,Cheese,1,0,0,0
+Dairy,T,PL,2012,102,Cheese,1,0,0,0
+Dairy,T,PL,2013,0,Cheese,1,0,0,0
+Dairy,T,PL,2014,0,Cheese,1,0,0,0
+Dairy,T,PL,2015,0,Cheese,1,0,0,0
+Dairy,T,PL,2016,0,Cheese,1,0,0,0
+Dairy,T,PL,2017,0,Cheese,1,0,0,0
+Dairy,T,PL,2018,3,Cheese,1,0,0,0
+Dairy,T,PL,2019,514,Cheese,1,0,0,0
+Dairy,T,PL,2020,63,Cheese,1,0,0,0
+Dairy,T,RO,2012,61,Cheese,1,0,0,0
+Dairy,T,RO,2013,31,Cheese,1,0,0,0
+Dairy,T,RO,2015,51,Cheese,1,0,0,0
+Dairy,T,RO,2016,4016,Cheese,1,0,0,0
+Dairy,T,RO,2018,121,Cheese,1,0,0,0
+Dairy,T,RO,2019,14,Cheese,1,0,0,0
+Dairy,T,RO,2020,18,Cheese,1,0,0,0
+Dairy,T,RO,2021,36,Cheese,1,0,0,0
+Dairy,T,RS,2013,20,Cheese,1,0,0,0
+Dairy,T,RS,2014,62,Cheese,1,0,0,0
+Dairy,T,RS,2015,230,Cheese,1,0,0,0
+Dairy,T,RS,2016,201,Cheese,1,0,0,0
+Dairy,T,RS,2017,6,Cheese,1,0,0,0
+Dairy,T,RS,2018,8,Cheese,1,0,0,0
+Dairy,T,RS,2019,25,Cheese,1,0,0,0
+Dairy,T,RS,2020,28,Cheese,1,0,0,0
+Dairy,T,SE,2013,531,Cheese,1,0,0,0
+Dairy,T,SE,2014,673,Cheese,1,0,0,0
+Dairy,T,SE,2015,1536,Cheese,1,0,0,0
+Dairy,T,SE,2016,1223,Cheese,1,0,0,0
+Dairy,T,SE,2017,1661,Cheese,1,0,0,0
+Dairy,T,SE,2018,1600,Cheese,1,0,0,0
+Dairy,T,SE,2019,1430,Cheese,1,0,0,0
+Dairy,T,SE,2020,,Cheese,1,0,0,0
+Dairy,T,SE,2021,,Cheese,1,0,0,0
+Dairy,T,SI,2012,64,Cheese,1,0,0,0
+Dairy,T,SI,2013,89,Cheese,1,0,0,0
+Dairy,T,SI,2014,70,Cheese,1,0,0,0
+Dairy,T,SI,2015,75,Cheese,1,0,0,0
+Dairy,T,SI,2016,106,Cheese,1,0,0,0
+Dairy,T,SI,2017,214,Cheese,1,0,0,0
+Dairy,T,SI,2018,206,Cheese,1,0,0,0
+Dairy,T,SI,2019,176,Cheese,1,0,0,0
+Dairy,T,SI,2020,197,Cheese,1,0,0,0
+Dairy,T,SK,2012,224,Cheese,1,0,0,0
+Dairy,T,SK,2013,983,Cheese,1,0,0,0
+Dairy,T,SK,2014,242,Cheese,1,0,0,0
+Dairy,T,SK,2015,815,Cheese,1,0,0,0
+Dairy,T,SK,2016,656,Cheese,1,0,0,0
+Dairy,T,SK,2017,139,Cheese,1,0,0,0
+Dairy,T,SK,2018,79,Cheese,1,0,0,0
+Dairy,T,SK,2019,170,Cheese,1,0,0,0
+Dairy,T,SK,2020,182,Cheese,1,0,0,0
+Dairy,T,TR,2014,11,Cheese,1,0,0,0
+Dairy,T,TR,2015,1,Cheese,1,0,0,0
+Dairy,T,TR,2016,375,Cheese,1,0,0,0
+Dairy,T,TR,2017,3,Cheese,1,0,0,0
+Dairy,T,TR,2018,15,Cheese,1,0,0,0
+Dairy,T,UK,2012,11800,Cheese,1,0,0,0
+Dairy,T,UK,2013,12700,Cheese,1,0,0,0
+Dairy,T,UK,2014,13000,Cheese,1,0,0,0
+Dairy,T,UK,2015,13900,Cheese,1,0,0,0
+Dairy,T,UK,2016,15100,Cheese,1,0,0,0
+Dairy,T,UK,2017,15800,Cheese,1,0,0,0
+Dairy,T,UK,2018,18400,Cheese,1,0,0,0
+Dairy,T,UK,2019,18200,Cheese,1,0,0,0
+Eggs,THS,AT,2014,78235.998,Eggs,0,1,0,0
+Eggs,THS,AT,2015,77696.999,Eggs,0,1,0,0
+Eggs,THS,AT,2016,105234.459,Eggs,0,1,0,0
+Eggs,THS,AT,2017,131733.492,Eggs,0,1,0,0
+Eggs,THS,AT,2018,137906.894,Eggs,0,1,0,0
+Eggs,THS,AT,2019,133483.083,Eggs,0,1,0,0
+Eggs,THS,AT,2020,137157.254,Eggs,0,1,0,0
+Eggs,THS,AT,2021,145671.58,Eggs,0,1,0,0
+Eggs,THS,BE,2016,97164.696,Eggs,0,1,0,0
+Eggs,THS,BE,2017,121885.74,Eggs,0,1,0,0
+Eggs,THS,BE,2018,227934.6,Eggs,0,1,0,0
+Eggs,THS,BE,2019,250044.96,Eggs,0,1,0,0
+Eggs,THS,BE,2020,251657.628,Eggs,0,1,0,0
+Eggs,THS,BG,2012,0,Eggs,0,1,0,0
+Eggs,THS,BG,2013,0,Eggs,0,1,0,0
+Eggs,THS,BG,2015,0,Eggs,0,1,0,0
+Eggs,THS,BG,2016,0,Eggs,0,1,0,0
+Eggs,THS,BG,2017,0,Eggs,0,1,0,0
+Eggs,THS,BG,2018,66.5,Eggs,0,1,0,0
+Eggs,THS,BG,2019,216.857,Eggs,0,1,0,0
+Eggs,THS,BG,2020,189,Eggs,0,1,0,0
+Eggs,THS,BG,2021,249.81,Eggs,0,1,0,0
+Eggs,THS,CY,2013,745.5,Eggs,0,1,0,0
+Eggs,THS,CY,2014,1179.36,Eggs,0,1,0,0
+Eggs,THS,CY,2015,939,Eggs,0,1,0,0
+Eggs,THS,CY,2016,1491.55,Eggs,0,1,0,0
+Eggs,THS,CY,2017,2258.536,Eggs,0,1,0,0
+Eggs,THS,CY,2018,2615.416,Eggs,0,1,0,0
+Eggs,THS,CY,2019,3593.543,Eggs,0,1,0,0
+Eggs,THS,CY,2020,2649.609,Eggs,0,1,0,0
+Eggs,THS,CY,2021,2736.19,Eggs,0,1,0,0
+Eggs,THS,CZ,2012,3040.45,Eggs,0,1,0,0
+Eggs,THS,CZ,2013,3521.236,Eggs,0,1,0,0
+Eggs,THS,CZ,2014,2296,Eggs,0,1,0,0
+Eggs,THS,CZ,2015,3366.2,Eggs,0,1,0,0
+Eggs,THS,CZ,2016,3346.86,Eggs,0,1,0,0
+Eggs,THS,CZ,2017,3661.55,Eggs,0,1,0,0
+Eggs,THS,CZ,2018,3406.551,Eggs,0,1,0,0
+Eggs,THS,CZ,2019,4656.75,Eggs,0,1,0,0
+Eggs,THS,CZ,2020,3705.23,Eggs,0,1,0,0
+Eggs,THS,CZ,2021,5334.02,Eggs,0,1,0,0
+Eggs,THS,DE,2021,2044171.82,Eggs,0,1,0,0
+Eggs,THS,DK,2012,170368,Eggs,0,1,0,0
+Eggs,THS,DK,2013,175003.2,Eggs,0,1,0,0
+Eggs,THS,DK,2014,196099.648,Eggs,0,1,0,0
+Eggs,THS,DK,2015,233391.248,Eggs,0,1,0,0
+Eggs,THS,DK,2016,269863.328,Eggs,0,1,0,0
+Eggs,THS,DK,2017,307949.52,Eggs,0,1,0,0
+Eggs,THS,DK,2018,350275.408,Eggs,0,1,0,0
+Eggs,THS,DK,2019,355725,Eggs,0,1,0,0
+Eggs,THS,DK,2020,374443.68,Eggs,0,1,0,0
+Eggs,THS,EE,2012,1374.054,Eggs,0,1,0,0
+Eggs,THS,EE,2013,1585.433,Eggs,0,1,0,0
+Eggs,THS,EE,2014,2538.313,Eggs,0,1,0,0
+Eggs,THS,EE,2015,2456.291,Eggs,0,1,0,0
+Eggs,THS,EE,2016,2808.039,Eggs,0,1,0,0
+Eggs,THS,EE,2017,3417.002,Eggs,0,1,0,0
+Eggs,THS,EE,2018,4288.838,Eggs,0,1,0,0
+Eggs,THS,EE,2019,5814.142,Eggs,0,1,0,0
+Eggs,THS,EE,2020,5428.475,Eggs,0,1,0,0
+Eggs,THS,EE,2021,5678.75,Eggs,0,1,0,0
+Eggs,THS,EL,2012,25701.185,Eggs,0,1,0,0
+Eggs,THS,EL,2013,8159.933,Eggs,0,1,0,0
+Eggs,THS,EL,2014,13628.538,Eggs,0,1,0,0
+Eggs,THS,EL,2015,13164.375,Eggs,0,1,0,0
+Eggs,THS,EL,2016,13140.246,Eggs,0,1,0,0
+Eggs,THS,EL,2017,14390.896,Eggs,0,1,0,0
+Eggs,THS,EL,2018,15539.846,Eggs,0,1,0,0
+Eggs,THS,EL,2019,17393.405,Eggs,0,1,0,0
+Eggs,THS,EL,2020,19208.488,Eggs,0,1,0,0
+Eggs,THS,ES,2012,11161.964,Eggs,0,1,0,0
+Eggs,THS,ES,2013,17592.06,Eggs,0,1,0,0
+Eggs,THS,ES,2014,16198.175,Eggs,0,1,0,0
+Eggs,THS,ES,2015,48292.346,Eggs,0,1,0,0
+Eggs,THS,ES,2016,46338.396,Eggs,0,1,0,0
+Eggs,THS,ES,2017,76140.272,Eggs,0,1,0,0
+Eggs,THS,ES,2018,124409.484,Eggs,0,1,0,0
+Eggs,THS,ES,2019,150104.238,Eggs,0,1,0,0
+Eggs,THS,ES,2020,183528.729,Eggs,0,1,0,0
+Eggs,THS,ES,2021,215384.75,Eggs,0,1,0,0
+Eggs,THS,FI,2013,42253.15,Eggs,0,1,0,0
+Eggs,THS,FI,2014,47054.7,Eggs,0,1,0,0
+Eggs,THS,FI,2015,52176.85,Eggs,0,1,0,0
+Eggs,THS,FI,2016,55537.733,Eggs,0,1,0,0
+Eggs,THS,FI,2017,64730.167,Eggs,0,1,0,0
+Eggs,THS,FI,2018,77883.717,Eggs,0,1,0,0
+Eggs,THS,FI,2019,86623.867,Eggs,0,1,0,0
+Eggs,THS,FI,2020,86041.583,Eggs,0,1,0,0
+Eggs,THS,FR,2014,700000,Eggs,0,1,0,0
+Eggs,THS,FR,2015,900000,Eggs,0,1,0,0
+Eggs,THS,FR,2016,1285371.822,Eggs,0,1,0,0
+Eggs,THS,FR,2017,1383000,Eggs,0,1,0,0
+Eggs,THS,FR,2018,1782000,Eggs,0,1,0,0
+Eggs,THS,FR,2019,2040000,Eggs,0,1,0,0
+Eggs,THS,FR,2020,2096600,Eggs,0,1,0,0
+Eggs,THS,HR,2012,20,Eggs,0,1,0,0
+Eggs,THS,HR,2013,72,Eggs,0,1,0,0
+Eggs,THS,HR,2014,65,Eggs,0,1,0,0
+Eggs,THS,HR,2015,117.775,Eggs,0,1,0,0
+Eggs,THS,HR,2016,246.89,Eggs,0,1,0,0
+Eggs,THS,HR,2017,206,Eggs,0,1,0,0
+Eggs,THS,HR,2018,183,Eggs,0,1,0,0
+Eggs,THS,HR,2019,334.21,Eggs,0,1,0,0
+Eggs,THS,HR,2020,615.34,Eggs,0,1,0,0
+Eggs,THS,HR,2021,1501.8,Eggs,0,1,0,0
+Eggs,THS,HU,2012,3539.7,Eggs,0,1,0,0
+Eggs,THS,HU,2013,3341.2,Eggs,0,1,0,0
+Eggs,THS,HU,2014,5450.7,Eggs,0,1,0,0
+Eggs,THS,HU,2015,5073.32,Eggs,0,1,0,0
+Eggs,THS,HU,2016,2690.984,Eggs,0,1,0,0
+Eggs,THS,HU,2017,5067.204,Eggs,0,1,0,0
+Eggs,THS,HU,2018,4719.744,Eggs,0,1,0,0
+Eggs,THS,HU,2019,11301.56,Eggs,0,1,0,0
+Eggs,THS,HU,2020,5369.68,Eggs,0,1,0,0
+Eggs,THS,HU,2021,8111,Eggs,0,1,0,0
+Eggs,THS,IE,2014,17304.182,Eggs,0,1,0,0
+Eggs,THS,IE,2015,19566.715,Eggs,0,1,0,0
+Eggs,THS,IE,2016,20917.591,Eggs,0,1,0,0
+Eggs,THS,IE,2017,23607.295,Eggs,0,1,0,0
+Eggs,THS,IE,2018,30136.036,Eggs,0,1,0,0
+Eggs,THS,IE,2019,34938.582,Eggs,0,1,0,0
+Eggs,THS,IE,2020,32073.17,Eggs,0,1,0,0
+Eggs,THS,IE,2021,35809.83,Eggs,0,1,0,0
+Eggs,THS,IS,2018,3723.9,Eggs,0,1,0,0
+Eggs,THS,IS,2019,5037.285,Eggs,0,1,0,0
+Eggs,THS,IS,2020,4222.8,Eggs,0,1,0,0
+Eggs,THS,IT,2014,209488.29,Eggs,0,1,0,0
+Eggs,THS,IT,2015,461859.174,Eggs,0,1,0,0
+Eggs,THS,IT,2016,494618.521,Eggs,0,1,0,0
+Eggs,THS,IT,2017,206415.934,Eggs,0,1,0,0
+Eggs,THS,IT,2020,444669.273,Eggs,0,1,0,0
+Eggs,THS,LT,2012,394.353,Eggs,0,1,0,0
+Eggs,THS,LT,2014,573.676,Eggs,0,1,0,0
+Eggs,THS,LT,2015,582.575,Eggs,0,1,0,0
+Eggs,THS,LT,2016,1199.794,Eggs,0,1,0,0
+Eggs,THS,LT,2017,1441.586,Eggs,0,1,0,0
+Eggs,THS,LT,2018,2709.993,Eggs,0,1,0,0
+Eggs,THS,LT,2019,2377.139,Eggs,0,1,0,0
+Eggs,THS,LT,2020,1983.184,Eggs,0,1,0,0
+Eggs,THS,LT,2021,3361.93,Eggs,0,1,0,0
+Eggs,THS,LU,2012,2468,Eggs,0,1,0,0
+Eggs,THS,LU,2013,2997,Eggs,0,1,0,0
+Eggs,THS,LU,2014,2795,Eggs,0,1,0,0
+Eggs,THS,LU,2015,2754,Eggs,0,1,0,0
+Eggs,THS,LU,2016,3904,Eggs,0,1,0,0
+Eggs,THS,LU,2017,3939,Eggs,0,1,0,0
+Eggs,THS,LU,2018,4582,Eggs,0,1,0,0
+Eggs,THS,LU,2019,5103,Eggs,0,1,0,0
+Eggs,THS,LU,2020,6355,Eggs,0,1,0,0
+Eggs,THS,LU,2021,6746,Eggs,0,1,0,0
+Eggs,THS,LV,2012,550.578,Eggs,0,1,0,0
+Eggs,THS,LV,2013,554.511,Eggs,0,1,0,0
+Eggs,THS,LV,2015,1169.674,Eggs,0,1,0,0
+Eggs,THS,LV,2016,1489.761,Eggs,0,1,0,0
+Eggs,THS,LV,2017,1867.489,Eggs,0,1,0,0
+Eggs,THS,LV,2018,2031.726,Eggs,0,1,0,0
+Eggs,THS,LV,2019,2581.173,Eggs,0,1,0,0
+Eggs,THS,LV,2020,3003.586,Eggs,0,1,0,0
+Eggs,THS,ME,2021,6,Eggs,0,1,0,0
+Eggs,THS,MK,2013,0,Eggs,0,1,0,0
+Eggs,THS,MK,2014,0,Eggs,0,1,0,0
+Eggs,THS,MK,2015,0,Eggs,0,1,0,0
+Eggs,THS,MK,2016,0,Eggs,0,1,0,0
+Eggs,THS,MK,2017,0,Eggs,0,1,0,0
+Eggs,THS,MK,2018,0,Eggs,0,1,0,0
+Eggs,THS,MK,2019,0,Eggs,0,1,0,0
+Eggs,THS,MK,2020,0,Eggs,0,1,0,0
+Eggs,THS,MT,2012,0,Eggs,0,1,0,0
+Eggs,THS,MT,2013,0,Eggs,0,1,0,0
+Eggs,THS,MT,2014,0,Eggs,0,1,0,0
+Eggs,THS,MT,2015,0,Eggs,0,1,0,0
+Eggs,THS,MT,2016,0,Eggs,0,1,0,0
+Eggs,THS,MT,2017,0,Eggs,0,1,0,0
+Eggs,THS,MT,2018,0,Eggs,0,1,0,0
+Eggs,THS,MT,2019,0,Eggs,0,1,0,0
+Eggs,THS,MT,2020,0,Eggs,0,1,0,0
+Eggs,THS,MT,2021,0,Eggs,0,1,0,0
+Eggs,THS,NL,2012,583000,Eggs,0,1,0,0
+Eggs,THS,NL,2013,574598.2,Eggs,0,1,0,0
+Eggs,THS,NL,2014,628416.8,Eggs,0,1,0,0
+Eggs,THS,NL,2015,708004.275,Eggs,0,1,0,0
+Eggs,THS,NL,2016,773102,Eggs,0,1,0,0
+Eggs,THS,NL,2017,882995.575,Eggs,0,1,0,0
+Eggs,THS,NL,2018,996378.075,Eggs,0,1,0,0
+Eggs,THS,NL,2019,1032801,Eggs,0,1,0,0
+Eggs,THS,NL,2020,1007555.45,Eggs,0,1,0,0
+Eggs,THS,NL,2021,998847.9,Eggs,0,1,0,0
+Eggs,THS,NO,2012,32492.063,Eggs,0,1,0,0
+Eggs,THS,NO,2013,35539.683,Eggs,0,1,0,0
+Eggs,THS,NO,2014,44841.27,Eggs,0,1,0,0
+Eggs,THS,NO,2015,50158.73,Eggs,0,1,0,0
+Eggs,THS,NO,2016,52285.714,Eggs,0,1,0,0
+Eggs,THS,NO,2017,65857.143,Eggs,0,1,0,0
+Eggs,THS,NO,2018,74126.984,Eggs,0,1,0,0
+Eggs,THS,NO,2019,78095.238,Eggs,0,1,0,0
+Eggs,THS,NO,2020,85142.857,Eggs,0,1,0,0
+Eggs,THS,PL,2012,20652.425,Eggs,0,1,0,0
+Eggs,THS,PL,2013,33903.18,Eggs,0,1,0,0
+Eggs,THS,PL,2014,21819.28,Eggs,0,1,0,0
+Eggs,THS,PL,2015,22570.089,Eggs,0,1,0,0
+Eggs,THS,PL,2016,19937.74,Eggs,0,1,0,0
+Eggs,THS,PL,2017,20264.11,Eggs,0,1,0,0
+Eggs,THS,PL,2018,16506.76,Eggs,0,1,0,0
+Eggs,THS,PL,2019,23032.14,Eggs,0,1,0,0
+Eggs,THS,PL,2020,27503.16,Eggs,0,1,0,0
+Eggs,THS,RO,2012,13214.08,Eggs,0,1,0,0
+Eggs,THS,RO,2014,14473.1,Eggs,0,1,0,0
+Eggs,THS,RO,2015,22744.101,Eggs,0,1,0,0
+Eggs,THS,RO,2016,12327.853,Eggs,0,1,0,0
+Eggs,THS,RO,2017,14936.964,Eggs,0,1,0,0
+Eggs,THS,RO,2018,16357.942,Eggs,0,1,0,0
+Eggs,THS,RO,2019,28887.733,Eggs,0,1,0,0
+Eggs,THS,RO,2020,30754.587,Eggs,0,1,0,0
+Eggs,THS,RO,2021,44242.82,Eggs,0,1,0,0
+Eggs,THS,RS,2013,11,Eggs,0,1,0,0
+Eggs,THS,RS,2014,104.1,Eggs,0,1,0,0
+Eggs,THS,RS,2016,287.106,Eggs,0,1,0,0
+Eggs,THS,RS,2017,190.04,Eggs,0,1,0,0
+Eggs,THS,RS,2018,406.238,Eggs,0,1,0,0
+Eggs,THS,RS,2019,922.961,Eggs,0,1,0,0
+Eggs,THS,RS,2020,1480.378,Eggs,0,1,0,0
+Eggs,THS,SE,2013,265060,Eggs,0,1,0,0
+Eggs,THS,SE,2014,263590.244,Eggs,0,1,0,0
+Eggs,THS,SE,2015,328674.699,Eggs,0,1,0,0
+Eggs,THS,SE,2016,394863.353,Eggs,0,1,0,0
+Eggs,THS,SE,2017,380119.347,Eggs,0,1,0,0
+Eggs,THS,SE,2018,377747.126,Eggs,0,1,0,0
+Eggs,THS,SE,2019,376275.862,Eggs,0,1,0,0
+Eggs,THS,SE,2020,376091.954,Eggs,0,1,0,0
+Eggs,THS,SE,2021,337655.17,Eggs,0,1,0,0
+Eggs,THS,SI,2012,3653.736,Eggs,0,1,0,0
+Eggs,THS,SI,2013,4137.95,Eggs,0,1,0,0
+Eggs,THS,SI,2014,4641.164,Eggs,0,1,0,0
+Eggs,THS,SI,2015,6313.978,Eggs,0,1,0,0
+Eggs,THS,SI,2016,6935.642,Eggs,0,1,0,0
+Eggs,THS,SI,2017,8657.164,Eggs,0,1,0,0
+Eggs,THS,SI,2018,10868.595,Eggs,0,1,0,0
+Eggs,THS,SI,2019,11704.526,Eggs,0,1,0,0
+Eggs,THS,SI,2020,13315.892,Eggs,0,1,0,0
+Eggs,THS,SK,2015,930.343,Eggs,0,1,0,0
+Eggs,THS,SK,2016,159.317,Eggs,0,1,0,0
+Eggs,THS,SK,2017,363.85,Eggs,0,1,0,0
+Eggs,THS,SK,2018,184.751,Eggs,0,1,0,0
+Eggs,THS,SK,2019,63.336,Eggs,0,1,0,0
+Eggs,THS,SK,2020,1348.21,Eggs,0,1,0,0
+Eggs,THS,TR,2013,48040.778,Eggs,0,1,0,0
+Eggs,THS,TR,2014,64898.912,Eggs,0,1,0,0
+Eggs,THS,TR,2015,58938.769,Eggs,0,1,0,0
+Eggs,THS,TR,2016,147600.367,Eggs,0,1,0,0
+Eggs,THS,TR,2017,161254.08,Eggs,0,1,0,0
+Eggs,THS,TR,2018,174675.362,Eggs,0,1,0,0
+Eggs,THS,TR,2019,179781.501,Eggs,0,1,0,0
+Eggs,THS,TR,2020,182991.927,Eggs,0,1,0,0
+Eggs,THS,TR,2021,128692,Eggs,0,1,0,0
+Eggs,THS,UK,2012,238320,Eggs,0,1,0,0
+Eggs,THS,UK,2013,219600,Eggs,0,1,0,0
+Eggs,THS,UK,2014,225864,Eggs,0,1,0,0
+Eggs,THS,UK,2015,237011,Eggs,0,1,0,0
+Eggs,THS,UK,2016,250062,Eggs,0,1,0,0
+Eggs,THS,UK,2017,255692,Eggs,0,1,0,0
+Eggs,THS,UK,2018,276925,Eggs,0,1,0,0
+Eggs,THS,UK,2019,357908,Eggs,0,1,0,0
+Dairy,T,AT,2017,2971,Other organic dairy products,1,0,0,0
+Dairy,T,AT,2018,3200,Other organic dairy products,1,0,0,0
+Dairy,T,AT,2019,3174,Other organic dairy products,1,0,0,0
+Dairy,T,AT,2020,3043,Other organic dairy products,1,0,0,0
+Dairy,T,AT,2021,3803,Other organic dairy products,1,0,0,0
+Dairy,T,BG,2012,8,Other organic dairy products,1,0,0,0
+Dairy,T,BG,2013,288,Other organic dairy products,1,0,0,0
+Dairy,T,BG,2015,45,Other organic dairy products,1,0,0,0
+Dairy,T,BG,2016,0,Other organic dairy products,1,0,0,0
+Dairy,T,BG,2017,0,Other organic dairy products,1,0,0,0
+Dairy,T,BG,2018,15,Other organic dairy products,1,0,0,0
+Dairy,T,BG,2019,123,Other organic dairy products,1,0,0,0
+Dairy,T,BG,2020,148,Other organic dairy products,1,0,0,0
+Dairy,T,BG,2021,254,Other organic dairy products,1,0,0,0
+Dairy,T,CY,2013,132,Other organic dairy products,1,0,0,0
+Dairy,T,CZ,2012,39,Other organic dairy products,1,0,0,0
+Dairy,T,CZ,2013,12,Other organic dairy products,1,0,0,0
+Dairy,T,CZ,2014,21,Other organic dairy products,1,0,0,0
+Dairy,T,CZ,2015,31,Other organic dairy products,1,0,0,0
+Dairy,T,CZ,2016,40,Other organic dairy products,1,0,0,0
+Dairy,T,CZ,2017,38,Other organic dairy products,1,0,0,0
+Dairy,T,CZ,2018,38,Other organic dairy products,1,0,0,0
+Dairy,T,CZ,2019,34,Other organic dairy products,1,0,0,0
+Dairy,T,CZ,2020,36,Other organic dairy products,1,0,0,0
+Dairy,T,CZ,2021,53,Other organic dairy products,1,0,0,0
+Dairy,T,EE,2012,81,Other organic dairy products,1,0,0,0
+Dairy,T,EE,2013,2,Other organic dairy products,1,0,0,0
+Dairy,T,EE,2015,55,Other organic dairy products,1,0,0,0
+Dairy,T,EE,2016,53,Other organic dairy products,1,0,0,0
+Dairy,T,EE,2017,117,Other organic dairy products,1,0,0,0
+Dairy,T,EE,2018,820,Other organic dairy products,1,0,0,0
+Dairy,T,EE,2019,957,Other organic dairy products,1,0,0,0
+Dairy,T,EE,2020,1560,Other organic dairy products,1,0,0,0
+Dairy,T,EE,2021,1319,Other organic dairy products,1,0,0,0
+Dairy,T,ES,2012,104,Other organic dairy products,1,0,0,0
+Dairy,T,ES,2013,253,Other organic dairy products,1,0,0,0
+Dairy,T,ES,2014,27,Other organic dairy products,1,0,0,0
+Dairy,T,ES,2015,25,Other organic dairy products,1,0,0,0
+Dairy,T,ES,2016,110,Other organic dairy products,1,0,0,0
+Dairy,T,ES,2017,150,Other organic dairy products,1,0,0,0
+Dairy,T,ES,2018,219,Other organic dairy products,1,0,0,0
+Dairy,T,ES,2019,217,Other organic dairy products,1,0,0,0
+Dairy,T,ES,2020,217,Other organic dairy products,1,0,0,0
+Dairy,T,ES,2021,700,Other organic dairy products,1,0,0,0
+Dairy,T,FI,2015,,Other organic dairy products,1,0,0,0
+Dairy,T,FI,2016,,Other organic dairy products,1,0,0,0
+Dairy,T,FI,2017,,Other organic dairy products,1,0,0,0
+Dairy,T,FI,2018,,Other organic dairy products,1,0,0,0
+Dairy,T,FR,2018,14482,Other organic dairy products,1,0,0,0
+Dairy,T,FR,2019,15612,Other organic dairy products,1,0,0,0
+Dairy,T,FR,2020,15718,Other organic dairy products,1,0,0,0
+Dairy,T,HR,2012,0,Other organic dairy products,1,0,0,0
+Dairy,T,HR,2013,0,Other organic dairy products,1,0,0,0
+Dairy,T,HR,2014,0,Other organic dairy products,1,0,0,0
+Dairy,T,HR,2015,15,Other organic dairy products,1,0,0,0
+Dairy,T,HR,2016,15,Other organic dairy products,1,0,0,0
+Dairy,T,HR,2017,22,Other organic dairy products,1,0,0,0
+Dairy,T,HR,2018,15,Other organic dairy products,1,0,0,0
+Dairy,T,HR,2019,0,Other organic dairy products,1,0,0,0
+Dairy,T,HR,2020,47,Other organic dairy products,1,0,0,0
+Dairy,T,HU,2012,0,Other organic dairy products,1,0,0,0
+Dairy,T,IE,2017,0,Other organic dairy products,1,0,0,0
+Dairy,T,IE,2019,0,Other organic dairy products,1,0,0,0
+Dairy,T,IT,2012,0,Other organic dairy products,1,0,0,0
+Dairy,T,IT,2013,0,Other organic dairy products,1,0,0,0
+Dairy,T,IT,2015,0,Other organic dairy products,1,0,0,0
+Dairy,T,LT,2013,0,Other organic dairy products,1,0,0,0
+Dairy,T,LU,2016,0,Other organic dairy products,1,0,0,0
+Dairy,T,LU,2017,0,Other organic dairy products,1,0,0,0
+Dairy,T,LU,2018,0,Other organic dairy products,1,0,0,0
+Dairy,T,LU,2019,0,Other organic dairy products,1,0,0,0
+Dairy,T,LU,2020,0,Other organic dairy products,1,0,0,0
+Dairy,T,LU,2021,,Other organic dairy products,1,0,0,0
+Dairy,T,LV,2012,0,Other organic dairy products,1,0,0,0
+Dairy,T,LV,2013,0,Other organic dairy products,1,0,0,0
+Dairy,T,LV,2014,0,Other organic dairy products,1,0,0,0
+Dairy,T,LV,2015,1,Other organic dairy products,1,0,0,0
+Dairy,T,LV,2020,1,Other organic dairy products,1,0,0,0
+Dairy,T,ME,2021,0,Other organic dairy products,1,0,0,0
+Dairy,T,MK,2013,0,Other organic dairy products,1,0,0,0
+Dairy,T,MK,2014,0,Other organic dairy products,1,0,0,0
+Dairy,T,MK,2015,62,Other organic dairy products,1,0,0,0
+Dairy,T,MK,2016,8,Other organic dairy products,1,0,0,0
+Dairy,T,MT,2012,0,Other organic dairy products,1,0,0,0
+Dairy,T,MT,2014,0,Other organic dairy products,1,0,0,0
+Dairy,T,MT,2015,0,Other organic dairy products,1,0,0,0
+Dairy,T,MT,2016,0,Other organic dairy products,1,0,0,0
+Dairy,T,MT,2017,0,Other organic dairy products,1,0,0,0
+Dairy,T,MT,2018,0,Other organic dairy products,1,0,0,0
+Dairy,T,MT,2021,0,Other organic dairy products,1,0,0,0
+Dairy,T,NL,2021,10861,Other organic dairy products,1,0,0,0
+Dairy,T,PL,2012,6283,Other organic dairy products,1,0,0,0
+Dairy,T,PL,2019,49,Other organic dairy products,1,0,0,0
+Dairy,T,PL,2020,27,Other organic dairy products,1,0,0,0
+Dairy,T,RO,2012,65,Other organic dairy products,1,0,0,0
+Dairy,T,RO,2013,69,Other organic dairy products,1,0,0,0
+Dairy,T,RO,2015,40,Other organic dairy products,1,0,0,0
+Dairy,T,RO,2016,40,Other organic dairy products,1,0,0,0
+Dairy,T,RO,2017,11,Other organic dairy products,1,0,0,0
+Dairy,T,RO,2018,16,Other organic dairy products,1,0,0,0
+Dairy,T,RO,2019,20,Other organic dairy products,1,0,0,0
+Dairy,T,RO,2020,0,Other organic dairy products,1,0,0,0
+Dairy,T,RO,2021,13,Other organic dairy products,1,0,0,0
+Dairy,T,RS,2013,1024,Other organic dairy products,1,0,0,0
+Dairy,T,RS,2014,1659,Other organic dairy products,1,0,0,0
+Dairy,T,RS,2015,300,Other organic dairy products,1,0,0,0
+Dairy,T,RS,2016,100,Other organic dairy products,1,0,0,0
+Dairy,T,RS,2018,7,Other organic dairy products,1,0,0,0
+Dairy,T,RS,2019,0,Other organic dairy products,1,0,0,0
+Dairy,T,RS,2020,12,Other organic dairy products,1,0,0,0
+Dairy,T,SI,2012,33,Other organic dairy products,1,0,0,0
+Dairy,T,SI,2017,0,Other organic dairy products,1,0,0,0
+Dairy,T,SK,2012,242,Other organic dairy products,1,0,0,0
+Dairy,T,SK,2013,172,Other organic dairy products,1,0,0,0
+Dairy,T,SK,2014,69,Other organic dairy products,1,0,0,0
+Dairy,T,SK,2015,563,Other organic dairy products,1,0,0,0
+Dairy,T,SK,2016,23,Other organic dairy products,1,0,0,0
+Dairy,T,SK,2017,16,Other organic dairy products,1,0,0,0
+Dairy,T,SK,2018,0,Other organic dairy products,1,0,0,0
+Dairy,T,SK,2019,55,Other organic dairy products,1,0,0,0
+Dairy,T,TR,2014,0,Other organic dairy products,1,0,0,0
+Dairy,T,TR,2015,3,Other organic dairy products,1,0,0,0
+Dairy,T,TR,2016,0,Other organic dairy products,1,0,0,0
+Dairy,T,TR,2017,0,Other organic dairy products,1,0,0,0
+Dairy,T,TR,2018,0,Other organic dairy products,1,0,0,0
+Honey,T,BG,2012,2448,Honey,0,0,1,0
+Honey,T,BG,2013,1606,Honey,0,0,1,0
+Honey,T,BG,2014,1517,Honey,0,0,1,0
+Honey,T,BG,2015,2160,Honey,0,0,1,0
+Honey,T,BG,2016,1941,Honey,0,0,1,0
+Honey,T,BG,2017,3760,Honey,0,0,1,0
+Honey,T,BG,2018,3204,Honey,0,0,1,0
+Honey,T,BG,2019,3128,Honey,0,0,1,0
+Honey,T,BG,2020,2294,Honey,0,0,1,0
+Honey,T,BG,2021,2652,Honey,0,0,1,0
+Honey,T,CY,2012,0,Honey,0,0,1,0
+Honey,T,CY,2013,0,Honey,0,0,1,0
+Honey,T,CY,2017,0,Honey,0,0,1,0
+Honey,T,CZ,2012,15,Honey,0,0,1,0
+Honey,T,CZ,2013,17,Honey,0,0,1,0
+Honey,T,CZ,2014,0,Honey,0,0,1,0
+Honey,T,CZ,2015,0,Honey,0,0,1,0
+Honey,T,CZ,2016,2,Honey,0,0,1,0
+Honey,T,CZ,2017,1,Honey,0,0,1,0
+Honey,T,CZ,2018,4,Honey,0,0,1,0
+Honey,T,CZ,2019,12,Honey,0,0,1,0
+Honey,T,CZ,2020,3,Honey,0,0,1,0
+Honey,T,CZ,2021,4,Honey,0,0,1,0
+Honey,T,EE,2012,22,Honey,0,0,1,0
+Honey,T,EE,2013,20,Honey,0,0,1,0
+Honey,T,EE,2014,45,Honey,0,0,1,0
+Honey,T,EE,2015,39,Honey,0,0,1,0
+Honey,T,EE,2016,43,Honey,0,0,1,0
+Honey,T,EE,2017,69,Honey,0,0,1,0
+Honey,T,EE,2018,69,Honey,0,0,1,0
+Honey,T,EE,2019,51,Honey,0,0,1,0
+Honey,T,EE,2020,59,Honey,0,0,1,0
+Honey,T,EL,2012,0,Honey,0,0,1,0
+Honey,T,ES,2012,599,Honey,0,0,1,0
+Honey,T,ES,2013,708,Honey,0,0,1,0
+Honey,T,ES,2014,701,Honey,0,0,1,0
+Honey,T,ES,2015,912,Honey,0,0,1,0
+Honey,T,ES,2016,870,Honey,0,0,1,0
+Honey,T,ES,2017,896,Honey,0,0,1,0
+Honey,T,ES,2018,1223,Honey,0,0,1,0
+Honey,T,ES,2019,1133,Honey,0,0,1,0
+Honey,T,ES,2020,1205,Honey,0,0,1,0
+Honey,T,ES,2021,1206,Honey,0,0,1,0
+Honey,T,FI,2016,,Honey,0,0,1,0
+Honey,T,FI,2017,,Honey,0,0,1,0
+Honey,T,FI,2018,,Honey,0,0,1,0
+Honey,T,HR,2013,33,Honey,0,0,1,0
+Honey,T,HR,2014,60,Honey,0,0,1,0
+Honey,T,HR,2015,48,Honey,0,0,1,0
+Honey,T,HR,2016,47,Honey,0,0,1,0
+Honey,T,HR,2017,29,Honey,0,0,1,0
+Honey,T,HR,2018,31,Honey,0,0,1,0
+Honey,T,HR,2019,28,Honey,0,0,1,0
+Honey,T,HR,2020,48,Honey,0,0,1,0
+Honey,T,IE,2015,0,Honey,0,0,1,0
+Honey,T,IE,2017,0,Honey,0,0,1,0
+Honey,T,IE,2019,0,Honey,0,0,1,0
+Honey,T,IT,2013,2778,Honey,0,0,1,0
+Honey,T,IT,2015,0,Honey,0,0,1,0
+Honey,T,LT,2012,35,Honey,0,0,1,0
+Honey,T,LT,2013,32,Honey,0,0,1,0
+Honey,T,LT,2014,30,Honey,0,0,1,0
+Honey,T,LT,2015,28,Honey,0,0,1,0
+Honey,T,LT,2016,28,Honey,0,0,1,0
+Honey,T,LT,2017,37,Honey,0,0,1,0
+Honey,T,LT,2018,42,Honey,0,0,1,0
+Honey,T,LT,2019,29,Honey,0,0,1,0
+Honey,T,LT,2020,24,Honey,0,0,1,0
+Honey,T,LT,2021,36,Honey,0,0,1,0
+Honey,T,LU,2016,,Honey,0,0,1,0
+Honey,T,LU,2017,,Honey,0,0,1,0
+Honey,T,LU,2018,,Honey,0,0,1,0
+Honey,T,LU,2021,7,Honey,0,0,1,0
+Honey,T,LV,2012,250,Honey,0,0,1,0
+Honey,T,LV,2013,226,Honey,0,0,1,0
+Honey,T,LV,2014,263,Honey,0,0,1,0
+Honey,T,LV,2015,502,Honey,0,0,1,0
+Honey,T,LV,2016,504,Honey,0,0,1,0
+Honey,T,LV,2017,471,Honey,0,0,1,0
+Honey,T,LV,2018,490,Honey,0,0,1,0
+Honey,T,LV,2020,377,Honey,0,0,1,0
+Honey,T,ME,2021,11,Honey,0,0,1,0
+Honey,T,MK,2013,25,Honey,0,0,1,0
+Honey,T,MK,2014,25,Honey,0,0,1,0
+Honey,T,MK,2015,87,Honey,0,0,1,0
+Honey,T,MK,2016,68,Honey,0,0,1,0
+Honey,T,MK,2021,59,Honey,0,0,1,0
+Honey,T,MT,2012,0,Honey,0,0,1,0
+Honey,T,MT,2014,0,Honey,0,0,1,0
+Honey,T,MT,2015,0,Honey,0,0,1,0
+Honey,T,MT,2016,0,Honey,0,0,1,0
+Honey,T,MT,2017,0,Honey,0,0,1,0
+Honey,T,MT,2018,0,Honey,0,0,1,0
+Honey,T,MT,2021,0,Honey,0,0,1,0
+Honey,T,NL,2021,0,Honey,0,0,1,0
+Honey,T,PL,2012,24,Honey,0,0,1,0
+Honey,T,PL,2013,60,Honey,0,0,1,0
+Honey,T,PL,2014,50,Honey,0,0,1,0
+Honey,T,PL,2015,78,Honey,0,0,1,0
+Honey,T,PL,2016,93,Honey,0,0,1,0
+Honey,T,PL,2017,69,Honey,0,0,1,0
+Honey,T,PL,2018,64,Honey,0,0,1,0
+Honey,T,PL,2019,65,Honey,0,0,1,0
+Honey,T,PL,2020,52,Honey,0,0,1,0
+Honey,T,RO,2012,2847,Honey,0,0,1,0
+Honey,T,RO,2015,3344,Honey,0,0,1,0
+Honey,T,RO,2016,3489,Honey,0,0,1,0
+Honey,T,RO,2017,5475,Honey,0,0,1,0
+Honey,T,RO,2019,5783,Honey,0,0,1,0
+Honey,T,RO,2020,4480,Honey,0,0,1,0
+Honey,T,RO,2021,8673,Honey,0,0,1,0
+Honey,T,RS,2013,0,Honey,0,0,1,0
+Honey,T,RS,2017,10,Honey,0,0,1,0
+Honey,T,RS,2018,47,Honey,0,0,1,0
+Honey,T,RS,2019,31,Honey,0,0,1,0
+Honey,T,RS,2020,87,Honey,0,0,1,0
+Honey,T,SI,2012,21,Honey,0,0,1,0
+Honey,T,SI,2013,45,Honey,0,0,1,0
+Honey,T,SI,2017,0,Honey,0,0,1,0
+Honey,T,SK,2012,0,Honey,0,0,1,0
+Honey,T,SK,2013,2,Honey,0,0,1,0
+Honey,T,SK,2014,1,Honey,0,0,1,0
+Honey,T,SK,2015,3,Honey,0,0,1,0
+Honey,T,SK,2016,1,Honey,0,0,1,0
+Honey,T,SK,2017,4,Honey,0,0,1,0
+Honey,T,SK,2018,0,Honey,0,0,1,0
+Honey,T,TR,2013,344,Honey,0,0,1,0
+Honey,T,TR,2015,1174,Honey,0,0,1,0
+Honey,T,TR,2017,392,Honey,0,0,1,0
+Honey,T,TR,2018,495,Honey,0,0,1,0
+Honey,T,TR,2019,577,Honey,0,0,1,0
+Honey,T,TR,2021,1221,Honey,0,0,1,0
+Honey,T,UK,2019,0,Honey,0,0,1,0
