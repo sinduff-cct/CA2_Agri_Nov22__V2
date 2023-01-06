@@ -340,10 +340,10 @@
 338,Meat,T,LT,2013,2514.0,Bovine meat,0.0,0.0,0.0,1.0
 339,Meat,T,LT,2014,3526.0,Bovine meat,0.0,0.0,0.0,1.0
 340,Meat,T,LT,2015,2757.0,Bovine meat,0.0,0.0,0.0,1.0
-341,Meat,T,LT,2016,,Bovine meat,0.0,0.0,0.0,1.0
-342,Meat,T,LT,2017,,Bovine meat,0.0,0.0,0.0,1.0
-343,Meat,T,LT,2018,,Bovine meat,0.0,0.0,0.0,1.0
-344,Meat,T,LT,2019,,Bovine meat,0.0,0.0,0.0,1.0
+341,Meat,T,LT,2016,0.0,Bovine meat,0.0,0.0,0.0,1.0
+342,Meat,T,LT,2017,0.0,Bovine meat,0.0,0.0,0.0,1.0
+343,Meat,T,LT,2018,0.0,Bovine meat,0.0,0.0,0.0,1.0
+344,Meat,T,LT,2019,0.0,Bovine meat,0.0,0.0,0.0,1.0
 345,Meat,T,LT,2020,1688.0,Bovine meat,0.0,0.0,0.0,1.0
 346,Meat,T,LT,2021,2153.0,Bovine meat,0.0,0.0,0.0,1.0
 347,Meat,T,LU,2013,67.0,Bovine meat,0.0,0.0,0.0,1.0
@@ -526,12 +526,12 @@
 524,Meat,T,LT,2013,42.0,Pigmeat ,0.0,0.0,0.0,1.0
 525,Meat,T,LT,2014,22.0,Pigmeat ,0.0,0.0,0.0,1.0
 526,Meat,T,LT,2015,21.0,Pigmeat ,0.0,0.0,0.0,1.0
-527,Meat,T,LT,2016,,Pigmeat ,0.0,0.0,0.0,1.0
-528,Meat,T,LT,2017,,Pigmeat ,0.0,0.0,0.0,1.0
-529,Meat,T,LT,2018,,Pigmeat ,0.0,0.0,0.0,1.0
-530,Meat,T,LT,2019,,Pigmeat ,0.0,0.0,0.0,1.0
-531,Meat,T,LT,2020,,Pigmeat ,0.0,0.0,0.0,1.0
-532,Meat,T,LT,2021,,Pigmeat ,0.0,0.0,0.0,1.0
+527,Meat,T,LT,2016,0.0,Pigmeat ,0.0,0.0,0.0,1.0
+528,Meat,T,LT,2017,0.0,Pigmeat ,0.0,0.0,0.0,1.0
+529,Meat,T,LT,2018,0.0,Pigmeat ,0.0,0.0,0.0,1.0
+530,Meat,T,LT,2019,0.0,Pigmeat ,0.0,0.0,0.0,1.0
+531,Meat,T,LT,2020,0.0,Pigmeat ,0.0,0.0,0.0,1.0
+532,Meat,T,LT,2021,0.0,Pigmeat ,0.0,0.0,0.0,1.0
 533,Meat,T,LU,2013,66.0,Pigmeat ,0.0,0.0,0.0,1.0
 534,Meat,T,LU,2014,57.0,Pigmeat ,0.0,0.0,0.0,1.0
 535,Meat,T,LU,2015,53.0,Pigmeat ,0.0,0.0,0.0,1.0
@@ -646,9 +646,9 @@
 644,Meat,T,CZ,2019,398.0,Sheepmeat,0.0,0.0,0.0,1.0
 645,Meat,T,CZ,2020,379.0,Sheepmeat,0.0,0.0,0.0,1.0
 646,Meat,T,CZ,2021,294.0,Sheepmeat,0.0,0.0,0.0,1.0
-647,Meat,T,DK,2016,,Sheepmeat,0.0,0.0,0.0,1.0
-648,Meat,T,DK,2017,,Sheepmeat,0.0,0.0,0.0,1.0
-649,Meat,T,DK,2018,,Sheepmeat,0.0,0.0,0.0,1.0
+647,Meat,T,DK,2016,0.0,Sheepmeat,0.0,0.0,0.0,1.0
+648,Meat,T,DK,2017,0.0,Sheepmeat,0.0,0.0,0.0,1.0
+649,Meat,T,DK,2018,0.0,Sheepmeat,0.0,0.0,0.0,1.0
 650,Meat,T,EE,2012,246.0,Sheepmeat,0.0,0.0,0.0,1.0
 651,Meat,T,EE,2013,243.0,Sheepmeat,0.0,0.0,0.0,1.0
 652,Meat,T,EE,2014,207.0,Sheepmeat,0.0,0.0,0.0,1.0
@@ -710,7 +710,7 @@
 708,Meat,T,LT,2013,160.0,Sheepmeat,0.0,0.0,0.0,1.0
 709,Meat,T,LT,2014,186.0,Sheepmeat,0.0,0.0,0.0,1.0
 710,Meat,T,LT,2015,216.0,Sheepmeat,0.0,0.0,0.0,1.0
-711,Meat,T,LT,2021,,Sheepmeat,0.0,0.0,0.0,1.0
+711,Meat,T,LT,2021,0.0,Sheepmeat,0.0,0.0,0.0,1.0
 712,Meat,T,LU,2013,2.0,Sheepmeat,0.0,0.0,0.0,1.0
 713,Meat,T,LU,2014,1.0,Sheepmeat,0.0,0.0,0.0,1.0
 714,Meat,T,LU,2015,1.0,Sheepmeat,0.0,0.0,0.0,1.0
@@ -806,9 +806,9 @@
 804,Meat,T,CZ,2019,24.0,Goat meat,0.0,0.0,0.0,1.0
 805,Meat,T,CZ,2020,26.0,Goat meat,0.0,0.0,0.0,1.0
 806,Meat,T,CZ,2021,20.0,Goat meat,0.0,0.0,0.0,1.0
-807,Meat,T,DK,2016,,Goat meat,0.0,0.0,0.0,1.0
-808,Meat,T,DK,2017,,Goat meat,0.0,0.0,0.0,1.0
-809,Meat,T,DK,2018,,Goat meat,0.0,0.0,0.0,1.0
+807,Meat,T,DK,2016,0.0,Goat meat,0.0,0.0,0.0,1.0
+808,Meat,T,DK,2017,0.0,Goat meat,0.0,0.0,0.0,1.0
+809,Meat,T,DK,2018,0.0,Goat meat,0.0,0.0,0.0,1.0
 810,Meat,T,EE,2012,3.0,Goat meat,0.0,0.0,0.0,1.0
 811,Meat,T,EE,2013,3.0,Goat meat,0.0,0.0,0.0,1.0
 812,Meat,T,EE,2014,7.0,Goat meat,0.0,0.0,0.0,1.0
@@ -829,11 +829,11 @@
 827,Meat,T,ES,2019,482.0,Goat meat,0.0,0.0,0.0,1.0
 828,Meat,T,ES,2020,462.0,Goat meat,0.0,0.0,0.0,1.0
 829,Meat,T,ES,2021,550.0,Goat meat,0.0,0.0,0.0,1.0
-830,Meat,T,FI,2015,,Goat meat,0.0,0.0,0.0,1.0
-831,Meat,T,FI,2016,,Goat meat,0.0,0.0,0.0,1.0
-832,Meat,T,FI,2017,,Goat meat,0.0,0.0,0.0,1.0
-833,Meat,T,FI,2018,,Goat meat,0.0,0.0,0.0,1.0
-834,Meat,T,FR,2014,,Goat meat,0.0,0.0,0.0,1.0
+830,Meat,T,FI,2015,0.0,Goat meat,0.0,0.0,0.0,1.0
+831,Meat,T,FI,2016,0.0,Goat meat,0.0,0.0,0.0,1.0
+832,Meat,T,FI,2017,0.0,Goat meat,0.0,0.0,0.0,1.0
+833,Meat,T,FI,2018,0.0,Goat meat,0.0,0.0,0.0,1.0
+834,Meat,T,FR,2014,0.0,Goat meat,0.0,0.0,0.0,1.0
 835,Meat,T,HR,2012,0.0,Goat meat,0.0,0.0,0.0,1.0
 836,Meat,T,HR,2014,2.0,Goat meat,0.0,0.0,0.0,1.0
 837,Meat,T,HR,2015,13.0,Goat meat,0.0,0.0,0.0,1.0
@@ -856,12 +856,12 @@
 854,Meat,T,LT,2014,6.0,Goat meat,0.0,0.0,0.0,1.0
 855,Meat,T,LT,2015,2.0,Goat meat,0.0,0.0,0.0,1.0
 856,Meat,T,LT,2021,0.0,Goat meat,0.0,0.0,0.0,1.0
-857,Meat,T,LU,2013,,Goat meat,0.0,0.0,0.0,1.0
-858,Meat,T,LU,2014,,Goat meat,0.0,0.0,0.0,1.0
-859,Meat,T,LU,2015,,Goat meat,0.0,0.0,0.0,1.0
-860,Meat,T,LU,2016,,Goat meat,0.0,0.0,0.0,1.0
-861,Meat,T,LU,2017,,Goat meat,0.0,0.0,0.0,1.0
-862,Meat,T,LU,2018,,Goat meat,0.0,0.0,0.0,1.0
+857,Meat,T,LU,2013,0.0,Goat meat,0.0,0.0,0.0,1.0
+858,Meat,T,LU,2014,0.0,Goat meat,0.0,0.0,0.0,1.0
+859,Meat,T,LU,2015,0.0,Goat meat,0.0,0.0,0.0,1.0
+860,Meat,T,LU,2016,0.0,Goat meat,0.0,0.0,0.0,1.0
+861,Meat,T,LU,2017,0.0,Goat meat,0.0,0.0,0.0,1.0
+862,Meat,T,LU,2018,0.0,Goat meat,0.0,0.0,0.0,1.0
 863,Meat,T,LU,2021,0.0,Goat meat,0.0,0.0,0.0,1.0
 864,Meat,T,LV,2012,4.0,Goat meat,0.0,0.0,0.0,1.0
 865,Meat,T,LV,2013,5.0,Goat meat,0.0,0.0,0.0,1.0
@@ -894,7 +894,7 @@
 892,Meat,T,RS,2017,0.0,Goat meat,0.0,0.0,0.0,1.0
 893,Meat,T,RS,2018,0.0,Goat meat,0.0,0.0,0.0,1.0
 894,Meat,T,RS,2019,0.0,Goat meat,0.0,0.0,0.0,1.0
-895,Meat,T,SE,2014,,Goat meat,0.0,0.0,0.0,1.0
+895,Meat,T,SE,2014,0.0,Goat meat,0.0,0.0,0.0,1.0
 896,Meat,T,SE,2021,0.0,Goat meat,0.0,0.0,0.0,1.0
 897,Meat,T,SI,2012,0.0,Goat meat,0.0,0.0,0.0,1.0
 898,Meat,T,SI,2014,0.0,Goat meat,0.0,0.0,0.0,1.0
@@ -935,9 +935,9 @@
 933,Meat,T,DK,2012,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
 934,Meat,T,DK,2013,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
 935,Meat,T,DK,2014,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
-936,Meat,T,DK,2016,,Meat of horses etc,0.0,0.0,0.0,1.0
-937,Meat,T,DK,2017,,Meat of horses etc,0.0,0.0,0.0,1.0
-938,Meat,T,DK,2018,,Meat of horses etc,0.0,0.0,0.0,1.0
+936,Meat,T,DK,2016,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
+937,Meat,T,DK,2017,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
+938,Meat,T,DK,2018,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
 939,Meat,T,EE,2012,2.0,Meat of horses etc,0.0,0.0,0.0,1.0
 940,Meat,T,EE,2013,3.0,Meat of horses etc,0.0,0.0,0.0,1.0
 941,Meat,T,EE,2014,10.0,Meat of horses etc,0.0,0.0,0.0,1.0
@@ -956,10 +956,10 @@
 954,Meat,T,ES,2018,512.0,Meat of horses etc,0.0,0.0,0.0,1.0
 955,Meat,T,ES,2019,466.0,Meat of horses etc,0.0,0.0,0.0,1.0
 956,Meat,T,ES,2020,441.0,Meat of horses etc,0.0,0.0,0.0,1.0
-957,Meat,T,FI,2015,,Meat of horses etc,0.0,0.0,0.0,1.0
-958,Meat,T,FI,2016,,Meat of horses etc,0.0,0.0,0.0,1.0
-959,Meat,T,FI,2017,,Meat of horses etc,0.0,0.0,0.0,1.0
-960,Meat,T,FI,2018,,Meat of horses etc,0.0,0.0,0.0,1.0
+957,Meat,T,FI,2015,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
+958,Meat,T,FI,2016,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
+959,Meat,T,FI,2017,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
+960,Meat,T,FI,2018,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
 961,Meat,T,HR,2012,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
 962,Meat,T,HR,2013,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
 963,Meat,T,HR,2014,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
@@ -980,17 +980,17 @@
 978,Meat,T,LT,2013,25.0,Meat of horses etc,0.0,0.0,0.0,1.0
 979,Meat,T,LT,2014,17.0,Meat of horses etc,0.0,0.0,0.0,1.0
 980,Meat,T,LT,2015,30.0,Meat of horses etc,0.0,0.0,0.0,1.0
-981,Meat,T,LT,2016,,Meat of horses etc,0.0,0.0,0.0,1.0
-982,Meat,T,LT,2017,,Meat of horses etc,0.0,0.0,0.0,1.0
-983,Meat,T,LT,2018,,Meat of horses etc,0.0,0.0,0.0,1.0
-984,Meat,T,LT,2019,,Meat of horses etc,0.0,0.0,0.0,1.0
+981,Meat,T,LT,2016,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
+982,Meat,T,LT,2017,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
+983,Meat,T,LT,2018,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
+984,Meat,T,LT,2019,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
 985,Meat,T,LT,2020,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
-986,Meat,T,LU,2013,,Meat of horses etc,0.0,0.0,0.0,1.0
-987,Meat,T,LU,2014,,Meat of horses etc,0.0,0.0,0.0,1.0
-988,Meat,T,LU,2015,,Meat of horses etc,0.0,0.0,0.0,1.0
-989,Meat,T,LU,2016,,Meat of horses etc,0.0,0.0,0.0,1.0
-990,Meat,T,LU,2017,,Meat of horses etc,0.0,0.0,0.0,1.0
-991,Meat,T,LU,2018,,Meat of horses etc,0.0,0.0,0.0,1.0
+986,Meat,T,LU,2013,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
+987,Meat,T,LU,2014,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
+988,Meat,T,LU,2015,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
+989,Meat,T,LU,2016,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
+990,Meat,T,LU,2017,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
+991,Meat,T,LU,2018,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
 992,Meat,T,LV,2012,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
 993,Meat,T,LV,2014,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
 994,Meat,T,LV,2015,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
@@ -1018,7 +1018,7 @@
 1016,Meat,T,RS,2017,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
 1017,Meat,T,RS,2018,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
 1018,Meat,T,RS,2019,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
-1019,Meat,T,SE,2014,,Meat of horses etc,0.0,0.0,0.0,1.0
+1019,Meat,T,SE,2014,0.0,Meat of horses etc,0.0,0.0,0.0,1.0
 1020,Meat,T,SI,2012,2.0,Meat of horses etc,0.0,0.0,0.0,1.0
 1021,Meat,T,SI,2014,2.0,Meat of horses etc,0.0,0.0,0.0,1.0
 1022,Meat,T,SI,2015,1.0,Meat of horses etc,0.0,0.0,0.0,1.0
@@ -1064,8 +1064,8 @@
 1062,Meat,T,CZ,2019,197.0,Poultry meat,0.0,0.0,0.0,1.0
 1063,Meat,T,CZ,2020,191.0,Poultry meat,0.0,0.0,0.0,1.0
 1064,Meat,T,CZ,2021,196.0,Poultry meat,0.0,0.0,0.0,1.0
-1065,Meat,T,DK,2016,,Poultry meat,0.0,0.0,0.0,1.0
-1066,Meat,T,DK,2017,,Poultry meat,0.0,0.0,0.0,1.0
+1065,Meat,T,DK,2016,0.0,Poultry meat,0.0,0.0,0.0,1.0
+1066,Meat,T,DK,2017,0.0,Poultry meat,0.0,0.0,0.0,1.0
 1067,Meat,T,EE,2013,4.0,Poultry meat,0.0,0.0,0.0,1.0
 1068,Meat,T,EE,2014,9.0,Poultry meat,0.0,0.0,0.0,1.0
 1069,Meat,T,EE,2015,6.0,Poultry meat,0.0,0.0,0.0,1.0
@@ -1089,8 +1089,8 @@
 1087,Meat,T,FI,2014,80.0,Poultry meat,0.0,0.0,0.0,1.0
 1088,Meat,T,FI,2015,210.0,Poultry meat,0.0,0.0,0.0,1.0
 1089,Meat,T,FI,2016,180.0,Poultry meat,0.0,0.0,0.0,1.0
-1090,Meat,T,FI,2017,,Poultry meat,0.0,0.0,0.0,1.0
-1091,Meat,T,FI,2018,,Poultry meat,0.0,0.0,0.0,1.0
+1090,Meat,T,FI,2017,0.0,Poultry meat,0.0,0.0,0.0,1.0
+1091,Meat,T,FI,2018,0.0,Poultry meat,0.0,0.0,0.0,1.0
 1092,Meat,T,FR,2012,11579.0,Poultry meat,0.0,0.0,0.0,1.0
 1093,Meat,T,FR,2013,12348.0,Poultry meat,0.0,0.0,0.0,1.0
 1094,Meat,T,FR,2014,14275.0,Poultry meat,0.0,0.0,0.0,1.0
@@ -1123,16 +1123,16 @@
 1121,Meat,T,LT,2013,1.0,Poultry meat,0.0,0.0,0.0,1.0
 1122,Meat,T,LT,2014,2.0,Poultry meat,0.0,0.0,0.0,1.0
 1123,Meat,T,LT,2015,0.0,Poultry meat,0.0,0.0,0.0,1.0
-1124,Meat,T,LT,2016,,Poultry meat,0.0,0.0,0.0,1.0
-1125,Meat,T,LT,2017,,Poultry meat,0.0,0.0,0.0,1.0
-1126,Meat,T,LT,2020,,Poultry meat,0.0,0.0,0.0,1.0
-1127,Meat,T,LT,2021,,Poultry meat,0.0,0.0,0.0,1.0
-1128,Meat,T,LU,2013,,Poultry meat,0.0,0.0,0.0,1.0
-1129,Meat,T,LU,2014,,Poultry meat,0.0,0.0,0.0,1.0
-1130,Meat,T,LU,2015,,Poultry meat,0.0,0.0,0.0,1.0
-1131,Meat,T,LU,2016,,Poultry meat,0.0,0.0,0.0,1.0
-1132,Meat,T,LU,2017,,Poultry meat,0.0,0.0,0.0,1.0
-1133,Meat,T,LU,2018,,Poultry meat,0.0,0.0,0.0,1.0
+1124,Meat,T,LT,2016,0.0,Poultry meat,0.0,0.0,0.0,1.0
+1125,Meat,T,LT,2017,0.0,Poultry meat,0.0,0.0,0.0,1.0
+1126,Meat,T,LT,2020,0.0,Poultry meat,0.0,0.0,0.0,1.0
+1127,Meat,T,LT,2021,0.0,Poultry meat,0.0,0.0,0.0,1.0
+1128,Meat,T,LU,2013,0.0,Poultry meat,0.0,0.0,0.0,1.0
+1129,Meat,T,LU,2014,0.0,Poultry meat,0.0,0.0,0.0,1.0
+1130,Meat,T,LU,2015,0.0,Poultry meat,0.0,0.0,0.0,1.0
+1131,Meat,T,LU,2016,0.0,Poultry meat,0.0,0.0,0.0,1.0
+1132,Meat,T,LU,2017,0.0,Poultry meat,0.0,0.0,0.0,1.0
+1133,Meat,T,LU,2018,0.0,Poultry meat,0.0,0.0,0.0,1.0
 1134,Meat,T,LU,2021,0.0,Poultry meat,0.0,0.0,0.0,1.0
 1135,Meat,T,LV,2012,5.0,Poultry meat,0.0,0.0,0.0,1.0
 1136,Meat,T,LV,2013,6.0,Poultry meat,0.0,0.0,0.0,1.0
@@ -1211,7 +1211,7 @@
 1209,Meat,T,BG,2021,0.0,Chicken,0.0,0.0,0.0,1.0
 1210,Meat,T,EE,2021,3.0,Chicken,0.0,0.0,0.0,1.0
 1211,Meat,T,ES,2021,1634.0,Chicken,0.0,0.0,0.0,1.0
-1212,Meat,T,LT,2021,,Chicken,0.0,0.0,0.0,1.0
+1212,Meat,T,LT,2021,0.0,Chicken,0.0,0.0,0.0,1.0
 1213,Meat,T,LU,2021,0.0,Chicken,0.0,0.0,0.0,1.0
 1214,Meat,T,ME,2021,0.0,Chicken,0.0,0.0,0.0,1.0
 1215,Meat,T,MT,2021,0.0,Chicken,0.0,0.0,0.0,1.0
@@ -1249,9 +1249,9 @@
 1247,Meat,T,CZ,2020,0.0,Other meat,0.0,0.0,0.0,1.0
 1248,Meat,T,DK,2012,0.0,Other meat,0.0,0.0,0.0,1.0
 1249,Meat,T,DK,2013,0.0,Other meat,0.0,0.0,0.0,1.0
-1250,Meat,T,DK,2016,,Other meat,0.0,0.0,0.0,1.0
-1251,Meat,T,DK,2017,,Other meat,0.0,0.0,0.0,1.0
-1252,Meat,T,DK,2018,,Other meat,0.0,0.0,0.0,1.0
+1250,Meat,T,DK,2016,0.0,Other meat,0.0,0.0,0.0,1.0
+1251,Meat,T,DK,2017,0.0,Other meat,0.0,0.0,0.0,1.0
+1252,Meat,T,DK,2018,0.0,Other meat,0.0,0.0,0.0,1.0
 1253,Meat,T,EE,2012,1.0,Other meat,0.0,0.0,0.0,1.0
 1254,Meat,T,EE,2013,2.0,Other meat,0.0,0.0,0.0,1.0
 1255,Meat,T,EE,2014,4.0,Other meat,0.0,0.0,0.0,1.0
@@ -1270,10 +1270,10 @@
 1268,Meat,T,ES,2018,0.0,Other meat,0.0,0.0,0.0,1.0
 1269,Meat,T,ES,2019,2.0,Other meat,0.0,0.0,0.0,1.0
 1270,Meat,T,ES,2020,1.0,Other meat,0.0,0.0,0.0,1.0
-1271,Meat,T,FI,2015,,Other meat,0.0,0.0,0.0,1.0
-1272,Meat,T,FI,2016,,Other meat,0.0,0.0,0.0,1.0
-1273,Meat,T,FI,2017,,Other meat,0.0,0.0,0.0,1.0
-1274,Meat,T,FI,2018,,Other meat,0.0,0.0,0.0,1.0
+1271,Meat,T,FI,2015,0.0,Other meat,0.0,0.0,0.0,1.0
+1272,Meat,T,FI,2016,0.0,Other meat,0.0,0.0,0.0,1.0
+1273,Meat,T,FI,2017,0.0,Other meat,0.0,0.0,0.0,1.0
+1274,Meat,T,FI,2018,0.0,Other meat,0.0,0.0,0.0,1.0
 1275,Meat,T,HR,2012,2.0,Other meat,0.0,0.0,0.0,1.0
 1276,Meat,T,HR,2013,0.0,Other meat,0.0,0.0,0.0,1.0
 1277,Meat,T,HR,2014,0.0,Other meat,0.0,0.0,0.0,1.0
@@ -1289,17 +1289,17 @@
 1287,Meat,T,LT,2012,1.0,Other meat,0.0,0.0,0.0,1.0
 1288,Meat,T,LT,2013,46.0,Other meat,0.0,0.0,0.0,1.0
 1289,Meat,T,LT,2015,1033.0,Other meat,0.0,0.0,0.0,1.0
-1290,Meat,T,LT,2016,,Other meat,0.0,0.0,0.0,1.0
-1291,Meat,T,LT,2017,,Other meat,0.0,0.0,0.0,1.0
-1292,Meat,T,LT,2018,,Other meat,0.0,0.0,0.0,1.0
-1293,Meat,T,LT,2019,,Other meat,0.0,0.0,0.0,1.0
-1294,Meat,T,LT,2020,,Other meat,0.0,0.0,0.0,1.0
-1295,Meat,T,LU,2013,,Other meat,0.0,0.0,0.0,1.0
-1296,Meat,T,LU,2014,,Other meat,0.0,0.0,0.0,1.0
-1297,Meat,T,LU,2015,,Other meat,0.0,0.0,0.0,1.0
-1298,Meat,T,LU,2016,,Other meat,0.0,0.0,0.0,1.0
-1299,Meat,T,LU,2017,,Other meat,0.0,0.0,0.0,1.0
-1300,Meat,T,LU,2018,,Other meat,0.0,0.0,0.0,1.0
+1290,Meat,T,LT,2016,0.0,Other meat,0.0,0.0,0.0,1.0
+1291,Meat,T,LT,2017,0.0,Other meat,0.0,0.0,0.0,1.0
+1292,Meat,T,LT,2018,0.0,Other meat,0.0,0.0,0.0,1.0
+1293,Meat,T,LT,2019,0.0,Other meat,0.0,0.0,0.0,1.0
+1294,Meat,T,LT,2020,0.0,Other meat,0.0,0.0,0.0,1.0
+1295,Meat,T,LU,2013,0.0,Other meat,0.0,0.0,0.0,1.0
+1296,Meat,T,LU,2014,0.0,Other meat,0.0,0.0,0.0,1.0
+1297,Meat,T,LU,2015,0.0,Other meat,0.0,0.0,0.0,1.0
+1298,Meat,T,LU,2016,0.0,Other meat,0.0,0.0,0.0,1.0
+1299,Meat,T,LU,2017,0.0,Other meat,0.0,0.0,0.0,1.0
+1300,Meat,T,LU,2018,0.0,Other meat,0.0,0.0,0.0,1.0
 1301,Meat,T,LV,2012,12.0,Other meat,0.0,0.0,0.0,1.0
 1302,Meat,T,LV,2013,10.0,Other meat,0.0,0.0,0.0,1.0
 1303,Meat,T,LV,2014,11.0,Other meat,0.0,0.0,0.0,1.0
@@ -1323,7 +1323,7 @@
 1321,Meat,T,RS,2017,0.0,Other meat,0.0,0.0,0.0,1.0
 1322,Meat,T,RS,2018,0.0,Other meat,0.0,0.0,0.0,1.0
 1323,Meat,T,RS,2019,0.0,Other meat,0.0,0.0,0.0,1.0
-1324,Meat,T,SE,2014,,Other meat,0.0,0.0,0.0,1.0
+1324,Meat,T,SE,2014,0.0,Other meat,0.0,0.0,0.0,1.0
 1325,Meat,T,SI,2012,0.0,Other meat,0.0,0.0,0.0,1.0
 1326,Meat,T,SI,2014,0.0,Other meat,0.0,0.0,0.0,1.0
 1327,Meat,T,SI,2015,7.0,Other meat,0.0,0.0,0.0,1.0
@@ -1738,16 +1738,16 @@
 1736,Dairy,T,LT,2019,75862.0,Raw cows milk,1.0,0.0,0.0,0.0
 1737,Dairy,T,LT,2020,74633.0,Raw cows milk,1.0,0.0,0.0,0.0
 1738,Dairy,T,LT,2021,82865.0,Raw cows milk,1.0,0.0,0.0,0.0
-1739,Dairy,T,LU,2012,,Raw cows milk,1.0,0.0,0.0,0.0
-1740,Dairy,T,LU,2013,,Raw cows milk,1.0,0.0,0.0,0.0
-1741,Dairy,T,LU,2014,,Raw cows milk,1.0,0.0,0.0,0.0
-1742,Dairy,T,LU,2015,,Raw cows milk,1.0,0.0,0.0,0.0
-1743,Dairy,T,LU,2016,,Raw cows milk,1.0,0.0,0.0,0.0
-1744,Dairy,T,LU,2017,,Raw cows milk,1.0,0.0,0.0,0.0
-1745,Dairy,T,LU,2018,,Raw cows milk,1.0,0.0,0.0,0.0
-1746,Dairy,T,LU,2019,,Raw cows milk,1.0,0.0,0.0,0.0
-1747,Dairy,T,LU,2020,,Raw cows milk,1.0,0.0,0.0,0.0
-1748,Dairy,T,LU,2021,,Raw cows milk,1.0,0.0,0.0,0.0
+1739,Dairy,T,LU,2012,0.0,Raw cows milk,1.0,0.0,0.0,0.0
+1740,Dairy,T,LU,2013,0.0,Raw cows milk,1.0,0.0,0.0,0.0
+1741,Dairy,T,LU,2014,0.0,Raw cows milk,1.0,0.0,0.0,0.0
+1742,Dairy,T,LU,2015,0.0,Raw cows milk,1.0,0.0,0.0,0.0
+1743,Dairy,T,LU,2016,0.0,Raw cows milk,1.0,0.0,0.0,0.0
+1744,Dairy,T,LU,2017,0.0,Raw cows milk,1.0,0.0,0.0,0.0
+1745,Dairy,T,LU,2018,0.0,Raw cows milk,1.0,0.0,0.0,0.0
+1746,Dairy,T,LU,2019,0.0,Raw cows milk,1.0,0.0,0.0,0.0
+1747,Dairy,T,LU,2020,0.0,Raw cows milk,1.0,0.0,0.0,0.0
+1748,Dairy,T,LU,2021,0.0,Raw cows milk,1.0,0.0,0.0,0.0
 1749,Dairy,T,LV,2012,68981.0,Raw cows milk,1.0,0.0,0.0,0.0
 1750,Dairy,T,LV,2013,69717.0,Raw cows milk,1.0,0.0,0.0,0.0
 1751,Dairy,T,LV,2014,75020.0,Raw cows milk,1.0,0.0,0.0,0.0
@@ -1868,12 +1868,12 @@
 1866,Dairy,T,CZ,2019,10.0,Ewes milk,1.0,0.0,0.0,0.0
 1867,Dairy,T,CZ,2020,11.0,Ewes milk,1.0,0.0,0.0,0.0
 1868,Dairy,T,CZ,2021,35.0,Ewes milk,1.0,0.0,0.0,0.0
-1869,Dairy,T,DE,2021,,Ewes milk,1.0,0.0,0.0,0.0
-1870,Dairy,T,DK,2014,,Ewes milk,1.0,0.0,0.0,0.0
-1871,Dairy,T,DK,2015,,Ewes milk,1.0,0.0,0.0,0.0
-1872,Dairy,T,DK,2016,,Ewes milk,1.0,0.0,0.0,0.0
-1873,Dairy,T,DK,2017,,Ewes milk,1.0,0.0,0.0,0.0
-1874,Dairy,T,DK,2018,,Ewes milk,1.0,0.0,0.0,0.0
+1869,Dairy,T,DE,2021,0.0,Ewes milk,1.0,0.0,0.0,0.0
+1870,Dairy,T,DK,2014,0.0,Ewes milk,1.0,0.0,0.0,0.0
+1871,Dairy,T,DK,2015,0.0,Ewes milk,1.0,0.0,0.0,0.0
+1872,Dairy,T,DK,2016,0.0,Ewes milk,1.0,0.0,0.0,0.0
+1873,Dairy,T,DK,2017,0.0,Ewes milk,1.0,0.0,0.0,0.0
+1874,Dairy,T,DK,2018,0.0,Ewes milk,1.0,0.0,0.0,0.0
 1875,Dairy,T,EE,2021,0.0,Ewes milk,1.0,0.0,0.0,0.0
 1876,Dairy,T,ES,2012,1056.0,Ewes milk,1.0,0.0,0.0,0.0
 1877,Dairy,T,ES,2013,1111.0,Ewes milk,1.0,0.0,0.0,0.0
@@ -1885,9 +1885,9 @@
 1883,Dairy,T,ES,2019,3338.0,Ewes milk,1.0,0.0,0.0,0.0
 1884,Dairy,T,ES,2020,5583.0,Ewes milk,1.0,0.0,0.0,0.0
 1885,Dairy,T,ES,2021,7055.0,Ewes milk,1.0,0.0,0.0,0.0
-1886,Dairy,T,FI,2015,,Ewes milk,1.0,0.0,0.0,0.0
-1887,Dairy,T,FI,2016,,Ewes milk,1.0,0.0,0.0,0.0
-1888,Dairy,T,FI,2017,,Ewes milk,1.0,0.0,0.0,0.0
+1886,Dairy,T,FI,2015,0.0,Ewes milk,1.0,0.0,0.0,0.0
+1887,Dairy,T,FI,2016,0.0,Ewes milk,1.0,0.0,0.0,0.0
+1888,Dairy,T,FI,2017,0.0,Ewes milk,1.0,0.0,0.0,0.0
 1889,Dairy,T,FI,2018,0.0,Ewes milk,1.0,0.0,0.0,0.0
 1890,Dairy,T,FI,2019,0.0,Ewes milk,1.0,0.0,0.0,0.0
 1891,Dairy,T,FI,2020,0.0,Ewes milk,1.0,0.0,0.0,0.0
@@ -1965,7 +1965,7 @@
 1963,Dairy,T,RS,2017,0.0,Ewes milk,1.0,0.0,0.0,0.0
 1964,Dairy,T,RS,2018,10.0,Ewes milk,1.0,0.0,0.0,0.0
 1965,Dairy,T,RS,2019,21.0,Ewes milk,1.0,0.0,0.0,0.0
-1966,Dairy,T,SE,2014,,Ewes milk,1.0,0.0,0.0,0.0
+1966,Dairy,T,SE,2014,0.0,Ewes milk,1.0,0.0,0.0,0.0
 1967,Dairy,T,SE,2021,0.0,Ewes milk,1.0,0.0,0.0,0.0
 1968,Dairy,T,SI,2012,117.0,Ewes milk,1.0,0.0,0.0,0.0
 1969,Dairy,T,SI,2013,128.0,Ewes milk,1.0,0.0,0.0,0.0
@@ -2021,12 +2021,12 @@
 2019,Dairy,T,CZ,2019,109.0,Goats milk,1.0,0.0,0.0,0.0
 2020,Dairy,T,CZ,2020,121.0,Goats milk,1.0,0.0,0.0,0.0
 2021,Dairy,T,CZ,2021,151.0,Goats milk,1.0,0.0,0.0,0.0
-2022,Dairy,T,DE,2021,,Goats milk,1.0,0.0,0.0,0.0
-2023,Dairy,T,DK,2014,,Goats milk,1.0,0.0,0.0,0.0
-2024,Dairy,T,DK,2015,,Goats milk,1.0,0.0,0.0,0.0
-2025,Dairy,T,DK,2016,,Goats milk,1.0,0.0,0.0,0.0
-2026,Dairy,T,DK,2017,,Goats milk,1.0,0.0,0.0,0.0
-2027,Dairy,T,DK,2018,,Goats milk,1.0,0.0,0.0,0.0
+2022,Dairy,T,DE,2021,0.0,Goats milk,1.0,0.0,0.0,0.0
+2023,Dairy,T,DK,2014,0.0,Goats milk,1.0,0.0,0.0,0.0
+2024,Dairy,T,DK,2015,0.0,Goats milk,1.0,0.0,0.0,0.0
+2025,Dairy,T,DK,2016,0.0,Goats milk,1.0,0.0,0.0,0.0
+2026,Dairy,T,DK,2017,0.0,Goats milk,1.0,0.0,0.0,0.0
+2027,Dairy,T,DK,2018,0.0,Goats milk,1.0,0.0,0.0,0.0
 2028,Dairy,T,EE,2012,94.0,Goats milk,1.0,0.0,0.0,0.0
 2029,Dairy,T,EE,2013,85.0,Goats milk,1.0,0.0,0.0,0.0
 2030,Dairy,T,EE,2014,116.0,Goats milk,1.0,0.0,0.0,0.0
@@ -2047,9 +2047,9 @@
 2045,Dairy,T,ES,2019,12376.0,Goats milk,1.0,0.0,0.0,0.0
 2046,Dairy,T,ES,2020,14445.0,Goats milk,1.0,0.0,0.0,0.0
 2047,Dairy,T,ES,2021,16682.0,Goats milk,1.0,0.0,0.0,0.0
-2048,Dairy,T,FI,2015,,Goats milk,1.0,0.0,0.0,0.0
-2049,Dairy,T,FI,2016,,Goats milk,1.0,0.0,0.0,0.0
-2050,Dairy,T,FI,2017,,Goats milk,1.0,0.0,0.0,0.0
+2048,Dairy,T,FI,2015,0.0,Goats milk,1.0,0.0,0.0,0.0
+2049,Dairy,T,FI,2016,0.0,Goats milk,1.0,0.0,0.0,0.0
+2050,Dairy,T,FI,2017,0.0,Goats milk,1.0,0.0,0.0,0.0
 2051,Dairy,T,FR,2012,3216.0,Goats milk,1.0,0.0,0.0,0.0
 2052,Dairy,T,FR,2013,4300.0,Goats milk,1.0,0.0,0.0,0.0
 2053,Dairy,T,FR,2014,4246.0,Goats milk,1.0,0.0,0.0,0.0
@@ -2089,16 +2089,16 @@
 2087,Dairy,T,LT,2019,55.0,Goats milk,1.0,0.0,0.0,0.0
 2088,Dairy,T,LT,2020,36.0,Goats milk,1.0,0.0,0.0,0.0
 2089,Dairy,T,LT,2021,43.0,Goats milk,1.0,0.0,0.0,0.0
-2090,Dairy,T,LU,2012,,Goats milk,1.0,0.0,0.0,0.0
-2091,Dairy,T,LU,2013,,Goats milk,1.0,0.0,0.0,0.0
-2092,Dairy,T,LU,2014,,Goats milk,1.0,0.0,0.0,0.0
-2093,Dairy,T,LU,2015,,Goats milk,1.0,0.0,0.0,0.0
-2094,Dairy,T,LU,2016,,Goats milk,1.0,0.0,0.0,0.0
-2095,Dairy,T,LU,2017,,Goats milk,1.0,0.0,0.0,0.0
-2096,Dairy,T,LU,2018,,Goats milk,1.0,0.0,0.0,0.0
-2097,Dairy,T,LU,2019,,Goats milk,1.0,0.0,0.0,0.0
-2098,Dairy,T,LU,2020,,Goats milk,1.0,0.0,0.0,0.0
-2099,Dairy,T,LU,2021,,Goats milk,1.0,0.0,0.0,0.0
+2090,Dairy,T,LU,2012,0.0,Goats milk,1.0,0.0,0.0,0.0
+2091,Dairy,T,LU,2013,0.0,Goats milk,1.0,0.0,0.0,0.0
+2092,Dairy,T,LU,2014,0.0,Goats milk,1.0,0.0,0.0,0.0
+2093,Dairy,T,LU,2015,0.0,Goats milk,1.0,0.0,0.0,0.0
+2094,Dairy,T,LU,2016,0.0,Goats milk,1.0,0.0,0.0,0.0
+2095,Dairy,T,LU,2017,0.0,Goats milk,1.0,0.0,0.0,0.0
+2096,Dairy,T,LU,2018,0.0,Goats milk,1.0,0.0,0.0,0.0
+2097,Dairy,T,LU,2019,0.0,Goats milk,1.0,0.0,0.0,0.0
+2098,Dairy,T,LU,2020,0.0,Goats milk,1.0,0.0,0.0,0.0
+2099,Dairy,T,LU,2021,0.0,Goats milk,1.0,0.0,0.0,0.0
 2100,Dairy,T,LV,2012,203.0,Goats milk,1.0,0.0,0.0,0.0
 2101,Dairy,T,LV,2013,283.0,Goats milk,1.0,0.0,0.0,0.0
 2102,Dairy,T,LV,2014,119.0,Goats milk,1.0,0.0,0.0,0.0
@@ -2148,7 +2148,7 @@
 2146,Dairy,T,RS,2017,0.0,Goats milk,1.0,0.0,0.0,0.0
 2147,Dairy,T,RS,2018,0.0,Goats milk,1.0,0.0,0.0,0.0
 2148,Dairy,T,RS,2019,0.0,Goats milk,1.0,0.0,0.0,0.0
-2149,Dairy,T,SE,2014,,Goats milk,1.0,0.0,0.0,0.0
+2149,Dairy,T,SE,2014,0.0,Goats milk,1.0,0.0,0.0,0.0
 2150,Dairy,T,SE,2021,0.0,Goats milk,1.0,0.0,0.0,0.0
 2151,Dairy,T,SI,2012,122.0,Goats milk,1.0,0.0,0.0,0.0
 2152,Dairy,T,SI,2013,144.0,Goats milk,1.0,0.0,0.0,0.0
@@ -2262,12 +2262,12 @@
 2260,Dairy,T,ES,2020,26898.0,Drinking milk,1.0,0.0,0.0,0.0
 2261,Dairy,T,ES,2021,27515.0,Drinking milk,1.0,0.0,0.0,0.0
 2262,Dairy,T,FI,2012,16862.0,Drinking milk,1.0,0.0,0.0,0.0
-2263,Dairy,T,FI,2015,,Drinking milk,1.0,0.0,0.0,0.0
-2264,Dairy,T,FI,2016,,Drinking milk,1.0,0.0,0.0,0.0
-2265,Dairy,T,FI,2017,,Drinking milk,1.0,0.0,0.0,0.0
-2266,Dairy,T,FI,2018,,Drinking milk,1.0,0.0,0.0,0.0
-2267,Dairy,T,FI,2019,,Drinking milk,1.0,0.0,0.0,0.0
-2268,Dairy,T,FI,2020,,Drinking milk,1.0,0.0,0.0,0.0
+2263,Dairy,T,FI,2015,0.0,Drinking milk,1.0,0.0,0.0,0.0
+2264,Dairy,T,FI,2016,0.0,Drinking milk,1.0,0.0,0.0,0.0
+2265,Dairy,T,FI,2017,0.0,Drinking milk,1.0,0.0,0.0,0.0
+2266,Dairy,T,FI,2018,0.0,Drinking milk,1.0,0.0,0.0,0.0
+2267,Dairy,T,FI,2019,0.0,Drinking milk,1.0,0.0,0.0,0.0
+2268,Dairy,T,FI,2020,0.0,Drinking milk,1.0,0.0,0.0,0.0
 2269,Dairy,T,FR,2012,197408.0,Drinking milk,1.0,0.0,0.0,0.0
 2270,Dairy,T,FR,2013,217473.0,Drinking milk,1.0,0.0,0.0,0.0
 2271,Dairy,T,FR,2014,245604.0,Drinking milk,1.0,0.0,0.0,0.0
@@ -2318,10 +2318,10 @@
 2316,Dairy,T,LT,2019,2867.0,Drinking milk,1.0,0.0,0.0,0.0
 2317,Dairy,T,LT,2020,2691.0,Drinking milk,1.0,0.0,0.0,0.0
 2318,Dairy,T,LT,2021,3253.0,Drinking milk,1.0,0.0,0.0,0.0
-2319,Dairy,T,LU,2012,,Drinking milk,1.0,0.0,0.0,0.0
-2320,Dairy,T,LU,2013,,Drinking milk,1.0,0.0,0.0,0.0
-2321,Dairy,T,LU,2014,,Drinking milk,1.0,0.0,0.0,0.0
-2322,Dairy,T,LU,2015,,Drinking milk,1.0,0.0,0.0,0.0
+2319,Dairy,T,LU,2012,0.0,Drinking milk,1.0,0.0,0.0,0.0
+2320,Dairy,T,LU,2013,0.0,Drinking milk,1.0,0.0,0.0,0.0
+2321,Dairy,T,LU,2014,0.0,Drinking milk,1.0,0.0,0.0,0.0
+2322,Dairy,T,LU,2015,0.0,Drinking milk,1.0,0.0,0.0,0.0
 2323,Dairy,T,LU,2016,1178.0,Drinking milk,1.0,0.0,0.0,0.0
 2324,Dairy,T,LU,2017,1281.0,Drinking milk,1.0,0.0,0.0,0.0
 2325,Dairy,T,LU,2018,1455.0,Drinking milk,1.0,0.0,0.0,0.0
@@ -2495,10 +2495,10 @@
 2493,Dairy,T,ES,2019,14.0,Cream ,1.0,0.0,0.0,0.0
 2494,Dairy,T,ES,2020,15.0,Cream ,1.0,0.0,0.0,0.0
 2495,Dairy,T,ES,2021,95.0,Cream ,1.0,0.0,0.0,0.0
-2496,Dairy,T,FI,2015,,Cream ,1.0,0.0,0.0,0.0
-2497,Dairy,T,FI,2016,,Cream ,1.0,0.0,0.0,0.0
-2498,Dairy,T,FI,2017,,Cream ,1.0,0.0,0.0,0.0
-2499,Dairy,T,FI,2018,,Cream ,1.0,0.0,0.0,0.0
+2496,Dairy,T,FI,2015,0.0,Cream ,1.0,0.0,0.0,0.0
+2497,Dairy,T,FI,2016,0.0,Cream ,1.0,0.0,0.0,0.0
+2498,Dairy,T,FI,2017,0.0,Cream ,1.0,0.0,0.0,0.0
+2499,Dairy,T,FI,2018,0.0,Cream ,1.0,0.0,0.0,0.0
 2500,Dairy,T,FR,2012,2320.0,Cream ,1.0,0.0,0.0,0.0
 2501,Dairy,T,FR,2013,2363.0,Cream ,1.0,0.0,0.0,0.0
 2502,Dairy,T,FR,2014,3521.0,Cream ,1.0,0.0,0.0,0.0
@@ -2544,20 +2544,20 @@
 2542,Dairy,T,LT,2015,0.0,Cream ,1.0,0.0,0.0,0.0
 2543,Dairy,T,LT,2016,0.0,Cream ,1.0,0.0,0.0,0.0
 2544,Dairy,T,LT,2017,0.0,Cream ,1.0,0.0,0.0,0.0
-2545,Dairy,T,LT,2018,,Cream ,1.0,0.0,0.0,0.0
-2546,Dairy,T,LT,2019,,Cream ,1.0,0.0,0.0,0.0
-2547,Dairy,T,LT,2020,,Cream ,1.0,0.0,0.0,0.0
-2548,Dairy,T,LT,2021,,Cream ,1.0,0.0,0.0,0.0
-2549,Dairy,T,LU,2012,,Cream ,1.0,0.0,0.0,0.0
-2550,Dairy,T,LU,2013,,Cream ,1.0,0.0,0.0,0.0
-2551,Dairy,T,LU,2014,,Cream ,1.0,0.0,0.0,0.0
+2545,Dairy,T,LT,2018,0.0,Cream ,1.0,0.0,0.0,0.0
+2546,Dairy,T,LT,2019,0.0,Cream ,1.0,0.0,0.0,0.0
+2547,Dairy,T,LT,2020,0.0,Cream ,1.0,0.0,0.0,0.0
+2548,Dairy,T,LT,2021,0.0,Cream ,1.0,0.0,0.0,0.0
+2549,Dairy,T,LU,2012,0.0,Cream ,1.0,0.0,0.0,0.0
+2550,Dairy,T,LU,2013,0.0,Cream ,1.0,0.0,0.0,0.0
+2551,Dairy,T,LU,2014,0.0,Cream ,1.0,0.0,0.0,0.0
 2552,Dairy,T,LU,2015,0.0,Cream ,1.0,0.0,0.0,0.0
-2553,Dairy,T,LU,2016,,Cream ,1.0,0.0,0.0,0.0
-2554,Dairy,T,LU,2017,,Cream ,1.0,0.0,0.0,0.0
-2555,Dairy,T,LU,2018,,Cream ,1.0,0.0,0.0,0.0
-2556,Dairy,T,LU,2019,,Cream ,1.0,0.0,0.0,0.0
-2557,Dairy,T,LU,2020,,Cream ,1.0,0.0,0.0,0.0
-2558,Dairy,T,LU,2021,,Cream ,1.0,0.0,0.0,0.0
+2553,Dairy,T,LU,2016,0.0,Cream ,1.0,0.0,0.0,0.0
+2554,Dairy,T,LU,2017,0.0,Cream ,1.0,0.0,0.0,0.0
+2555,Dairy,T,LU,2018,0.0,Cream ,1.0,0.0,0.0,0.0
+2556,Dairy,T,LU,2019,0.0,Cream ,1.0,0.0,0.0,0.0
+2557,Dairy,T,LU,2020,0.0,Cream ,1.0,0.0,0.0,0.0
+2558,Dairy,T,LU,2021,0.0,Cream ,1.0,0.0,0.0,0.0
 2559,Dairy,T,LV,2012,0.0,Cream ,1.0,0.0,0.0,0.0
 2560,Dairy,T,LV,2013,0.0,Cream ,1.0,0.0,0.0,0.0
 2561,Dairy,T,LV,2014,0.0,Cream ,1.0,0.0,0.0,0.0
@@ -2737,10 +2737,10 @@
 2735,Dairy,T,ES,2019,3094.0,yoghurts and other,1.0,0.0,0.0,0.0
 2736,Dairy,T,ES,2020,3236.0,yoghurts and other,1.0,0.0,0.0,0.0
 2737,Dairy,T,ES,2021,2852.0,yoghurts and other,1.0,0.0,0.0,0.0
-2738,Dairy,T,FI,2015,,yoghurts and other,1.0,0.0,0.0,0.0
-2739,Dairy,T,FI,2016,,yoghurts and other,1.0,0.0,0.0,0.0
-2740,Dairy,T,FI,2017,,yoghurts and other,1.0,0.0,0.0,0.0
-2741,Dairy,T,FI,2018,,yoghurts and other,1.0,0.0,0.0,0.0
+2738,Dairy,T,FI,2015,0.0,yoghurts and other,1.0,0.0,0.0,0.0
+2739,Dairy,T,FI,2016,0.0,yoghurts and other,1.0,0.0,0.0,0.0
+2740,Dairy,T,FI,2017,0.0,yoghurts and other,1.0,0.0,0.0,0.0
+2741,Dairy,T,FI,2018,0.0,yoghurts and other,1.0,0.0,0.0,0.0
 2742,Dairy,T,FR,2012,46223.0,yoghurts and other,1.0,0.0,0.0,0.0
 2743,Dairy,T,FR,2013,51380.0,yoghurts and other,1.0,0.0,0.0,0.0
 2744,Dairy,T,FR,2014,49054.0,yoghurts and other,1.0,0.0,0.0,0.0
@@ -2782,7 +2782,7 @@
 2780,Dairy,T,IT,2014,0.0,yoghurts and other,1.0,0.0,0.0,0.0
 2781,Dairy,T,IT,2015,0.0,yoghurts and other,1.0,0.0,0.0,0.0
 2782,Dairy,T,IT,2016,0.0,yoghurts and other,1.0,0.0,0.0,0.0
-2783,Dairy,T,LT,2014,,yoghurts and other,1.0,0.0,0.0,0.0
+2783,Dairy,T,LT,2014,0.0,yoghurts and other,1.0,0.0,0.0,0.0
 2784,Dairy,T,LT,2015,2587.0,yoghurts and other,1.0,0.0,0.0,0.0
 2785,Dairy,T,LT,2016,2572.0,yoghurts and other,1.0,0.0,0.0,0.0
 2786,Dairy,T,LT,2017,2639.0,yoghurts and other,1.0,0.0,0.0,0.0
@@ -2790,16 +2790,16 @@
 2788,Dairy,T,LT,2019,3476.0,yoghurts and other,1.0,0.0,0.0,0.0
 2789,Dairy,T,LT,2020,3331.0,yoghurts and other,1.0,0.0,0.0,0.0
 2790,Dairy,T,LT,2021,3543.0,yoghurts and other,1.0,0.0,0.0,0.0
-2791,Dairy,T,LU,2012,,yoghurts and other,1.0,0.0,0.0,0.0
-2792,Dairy,T,LU,2013,,yoghurts and other,1.0,0.0,0.0,0.0
-2793,Dairy,T,LU,2014,,yoghurts and other,1.0,0.0,0.0,0.0
-2794,Dairy,T,LU,2015,,yoghurts and other,1.0,0.0,0.0,0.0
-2795,Dairy,T,LU,2016,,yoghurts and other,1.0,0.0,0.0,0.0
-2796,Dairy,T,LU,2017,,yoghurts and other,1.0,0.0,0.0,0.0
-2797,Dairy,T,LU,2018,,yoghurts and other,1.0,0.0,0.0,0.0
-2798,Dairy,T,LU,2019,,yoghurts and other,1.0,0.0,0.0,0.0
-2799,Dairy,T,LU,2020,,yoghurts and other,1.0,0.0,0.0,0.0
-2800,Dairy,T,LU,2021,,yoghurts and other,1.0,0.0,0.0,0.0
+2791,Dairy,T,LU,2012,0.0,yoghurts and other,1.0,0.0,0.0,0.0
+2792,Dairy,T,LU,2013,0.0,yoghurts and other,1.0,0.0,0.0,0.0
+2793,Dairy,T,LU,2014,0.0,yoghurts and other,1.0,0.0,0.0,0.0
+2794,Dairy,T,LU,2015,0.0,yoghurts and other,1.0,0.0,0.0,0.0
+2795,Dairy,T,LU,2016,0.0,yoghurts and other,1.0,0.0,0.0,0.0
+2796,Dairy,T,LU,2017,0.0,yoghurts and other,1.0,0.0,0.0,0.0
+2797,Dairy,T,LU,2018,0.0,yoghurts and other,1.0,0.0,0.0,0.0
+2798,Dairy,T,LU,2019,0.0,yoghurts and other,1.0,0.0,0.0,0.0
+2799,Dairy,T,LU,2020,0.0,yoghurts and other,1.0,0.0,0.0,0.0
+2800,Dairy,T,LU,2021,0.0,yoghurts and other,1.0,0.0,0.0,0.0
 2801,Dairy,T,LV,2012,0.0,yoghurts and other,1.0,0.0,0.0,0.0
 2802,Dairy,T,LV,2013,0.0,yoghurts and other,1.0,0.0,0.0,0.0
 2803,Dairy,T,LV,2014,0.0,yoghurts and other,1.0,0.0,0.0,0.0
@@ -2988,10 +2988,10 @@
 2986,Dairy,T,ES,2019,15.0,Butter,1.0,0.0,0.0,0.0
 2987,Dairy,T,ES,2020,19.0,Butter,1.0,0.0,0.0,0.0
 2988,Dairy,T,ES,2021,21.0,Butter,1.0,0.0,0.0,0.0
-2989,Dairy,T,FI,2015,,Butter,1.0,0.0,0.0,0.0
-2990,Dairy,T,FI,2016,,Butter,1.0,0.0,0.0,0.0
-2991,Dairy,T,FI,2017,,Butter,1.0,0.0,0.0,0.0
-2992,Dairy,T,FI,2018,,Butter,1.0,0.0,0.0,0.0
+2989,Dairy,T,FI,2015,0.0,Butter,1.0,0.0,0.0,0.0
+2990,Dairy,T,FI,2016,0.0,Butter,1.0,0.0,0.0,0.0
+2991,Dairy,T,FI,2017,0.0,Butter,1.0,0.0,0.0,0.0
+2992,Dairy,T,FI,2018,0.0,Butter,1.0,0.0,0.0,0.0
 2993,Dairy,T,FR,2012,6663.0,Butter,1.0,0.0,0.0,0.0
 2994,Dairy,T,FR,2013,7357.0,Butter,1.0,0.0,0.0,0.0
 2995,Dairy,T,FR,2014,7938.0,Butter,1.0,0.0,0.0,0.0
@@ -3034,11 +3034,11 @@
 3032,Dairy,T,IT,2015,1.0,Butter,1.0,0.0,0.0,0.0
 3033,Dairy,T,IT,2016,1.0,Butter,1.0,0.0,0.0,0.0
 3034,Dairy,T,LT,2014,0.0,Butter,1.0,0.0,0.0,0.0
-3035,Dairy,T,LT,2016,,Butter,1.0,0.0,0.0,0.0
-3036,Dairy,T,LT,2017,,Butter,1.0,0.0,0.0,0.0
-3037,Dairy,T,LT,2018,,Butter,1.0,0.0,0.0,0.0
-3038,Dairy,T,LT,2019,,Butter,1.0,0.0,0.0,0.0
-3039,Dairy,T,LT,2020,,Butter,1.0,0.0,0.0,0.0
+3035,Dairy,T,LT,2016,0.0,Butter,1.0,0.0,0.0,0.0
+3036,Dairy,T,LT,2017,0.0,Butter,1.0,0.0,0.0,0.0
+3037,Dairy,T,LT,2018,0.0,Butter,1.0,0.0,0.0,0.0
+3038,Dairy,T,LT,2019,0.0,Butter,1.0,0.0,0.0,0.0
+3039,Dairy,T,LT,2020,0.0,Butter,1.0,0.0,0.0,0.0
 3040,Dairy,T,LT,2021,198.0,Butter,1.0,0.0,0.0,0.0
 3041,Dairy,T,LU,2012,0.0,Butter,1.0,0.0,0.0,0.0
 3042,Dairy,T,LU,2013,0.0,Butter,1.0,0.0,0.0,0.0
@@ -3120,13 +3120,13 @@
 3118,Dairy,T,RS,2020,20.0,Butter,1.0,0.0,0.0,0.0
 3119,Dairy,T,SE,2013,760.0,Butter,1.0,0.0,0.0,0.0
 3120,Dairy,T,SE,2014,722.0,Butter,1.0,0.0,0.0,0.0
-3121,Dairy,T,SE,2015,,Butter,1.0,0.0,0.0,0.0
-3122,Dairy,T,SE,2016,,Butter,1.0,0.0,0.0,0.0
-3123,Dairy,T,SE,2017,,Butter,1.0,0.0,0.0,0.0
-3124,Dairy,T,SE,2018,,Butter,1.0,0.0,0.0,0.0
-3125,Dairy,T,SE,2019,,Butter,1.0,0.0,0.0,0.0
-3126,Dairy,T,SE,2020,,Butter,1.0,0.0,0.0,0.0
-3127,Dairy,T,SE,2021,,Butter,1.0,0.0,0.0,0.0
+3121,Dairy,T,SE,2015,0.0,Butter,1.0,0.0,0.0,0.0
+3122,Dairy,T,SE,2016,0.0,Butter,1.0,0.0,0.0,0.0
+3123,Dairy,T,SE,2017,0.0,Butter,1.0,0.0,0.0,0.0
+3124,Dairy,T,SE,2018,0.0,Butter,1.0,0.0,0.0,0.0
+3125,Dairy,T,SE,2019,0.0,Butter,1.0,0.0,0.0,0.0
+3126,Dairy,T,SE,2020,0.0,Butter,1.0,0.0,0.0,0.0
+3127,Dairy,T,SE,2021,0.0,Butter,1.0,0.0,0.0,0.0
 3128,Dairy,T,SI,2012,0.0,Butter,1.0,0.0,0.0,0.0
 3129,Dairy,T,SI,2013,1.0,Butter,1.0,0.0,0.0,0.0
 3130,Dairy,T,SI,2014,1.0,Butter,1.0,0.0,0.0,0.0
@@ -3240,10 +3240,10 @@
 3238,Dairy,T,ES,2019,739.0,Cheese,1.0,0.0,0.0,0.0
 3239,Dairy,T,ES,2020,752.0,Cheese,1.0,0.0,0.0,0.0
 3240,Dairy,T,ES,2021,1996.0,Cheese,1.0,0.0,0.0,0.0
-3241,Dairy,T,FI,2015,,Cheese,1.0,0.0,0.0,0.0
-3242,Dairy,T,FI,2016,,Cheese,1.0,0.0,0.0,0.0
-3243,Dairy,T,FI,2017,,Cheese,1.0,0.0,0.0,0.0
-3244,Dairy,T,FI,2018,,Cheese,1.0,0.0,0.0,0.0
+3241,Dairy,T,FI,2015,0.0,Cheese,1.0,0.0,0.0,0.0
+3242,Dairy,T,FI,2016,0.0,Cheese,1.0,0.0,0.0,0.0
+3243,Dairy,T,FI,2017,0.0,Cheese,1.0,0.0,0.0,0.0
+3244,Dairy,T,FI,2018,0.0,Cheese,1.0,0.0,0.0,0.0
 3245,Dairy,T,FR,2012,16588.0,Cheese,1.0,0.0,0.0,0.0
 3246,Dairy,T,FR,2013,18076.0,Cheese,1.0,0.0,0.0,0.0
 3247,Dairy,T,FR,2014,19385.0,Cheese,1.0,0.0,0.0,0.0
@@ -3289,7 +3289,7 @@
 3287,Dairy,T,IT,2014,20520.0,Cheese,1.0,0.0,0.0,0.0
 3288,Dairy,T,IT,2015,14635.0,Cheese,1.0,0.0,0.0,0.0
 3289,Dairy,T,IT,2016,16440.0,Cheese,1.0,0.0,0.0,0.0
-3290,Dairy,T,LT,2014,,Cheese,1.0,0.0,0.0,0.0
+3290,Dairy,T,LT,2014,0.0,Cheese,1.0,0.0,0.0,0.0
 3291,Dairy,T,LT,2015,805.0,Cheese,1.0,0.0,0.0,0.0
 3292,Dairy,T,LT,2016,990.0,Cheese,1.0,0.0,0.0,0.0
 3293,Dairy,T,LT,2017,1280.0,Cheese,1.0,0.0,0.0,0.0
@@ -3297,16 +3297,16 @@
 3295,Dairy,T,LT,2019,1249.0,Cheese,1.0,0.0,0.0,0.0
 3296,Dairy,T,LT,2020,1514.0,Cheese,1.0,0.0,0.0,0.0
 3297,Dairy,T,LT,2021,1619.0,Cheese,1.0,0.0,0.0,0.0
-3298,Dairy,T,LU,2012,,Cheese,1.0,0.0,0.0,0.0
-3299,Dairy,T,LU,2013,,Cheese,1.0,0.0,0.0,0.0
-3300,Dairy,T,LU,2014,,Cheese,1.0,0.0,0.0,0.0
-3301,Dairy,T,LU,2015,,Cheese,1.0,0.0,0.0,0.0
-3302,Dairy,T,LU,2016,,Cheese,1.0,0.0,0.0,0.0
-3303,Dairy,T,LU,2017,,Cheese,1.0,0.0,0.0,0.0
-3304,Dairy,T,LU,2018,,Cheese,1.0,0.0,0.0,0.0
-3305,Dairy,T,LU,2019,,Cheese,1.0,0.0,0.0,0.0
-3306,Dairy,T,LU,2020,,Cheese,1.0,0.0,0.0,0.0
-3307,Dairy,T,LU,2021,,Cheese,1.0,0.0,0.0,0.0
+3298,Dairy,T,LU,2012,0.0,Cheese,1.0,0.0,0.0,0.0
+3299,Dairy,T,LU,2013,0.0,Cheese,1.0,0.0,0.0,0.0
+3300,Dairy,T,LU,2014,0.0,Cheese,1.0,0.0,0.0,0.0
+3301,Dairy,T,LU,2015,0.0,Cheese,1.0,0.0,0.0,0.0
+3302,Dairy,T,LU,2016,0.0,Cheese,1.0,0.0,0.0,0.0
+3303,Dairy,T,LU,2017,0.0,Cheese,1.0,0.0,0.0,0.0
+3304,Dairy,T,LU,2018,0.0,Cheese,1.0,0.0,0.0,0.0
+3305,Dairy,T,LU,2019,0.0,Cheese,1.0,0.0,0.0,0.0
+3306,Dairy,T,LU,2020,0.0,Cheese,1.0,0.0,0.0,0.0
+3307,Dairy,T,LU,2021,0.0,Cheese,1.0,0.0,0.0,0.0
 3308,Dairy,T,LV,2012,0.0,Cheese,1.0,0.0,0.0,0.0
 3309,Dairy,T,LV,2013,0.0,Cheese,1.0,0.0,0.0,0.0
 3310,Dairy,T,LV,2014,0.0,Cheese,1.0,0.0,0.0,0.0
@@ -3381,8 +3381,8 @@
 3379,Dairy,T,SE,2017,1661.0,Cheese,1.0,0.0,0.0,0.0
 3380,Dairy,T,SE,2018,1600.0,Cheese,1.0,0.0,0.0,0.0
 3381,Dairy,T,SE,2019,1430.0,Cheese,1.0,0.0,0.0,0.0
-3382,Dairy,T,SE,2020,,Cheese,1.0,0.0,0.0,0.0
-3383,Dairy,T,SE,2021,,Cheese,1.0,0.0,0.0,0.0
+3382,Dairy,T,SE,2020,0.0,Cheese,1.0,0.0,0.0,0.0
+3383,Dairy,T,SE,2021,0.0,Cheese,1.0,0.0,0.0,0.0
 3384,Dairy,T,SI,2012,64.0,Cheese,1.0,0.0,0.0,0.0
 3385,Dairy,T,SI,2013,89.0,Cheese,1.0,0.0,0.0,0.0
 3386,Dairy,T,SI,2014,70.0,Cheese,1.0,0.0,0.0,0.0
@@ -3720,10 +3720,10 @@
 3718,Dairy,T,ES,2019,217.0,Other organic dairy products,1.0,0.0,0.0,0.0
 3719,Dairy,T,ES,2020,217.0,Other organic dairy products,1.0,0.0,0.0,0.0
 3720,Dairy,T,ES,2021,700.0,Other organic dairy products,1.0,0.0,0.0,0.0
-3721,Dairy,T,FI,2015,,Other organic dairy products,1.0,0.0,0.0,0.0
-3722,Dairy,T,FI,2016,,Other organic dairy products,1.0,0.0,0.0,0.0
-3723,Dairy,T,FI,2017,,Other organic dairy products,1.0,0.0,0.0,0.0
-3724,Dairy,T,FI,2018,,Other organic dairy products,1.0,0.0,0.0,0.0
+3721,Dairy,T,FI,2015,0.0,Other organic dairy products,1.0,0.0,0.0,0.0
+3722,Dairy,T,FI,2016,0.0,Other organic dairy products,1.0,0.0,0.0,0.0
+3723,Dairy,T,FI,2017,0.0,Other organic dairy products,1.0,0.0,0.0,0.0
+3724,Dairy,T,FI,2018,0.0,Other organic dairy products,1.0,0.0,0.0,0.0
 3725,Dairy,T,FR,2018,14482.0,Other organic dairy products,1.0,0.0,0.0,0.0
 3726,Dairy,T,FR,2019,15612.0,Other organic dairy products,1.0,0.0,0.0,0.0
 3727,Dairy,T,FR,2020,15718.0,Other organic dairy products,1.0,0.0,0.0,0.0
@@ -3748,7 +3748,7 @@
 3746,Dairy,T,LU,2018,0.0,Other organic dairy products,1.0,0.0,0.0,0.0
 3747,Dairy,T,LU,2019,0.0,Other organic dairy products,1.0,0.0,0.0,0.0
 3748,Dairy,T,LU,2020,0.0,Other organic dairy products,1.0,0.0,0.0,0.0
-3749,Dairy,T,LU,2021,,Other organic dairy products,1.0,0.0,0.0,0.0
+3749,Dairy,T,LU,2021,0.0,Other organic dairy products,1.0,0.0,0.0,0.0
 3750,Dairy,T,LV,2012,0.0,Other organic dairy products,1.0,0.0,0.0,0.0
 3751,Dairy,T,LV,2013,0.0,Other organic dairy products,1.0,0.0,0.0,0.0
 3752,Dairy,T,LV,2014,0.0,Other organic dairy products,1.0,0.0,0.0,0.0
@@ -3844,9 +3844,9 @@
 3842,Honey,T,ES,2019,1133.0,Honey,0.0,0.0,1.0,0.0
 3843,Honey,T,ES,2020,1205.0,Honey,0.0,0.0,1.0,0.0
 3844,Honey,T,ES,2021,1206.0,Honey,0.0,0.0,1.0,0.0
-3845,Honey,T,FI,2016,,Honey,0.0,0.0,1.0,0.0
-3846,Honey,T,FI,2017,,Honey,0.0,0.0,1.0,0.0
-3847,Honey,T,FI,2018,,Honey,0.0,0.0,1.0,0.0
+3845,Honey,T,FI,2016,0.0,Honey,0.0,0.0,1.0,0.0
+3846,Honey,T,FI,2017,0.0,Honey,0.0,0.0,1.0,0.0
+3847,Honey,T,FI,2018,0.0,Honey,0.0,0.0,1.0,0.0
 3848,Honey,T,HR,2013,33.0,Honey,0.0,0.0,1.0,0.0
 3849,Honey,T,HR,2014,60.0,Honey,0.0,0.0,1.0,0.0
 3850,Honey,T,HR,2015,48.0,Honey,0.0,0.0,1.0,0.0
@@ -3870,9 +3870,9 @@
 3868,Honey,T,LT,2019,29.0,Honey,0.0,0.0,1.0,0.0
 3869,Honey,T,LT,2020,24.0,Honey,0.0,0.0,1.0,0.0
 3870,Honey,T,LT,2021,36.0,Honey,0.0,0.0,1.0,0.0
-3871,Honey,T,LU,2016,,Honey,0.0,0.0,1.0,0.0
-3872,Honey,T,LU,2017,,Honey,0.0,0.0,1.0,0.0
-3873,Honey,T,LU,2018,,Honey,0.0,0.0,1.0,0.0
+3871,Honey,T,LU,2016,0.0,Honey,0.0,0.0,1.0,0.0
+3872,Honey,T,LU,2017,0.0,Honey,0.0,0.0,1.0,0.0
+3873,Honey,T,LU,2018,0.0,Honey,0.0,0.0,1.0,0.0
 3874,Honey,T,LU,2021,7.0,Honey,0.0,0.0,1.0,0.0
 3875,Honey,T,LV,2012,250.0,Honey,0.0,0.0,1.0,0.0
 3876,Honey,T,LV,2013,226.0,Honey,0.0,0.0,1.0,0.0
